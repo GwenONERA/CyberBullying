@@ -36,12 +36,12 @@ optuna.logging.set_verbosity(optuna.logging.WARNING)
 # ═══════════════════════════════════════════════════════════════════════════
 #  CONFIGURATION
 # ═══════════════════════════════════════════════════════════════════════════
-SEED       = 42
+SEED       = 10
 MODEL_NAME = "Yanzhu/bertweetfr-base"
 P1_TRIALS  = 200       # frozen-embedding Optuna trials
 P2_TRIALS  = 40        # fine-tuning Optuna trials
 EVAL_SEEDS = [42, 123, 456, 789, 1024]
-EMB_BATCH  = 64        # batch size for embedding extraction
+EMB_BATCH  = 128        # batch size for embedding extraction
 NUM_LABELS = 3
 
 LAYER_KEYS = ["last", "last-1", "last-2", "last-3", "mean_last4", "concat_last4"]
