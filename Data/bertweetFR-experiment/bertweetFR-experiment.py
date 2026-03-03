@@ -162,12 +162,14 @@ print("="*72)
 def pool_hidden(hidden, attention_mask, pool_type):
     """Pool token-level hidden states → sentence embedding."""
     if pool_type == "cls":
-        return hidden[:, 0, :]                          # first token (<s>)
-    mask = attention_mask.unsqueeze(-1).float()          # (B, L, 1)
+        return hidden[:, 0, :]
+    mask = attention_mask.unsqueeze(-1).float()
     if pool_type == "mean":
         return (hidden * mask).sum(1) / mask.sum(1).clamp(min=1e-9)
     if pool_type == "max":
-        hidden = hidden.masked_fill(mask == 0, -1e9)
+        # Use dtype-aware minimum so it works under float16 autocast
+        fill_value = torch.finfo(hidden.dtype).min
+        hidden = hidden.masked_fill(mask == 0, fill_value)
         return hidden.max(dim=1).values
     raise ValueError(pool_type)
 
@@ -431,12 +433,14 @@ class BertClassifier(nn.Module):
             return_dict=True,
         )
         hs = out.hidden_states
-        agg = aggregate_layers(hs, self.layer_key)      # (B, L, D)
-        agg = self.proj(agg)                             # project if concat
+        agg = aggregate_layers(hs, self.layer_key)
+        agg = self.proj(agg)
 
         if self.attn_w is not None:                      # attention pooling
             scores = self.attn_w(agg).squeeze(-1)        # (B, L)
-            scores = scores.masked_fill(attention_mask == 0, -1e9)
+            # ── FIX: use dtype-aware min instead of -1e9 ──
+            fill_value = torch.finfo(scores.dtype).min
+            scores = scores.masked_fill(attention_mask == 0, fill_value)
             weights = torch.softmax(scores, dim=1).unsqueeze(-1)
             pooled = (agg * weights).sum(dim=1)
         else:
@@ -559,7 +563,7 @@ def phase2_objective(trial):
     lr_h = trial.suggest_float("lr_head", 5e-5, 5e-3, log=True)
     lr_e = trial.suggest_float("lr_enc",  1e-6, 5e-5, log=True)
     wd   = trial.suggest_float("weight_decay", 1e-6, 1e-2, log=True)
-    bs   = trial.suggest_categorical("batch_size", [32,64])
+    bs   = trial.suggest_categorical("batch_size", [32, 64])
     ep   = trial.suggest_int("epochs", 3, 10)
     wu   = trial.suggest_float("warmup_ratio", 0.0, 0.2)
     ls   = trial.suggest_float("label_smoothing", 0.0, 0.15)
@@ -577,10 +581,10 @@ def phase2_objective(trial):
         if trial.should_prune():
             raise optuna.TrialPruned()
     except RuntimeError as e:
-        if "out of memory" in str(e).lower():
-            gc.collect(); torch.cuda.empty_cache()
-            raise optuna.TrialPruned()
-        raise
+        # Catch OOM, overflow, and other CUDA errors gracefully
+        gc.collect()
+        torch.cuda.empty_cache() if USE_AMP else None
+        raise optuna.TrialPruned()
     return f1
 
 
