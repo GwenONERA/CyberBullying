@@ -1,0 +1,594 @@
+[
+  {
+    "source": "wesh",
+    "target": "salut",
+    "frequency": 1,
+    "example_contexts": [
+      "WESH silvia pk tu vien et tu fou la merde dans les couple"
+    ]
+  },
+  {
+    "source": "pk",
+    "target": "pourquoi",
+    "frequency": 2,
+    "example_contexts": [
+      "WESH silvia pk tu vien et tu fou la merde dans les couple",
+      "on arrete rien du tout pk elle assume pas cette salopeee"
+    ]
+  },
+  {
+    "source": "pécho",
+    "target": "choper",
+    "frequency": 1,
+    "example_contexts": [
+      "grave tu viens et tu pécho d'autre gars"
+    ]
+  },
+  {
+    "source": "meme",
+    "target": "même",
+    "frequency": 1,
+    "example_contexts": [
+      "vas y t'es tellement une pute que tu irai draguer meme les mecs de tes copines"
+    ]
+  },
+  {
+    "source": "nan",
+    "target": "non",
+    "frequency": 1,
+    "example_contexts": [
+      "nan mais les gars calmez vous quoi si lucas c'est lui la pute j'y peu rien"
+    ]
+  },
+  {
+    "source": "nudes",
+    "target": "photos dénudées",
+    "frequency": 1,
+    "example_contexts": [
+      "Lucas c'est mon meilleur je le connais tu lui a promis des nudes c'est pour ca quil ta embrassé il sortirait jamais avec une serbe et moche en plus"
+    ]
+  },
+  {
+    "source": "ca",
+    "target": "ça",
+    "frequency": 2,
+    "example_contexts": [
+      "Lucas c'est mon meilleur je le connais tu lui a promis des nudes c'est pour ca quil ta embrassé il sortirait jamais avec une serbe et moche en plus",
+      "commence pas a parler d elle comme ca"
+    ]
+  },
+  {
+    "source": "quil",
+    "target": "qu'il",
+    "frequency": 1,
+    "example_contexts": [
+      "Lucas c'est mon meilleur je le connais tu lui a promis des nudes c'est pour ca quil ta embrassé il sortirait jamais avec une serbe et moche en plus"
+    ]
+  },
+  {
+    "source": "ta",
+    "target": "t'a",
+    "frequency": 1,
+    "example_contexts": [
+      "Lucas c'est mon meilleur je le connais tu lui a promis des nudes c'est pour ca quil ta embrassé il sortirait jamais avec une serbe et moche en plus"
+    ]
+  },
+  {
+    "source": "ta",
+    "target": "t'as",
+    "frequency": 2,
+    "example_contexts": [
+      "qu'est ce ta helbert?",
+      "sylvia t vraiment la pire des grosses salope tu savait qu il été en couple est tu la embrassé ta aucun *e race"
+    ]
+  },
+  {
+    "source": "di",
+    "target": "dit",
+    "frequency": 1,
+    "example_contexts": [
+      "Lucas il ma di qu'il voulait pas rester avecc sophie"
+    ]
+  },
+  {
+    "source": "avecc",
+    "target": "avec",
+    "frequency": 1,
+    "example_contexts": [
+      "Lucas il ma di qu'il voulait pas rester avecc sophie"
+    ]
+  },
+  {
+    "source": ":@",
+    "target": "énervé",
+    "frequency": 1,
+    "example_contexts": [
+      "mon cul:@"
+    ]
+  },
+  {
+    "source": "mere",
+    "target": "mère",
+    "frequency": 4,
+    "example_contexts": [
+      "aller niquez vos mere",
+      "toi nike ta mere sallle pute",
+      "ta mere la reine des salope"
+    ]
+  },
+  {
+    "source": "nike",
+    "target": "nique",
+    "frequency": 1,
+    "example_contexts": [
+      "toi nike ta mere sallle pute"
+    ]
+  },
+  {
+    "source": "sallle",
+    "target": "sale",
+    "frequency": 1,
+    "example_contexts": [
+      "toi nike ta mere sallle pute"
+    ]
+  },
+  {
+    "source": "tjr",
+    "target": "toujours",
+    "frequency": 1,
+    "example_contexts": [
+      "lucas etait en couple et toi tu est tjr la tu fou la merde en plus tu savai"
+    ]
+  },
+  {
+    "source": "sa",
+    "target": "ça",
+    "frequency": 3,
+    "example_contexts": [
+      "sa ser a rien de le défendre t qune pute assumee suceuse",
+      "sa sert a r de se prendre la tete comme des enfants",
+      "non sa arrive pas elle ne peux pas se trouver un mec sans foutre le couple des autres en l'air !"
+    ]
+  },
+  {
+    "source": "ser",
+    "target": "sert",
+    "frequency": 1,
+    "example_contexts": [
+      "sa ser a rien de le défendre t qune pute assumee suceuse"
+    ]
+  },
+  {
+    "source": "a",
+    "target": "à",
+    "frequency": 3,
+    "example_contexts": [
+      "sa ser a rien de le défendre t qune pute assumee suceuse",
+      "sa sert a r de se prendre la tete comme des enfants",
+      "commence pas a parler d elle comme ca"
+    ]
+  },
+  {
+    "source": "t",
+    "target": "t'es",
+    "frequency": 2,
+    "example_contexts": [
+      "sa ser a rien de le défendre t qune pute assumee suceuse",
+      "sylvia t vraiment la pire des grosses salope tu savait qu il été en couple est tu la embrassé ta aucun *e race"
+    ]
+  },
+  {
+    "source": "t",
+    "target": "tu",
+    "frequency": 2,
+    "example_contexts": [
+      "t as vu ce que t as fait a la soiré sale pute"
+    ]
+  },
+  {
+    "source": "t",
+    "target": "tu es",
+    "frequency": 2,
+    "example_contexts": [
+      "le con de tes mortttttttt soan t une pute tfacon t la plus gross victime"
+    ]
+  },
+  {
+    "source": "qune",
+    "target": "qu'une",
+    "frequency": 1,
+    "example_contexts": [
+      "sa ser a rien de le défendre t qune pute assumee suceuse"
+    ]
+  },
+  {
+    "source": "assumee",
+    "target": "assumée",
+    "frequency": 1,
+    "example_contexts": [
+      "sa ser a rien de le défendre t qune pute assumee suceuse"
+    ]
+  },
+  {
+    "source": "jmen",
+    "target": "je m'en",
+    "frequency": 1,
+    "example_contexts": [
+      "lucas jmen balek il a qu'a rester avec sa sophie c'est elle qui est moche"
+    ]
+  },
+  {
+    "source": "balek",
+    "target": "je m'en bats les couilles",
+    "frequency": 1,
+    "example_contexts": [
+      "lucas jmen balek il a qu'a rester avec sa sophie c'est elle qui est moche"
+    ]
+  },
+  {
+    "source": "qu'a",
+    "target": "qu'à",
+    "frequency": 1,
+    "example_contexts": [
+      "lucas jmen balek il a qu'a rester avec sa sophie c'est elle qui est moche"
+    ]
+  },
+  {
+    "source": "qu'est",
+    "target": "qu'est-ce",
+    "frequency": 1,
+    "example_contexts": [
+      "qu'est qu'elle a l'autre rousse? tu défend les putes"
+    ]
+  },
+  {
+    "source": "tete",
+    "target": "tête",
+    "frequency": 3,
+    "example_contexts": [
+      "piste ta tete endirerb un monstre poto",
+      "sa sert a r de se prendre la tete comme des enfants",
+      "vos tete de sperm"
+    ]
+  },
+  {
+    "source": "endirerb",
+    "target": "on dirait",
+    "frequency": 1,
+    "example_contexts": [
+      "piste ta tete endirerb un monstre poto"
+    ]
+  },
+  {
+    "source": "poto",
+    "target": "pote",
+    "frequency": 1,
+    "example_contexts": [
+      "piste ta tete endirerb un monstre poto"
+    ]
+  },
+  {
+    "source": "fdp",
+    "target": "fils de pute",
+    "frequency": 2,
+    "example_contexts": [
+      "moi silvia on est les plus belle bande de fdp",
+      "retourne en serbie et il y aura plus de probleme fdp"
+    ]
+  },
+  {
+    "source": "tes",
+    "target": "t'es",
+    "frequency": 1,
+    "example_contexts": [
+      "en plus tes la tu vien de serbi"
+    ]
+  },
+  {
+    "source": "la",
+    "target": "là",
+    "frequency": 1,
+    "example_contexts": [
+      "en plus tes la tu vien de serbi"
+    ]
+  },
+  {
+    "source": "vien",
+    "target": "viens",
+    "frequency": 1,
+    "example_contexts": [
+      "en plus tes la tu vien de serbi"
+    ]
+  },
+  {
+    "source": "serbi",
+    "target": "serbie",
+    "frequency": 1,
+    "example_contexts": [
+      "en plus tes la tu vien de serbi"
+    ]
+  },
+  {
+    "source": "ten merde",
+    "target": "t'emmerde",
+    "frequency": 1,
+    "example_contexts": [
+      "et  elle ten merde niker vos grand mere"
+    ]
+  },
+  {
+    "source": "niker",
+    "target": "niquer",
+    "frequency": 1,
+    "example_contexts": [
+      "et  elle ten merde niker vos grand mere"
+    ]
+  },
+  {
+    "source": "c'esst",
+    "target": "c'est",
+    "frequency": 1,
+    "example_contexts": [
+      "la serbie c'esst le sang,  vous etes jaloux c'est tout"
+    ]
+  },
+  {
+    "source": "etes",
+    "target": "êtes",
+    "frequency": 1,
+    "example_contexts": [
+      "la serbie c'esst le sang,  vous etes jaloux c'est tout"
+    ]
+  },
+  {
+    "source": "profs",
+    "target": "professeurs",
+    "frequency": 1,
+    "example_contexts": [
+      "va sucer tes profs"
+    ]
+  },
+  {
+    "source": "mortttttttt",
+    "target": "mort",
+    "frequency": 1,
+    "example_contexts": [
+      "le con de tes mortttttttt soan t une pute tfacon t la plus gross victime"
+    ]
+  },
+  {
+    "source": "tfacon",
+    "target": "de toute façon",
+    "frequency": 1,
+    "example_contexts": [
+      "le con de tes mortttttttt soan t une pute tfacon t la plus gross victime"
+    ]
+  },
+  {
+    "source": "gross",
+    "target": "grosse",
+    "frequency": 1,
+    "example_contexts": [
+      "le con de tes mortttttttt soan t une pute tfacon t la plus gross victime"
+    ]
+  },
+  {
+    "source": "arrete",
+    "target": "arrête",
+    "frequency": 1,
+    "example_contexts": [
+      "bande de sombre pute lucas arrete de faire le beau avec ta petite bite"
+    ]
+  },
+  {
+    "source": "srx",
+    "target": "sérieux",
+    "frequency": 1,
+    "example_contexts": [
+      "adrien et silvia arreter srx"
+    ]
+  },
+  {
+    "source": "probleme",
+    "target": "problème",
+    "frequency": 1,
+    "example_contexts": [
+      "retourne en serbie et il y aura plus de probleme fdp"
+    ]
+  },
+  {
+    "source": "r",
+    "target": "rien",
+    "frequency": 1,
+    "example_contexts": [
+      "sa sert a r de se prendre la tete comme des enfants"
+    ]
+  },
+  {
+    "source": "salopeee",
+    "target": "salope",
+    "frequency": 1,
+    "example_contexts": [
+      "on arrete rien du tout pk elle assume pas cette salopeee"
+    ]
+  },
+  {
+    "source": "sperm",
+    "target": "sperme",
+    "frequency": 1,
+    "example_contexts": [
+      "vos tete de sperm"
+    ]
+  },
+  {
+    "source": "shnek",
+    "target": "chatte",
+    "frequency": 1,
+    "example_contexts": [
+      "vous puez de la shnek bande de crasseuse"
+    ]
+  },
+  {
+    "source": "ouai",
+    "target": "ouais",
+    "frequency": 1,
+    "example_contexts": [
+      "ouai c'est eux qui m'insultent genre normal alors que leur pote il me drague tranquile"
+    ]
+  },
+  {
+    "source": "tranquile",
+    "target": "tranquille",
+    "frequency": 1,
+    "example_contexts": [
+      "ouai c'est eux qui m'insultent genre normal alors que leur pote il me drague tranquile"
+    ]
+  },
+  {
+    "source": "déja",
+    "target": "déjà",
+    "frequency": 1,
+    "example_contexts": [
+      "déja toi sylvia me parle pas"
+    ]
+  },
+  {
+    "source": "pq",
+    "target": "pourquoi",
+    "frequency": 2,
+    "example_contexts": [
+      "pq tu dis ça?",
+      "et pq tu me traites de pute?"
+    ]
+  },
+  {
+    "source": "soirè",
+    "target": "soirée",
+    "frequency": 1,
+    "example_contexts": [
+      "t as vu ce que t as fait a la soiré sale pute"
+    ]
+  },
+  {
+    "source": "c",
+    "target": "c'est",
+    "frequency": 4,
+    "example_contexts": [
+      "oui c toi",
+      "C pas de sa faute c Lucas",
+      "toi ta mere c satan"
+    ]
+  },
+  {
+    "source": "pblm",
+    "target": "problème",
+    "frequency": 1,
+    "example_contexts": [
+      "c'est quoi ton fucking pblm"
+    ]
+  },
+  {
+    "source": "dégeulasse",
+    "target": "dégueulasse",
+    "frequency": 1,
+    "example_contexts": [
+      "c'est dégeulasse"
+    ]
+  },
+  {
+    "source": "*e",
+    "target": "de",
+    "frequency": 1,
+    "example_contexts": [
+      "sylvia t vraiment la pire des grosses salope tu savait qu il été en couple est tu la embrassé ta aucun *e race"
+    ]
+  },
+  {
+    "source": "d'etre",
+    "target": "d'être",
+    "frequency": 1,
+    "example_contexts": [
+      "En plus d'etre une  aguicheusse de merde tu es une menteuse"
+    ]
+  },
+  {
+    "source": "arreter",
+    "target": "arrêtez",
+    "frequency": 1,
+    "example_contexts": [
+      "Arreter laisser la tranquille elle a rien fait"
+    ]
+  },
+  {
+    "source": "san",
+    "target": "sans",
+    "frequency": 1,
+    "example_contexts": [
+      "San tas rien fait et ne fait rien mnt"
+    ]
+  },
+  {
+    "source": "tas",
+    "target": "tu as",
+    "frequency": 1,
+    "example_contexts": [
+      "San tas rien fait et ne fait rien mnt"
+    ]
+  },
+  {
+    "source": "mnt",
+    "target": "maintenant",
+    "frequency": 1,
+    "example_contexts": [
+      "San tas rien fait et ne fait rien mnt"
+    ]
+  },
+  {
+    "source": "calmùer",
+    "target": "calmer",
+    "frequency": 1,
+    "example_contexts": [
+      "Il a mis sa langue dans ma bouche j'ai rien fait pour la retirer mais faut te calmùer avec les insultes"
+    ]
+  },
+  {
+    "source": "baisable",
+    "target": "qui peut être baisé",
+    "frequency": 1,
+    "example_contexts": [
+      "vaut mieux être un boulette baisable qu'un bâton frigide"
+    ]
+  },
+  {
+    "source": "oula",
+    "target": "oh là",
+    "frequency": 1,
+    "example_contexts": [
+      "oula,  t'attaques?"
+    ]
+  },
+  {
+    "source": "e",
+    "target": "elle",
+    "frequency": 1,
+    "example_contexts": [
+      "e a de queue un trans travelo"
+    ]
+  },
+  {
+    "source": "trans",
+    "target": "transgenre",
+    "frequency": 1,
+    "example_contexts": [
+      "e a de queue un trans travelo"
+    ]
+  },
+  {
+    "source": "travelo",
+    "target": "personne transgenre",
+    "frequency": 1,
+    "example_contexts": [
+      "e a de queue un trans travelo"
+    ]
+  }
+]
