@@ -1,0 +1,917 @@
+[
+  {
+    "source": "mate",
+    "target": "idiote",
+    "frequency": 1,
+    "example_contexts": [
+      "bah pourquoi t’es mate alors?"
+    ]
+  },
+  {
+    "source": "tres",
+    "target": "très",
+    "frequency": 1,
+    "example_contexts": [
+      "oui tres clairement t'a raison ts dehors la france au francais"
+    ]
+  },
+  {
+    "source": "ts",
+    "target": "tous",
+    "frequency": 1,
+    "example_contexts": [
+      "oui tres clairement t'a raison ts dehors la france au francais"
+    ]
+  },
+  {
+    "source": "francais",
+    "target": "français",
+    "frequency": 2,
+    "example_contexts": [
+      "oui tres clairement t'a raison ts dehors la france au francais",
+      "nicolas y'a des francais qui font la meme avec des arabes"
+    ]
+  },
+  {
+    "source": "ptdrrr",
+    "target": "pété de rire",
+    "frequency": 1,
+    "example_contexts": [
+      "c'est de sa faute tu crois ? ptdrrr"
+    ]
+  },
+  {
+    "source": "cour",
+    "target": "cours",
+    "frequency": 1,
+    "example_contexts": [
+      "mais vas en cour toi"
+    ]
+  },
+  {
+    "source": "tg",
+    "target": "ta gueule",
+    "frequency": 2,
+    "example_contexts": [
+      "au tg avcec tes reflexions la",
+      "deja tg"
+    ]
+  },
+  {
+    "source": "avcec",
+    "target": "avec",
+    "frequency": 1,
+    "example_contexts": [
+      "au tg avcec tes reflexions la"
+    ]
+  },
+  {
+    "source": "peter",
+    "target": "péter",
+    "frequency": 1,
+    "example_contexts": [
+      "fait gaffe il va tout faire peter"
+    ]
+  },
+  {
+    "source": "👎🏻",
+    "target": "désaccord",
+    "frequency": 2,
+    "example_contexts": [
+      "Anomalie 👎🏻👎🏻"
+    ]
+  },
+  {
+    "source": "parcer",
+    "target": "parce que",
+    "frequency": 1,
+    "example_contexts": [
+      "ce n'est pas parcer que sa peau n'est pas blanche qu'elle n'est pas gentille"
+    ]
+  },
+  {
+    "source": "hahahha",
+    "target": "haha",
+    "frequency": 1,
+    "example_contexts": [
+      "HAHAHHA"
+    ]
+  },
+  {
+    "source": "whaaa",
+    "target": "ouah",
+    "frequency": 1,
+    "example_contexts": [
+      "whaaa y a vrmnt des cons sur terre"
+    ]
+  },
+  {
+    "source": "vrmnt",
+    "target": "vraiment",
+    "frequency": 1,
+    "example_contexts": [
+      "whaaa y a vrmnt des cons sur terre"
+    ]
+  },
+  {
+    "source": "cringe",
+    "target": "gênant",
+    "frequency": 1,
+    "example_contexts": [
+      "Nicolas t'es cringe tu genbes mon reuf"
+    ]
+  },
+  {
+    "source": "genbes",
+    "target": "gênes",
+    "frequency": 1,
+    "example_contexts": [
+      "Nicolas t'es cringe tu genbes mon reuf"
+    ]
+  },
+  {
+    "source": "reuf",
+    "target": "frère",
+    "frequency": 2,
+    "example_contexts": [
+      "Nicolas t'es cringe tu genbes mon reuf",
+      "moi chui un fr de pur sang mon reuf"
+    ]
+  },
+  {
+    "source": "nn",
+    "target": "non",
+    "frequency": 3,
+    "example_contexts": [
+      "nn juste des gens qui pense normalemenbt",
+      "nn c juste que j'aime pas ca peau elle est moche elle vole la fr",
+      "nn pauline une soldat tombe ds la bataille chui ps jaloux"
+    ]
+  },
+  {
+    "source": "t",
+    "target": "tes",
+    "frequency": 1,
+    "example_contexts": [
+      "et alors tu dois payer pr les crime de t ancetre"
+    ]
+  },
+  {
+    "source": "t",
+    "target": "tu",
+    "frequency": 1,
+    "example_contexts": [
+      "e t toi aussi tu dois ,payer pour les crimes des tiens"
+    ]
+  },
+  {
+    "source": "t",
+    "target": "tu es",
+    "frequency": 4,
+    "example_contexts": [
+      "Mais depuis quand dire \"t mate t pas française\" c'est normal ?",
+      "opsk tu croit t 100% fr",
+      "oui t une arabe c pr ca ta vu c triste la vie"
+    ]
+  },
+  {
+    "source": "c",
+    "target": "c'est",
+    "frequency": 9,
+    "example_contexts": [
+      "les termes c que vous dites de la merde",
+      "fait gaffe fatima elle va nous voler comme c congenere avant",
+      "pauline c koi la dif"
+    ]
+  },
+  {
+    "source": "jpp",
+    "target": "j'en peux plus",
+    "frequency": 1,
+    "example_contexts": [
+      "les cons : pauline anton nicolas et pierre jpp"
+    ]
+  },
+  {
+    "source": "uin",
+    "target": "un",
+    "frequency": 1,
+    "example_contexts": [
+      "uin complexe d'nferiorite ?"
+    ]
+  },
+  {
+    "source": "d'nferiorite",
+    "target": "d'infériorité",
+    "frequency": 1,
+    "example_contexts": [
+      "uin complexe d'nferiorite ?"
+    ]
+  },
+  {
+    "source": "lv",
+    "target": "la vie",
+    "frequency": 2,
+    "example_contexts": [
+      "lv que nan",
+      "prcs Fatima elle est trop belle lv jveux être comme elle"
+    ]
+  },
+  {
+    "source": "svp",
+    "target": "s'il vous plaît",
+    "frequency": 1,
+    "example_contexts": [
+      "Bah les arabes c'est pas en France svp on veut pas de vous ici"
+    ]
+  },
+  {
+    "source": "jsuis",
+    "target": "je suis",
+    "frequency": 2,
+    "example_contexts": [
+      "Jsuis pas jalouse de Fatima moi😹 MDMRMRR",
+      "Jsuis aps raciste juste j’aime pas les arabes"
+    ]
+  },
+  {
+    "source": "😹",
+    "target": "moquerie",
+    "frequency": 1,
+    "example_contexts": [
+      "Jsuis pas jalouse de Fatima moi😹 MDMRMRR"
+    ]
+  },
+  {
+    "source": "mdmrmrr",
+    "target": "exaspération",
+    "frequency": 1,
+    "example_contexts": [
+      "Jsuis pas jalouse de Fatima moi😹 MDMRMRR"
+    ]
+  },
+  {
+    "source": "pouaaa",
+    "target": "pouah",
+    "frequency": 1,
+    "example_contexts": [
+      "pouaaa"
+    ]
+  },
+  {
+    "source": "opsk",
+    "target": "au pire",
+    "frequency": 1,
+    "example_contexts": [
+      "opsk tu croit t 100% fr"
+    ]
+  },
+  {
+    "source": "fr",
+    "target": "français",
+    "frequency": 1,
+    "example_contexts": [
+      "opsk tu croit t 100% fr"
+    ]
+  },
+  {
+    "source": "fr",
+    "target": "frère",
+    "frequency": 1,
+    "example_contexts": [
+      "moi chui un fr de pur sang mon reuf"
+    ]
+  },
+  {
+    "source": "2",
+    "target": "deux",
+    "frequency": 1,
+    "example_contexts": [
+      "2 de qi j'ai juré"
+    ]
+  },
+  {
+    "source": "jhe",
+    "target": "je",
+    "frequency": 1,
+    "example_contexts": [
+      "le clash n'(a pas marche jhe ne le suis pas"
+    ]
+  },
+  {
+    "source": "en +",
+    "target": "en plus",
+    "frequency": 1,
+    "example_contexts": [
+      "Mais genre je t'ai rien fait meuf ! Pourquoi tu me déglingue comme ça ? Dans mon dos en + !"
+    ]
+  },
+  {
+    "source": "faite",
+    "target": "faites",
+    "frequency": 1,
+    "example_contexts": [
+      "faite pasq genre ca vous degoutes les orogines, c'est hyper sexy wsh"
+    ]
+  },
+  {
+    "source": "pasq",
+    "target": "parce que",
+    "frequency": 1,
+    "example_contexts": [
+      "faite pasq genre ca vous degoutes les orogines, c'est hyper sexy wsh"
+    ]
+  },
+  {
+    "source": "ca",
+    "target": "ça",
+    "frequency": 5,
+    "example_contexts": [
+      "faite pasq genre ca vous degoutes les orogines, c'est hyper sexy wsh",
+      "tout ca",
+      "oui t une arabe c pr ca ta vu c triste la vie"
+    ]
+  },
+  {
+    "source": "degoutes",
+    "target": "dégoûte",
+    "frequency": 1,
+    "example_contexts": [
+      "faite pasq genre ca vous degoutes les orogines, c'est hyper sexy wsh"
+    ]
+  },
+  {
+    "source": "orogines",
+    "target": "origines",
+    "frequency": 1,
+    "example_contexts": [
+      "faite pasq genre ca vous degoutes les orogines, c'est hyper sexy wsh"
+    ]
+  },
+  {
+    "source": "wsh",
+    "target": "wesh",
+    "frequency": 1,
+    "example_contexts": [
+      "faite pasq genre ca vous degoutes les orogines, c'est hyper sexy wsh"
+    ]
+  },
+  {
+    "source": "etes",
+    "target": "êtes",
+    "frequency": 2,
+    "example_contexts": [
+      "vous etes chelou la vie",
+      "vous etes honteux"
+    ]
+  },
+  {
+    "source": "chelou",
+    "target": "louche",
+    "frequency": 2,
+    "example_contexts": [
+      "vous etes chelou la vie",
+      "Mais j'ai jamais rien demandé à personne wesh T'es chelou toi !"
+    ]
+  },
+  {
+    "source": "aps",
+    "target": "pas",
+    "frequency": 1,
+    "example_contexts": [
+      "Jsuis aps raciste juste j’aime pas les arabes"
+    ]
+  },
+  {
+    "source": "koi",
+    "target": "quoi",
+    "frequency": 1,
+    "example_contexts": [
+      "pauline c koi la dif"
+    ]
+  },
+  {
+    "source": "dif",
+    "target": "différence",
+    "frequency": 1,
+    "example_contexts": [
+      "pauline c koi la dif"
+    ]
+  },
+  {
+    "source": "stp",
+    "target": "s'il te plaît",
+    "frequency": 1,
+    "example_contexts": [
+      "*pauline stp anton"
+    ]
+  },
+  {
+    "source": "pr",
+    "target": "pour",
+    "frequency": 2,
+    "example_contexts": [
+      "et alors tu dois payer pr les crime de t ancetre",
+      "oui t une arabe c pr ca ta vu c triste la vie"
+    ]
+  },
+  {
+    "source": "apprend",
+    "target": "apprends",
+    "frequency": 1,
+    "example_contexts": [
+      "apprend a ecrire le prenom de tes potes avant de parler ytoi"
+    ]
+  },
+  {
+    "source": "a",
+    "target": "à",
+    "frequency": 4,
+    "example_contexts": [
+      "apprend a ecrire le prenom de tes potes avant de parler ytoi",
+      "deja la seule personne ici qui est dans l'ilegalite c pauline non psk juste le droit a l'image ça existe",
+      "a bas pauline"
+    ]
+  },
+  {
+    "source": "prenom",
+    "target": "prénom",
+    "frequency": 1,
+    "example_contexts": [
+      "apprend a ecrire le prenom de tes potes avant de parler ytoi"
+    ]
+  },
+  {
+    "source": "ytoi",
+    "target": "toi",
+    "frequency": 1,
+    "example_contexts": [
+      "apprend a ecrire le prenom de tes potes avant de parler ytoi"
+    ]
+  },
+  {
+    "source": "wesh",
+    "target": "quoi",
+    "frequency": 1,
+    "example_contexts": [
+      "Mais j'ai jamais rien demandé à personne wesh T'es chelou toi !"
+    ]
+  },
+  {
+    "source": "vivie",
+    "target": "vive",
+    "frequency": 1,
+    "example_contexts": [
+      "vivie le z"
+    ]
+  },
+  {
+    "source": "z",
+    "target": "zizi",
+    "frequency": 1,
+    "example_contexts": [
+      "vivie le z"
+    ]
+  },
+  {
+    "source": "e",
+    "target": "et",
+    "frequency": 1,
+    "example_contexts": [
+      "e t toi aussi tu dois ,payer pour les crimes des tiens"
+    ]
+  },
+  {
+    "source": "souytenir",
+    "target": "soutenir",
+    "frequency": 1,
+    "example_contexts": [
+      "arretez de souytenir pauline"
+    ]
+  },
+  {
+    "source": "tt",
+    "target": "tout",
+    "frequency": 4,
+    "example_contexts": [
+      "t'es pas tt bleu tt rose mv",
+      "tt le monde est pareil",
+      "tu ds de la d depuis tt a l'huere"
+    ]
+  },
+  {
+    "source": "mv",
+    "target": "ma vie",
+    "frequency": 1,
+    "example_contexts": [
+      "t'es pas tt bleu tt rose mv"
+    ]
+  },
+  {
+    "source": "chui",
+    "target": "je suis",
+    "frequency": 2,
+    "example_contexts": [
+      "moi chui un fr de pur sang mon reuf",
+      "nn pauline une soldat tombe ds la bataille chui ps jaloux"
+    ]
+  },
+  {
+    "source": "tun",
+    "target": "tu ne",
+    "frequency": 1,
+    "example_contexts": [
+      "a partir du moment ou tun soutiens zemmour c'est que t'a un probleme mon pauyvre"
+    ]
+  },
+  {
+    "source": "ya",
+    "target": "il y a",
+    "frequency": 2,
+    "example_contexts": [
+      "ya un prblm avec mon tonton z",
+      "ds tout les cas ou va le monde ya 200 an on pouvait avir un petrit noir pour r"
+    ]
+  },
+  {
+    "source": "prblm",
+    "target": "problème",
+    "frequency": 1,
+    "example_contexts": [
+      "ya un prblm avec mon tonton z"
+    ]
+  },
+  {
+    "source": "deja",
+    "target": "déjà",
+    "frequency": 1,
+    "example_contexts": [
+      "deja la seule personne ici qui est dans l'ilegalite c pauline non psk juste le droit a l'image ça existe"
+    ]
+  },
+  {
+    "source": "psk",
+    "target": "parce que",
+    "frequency": 1,
+    "example_contexts": [
+      "deja la seule personne ici qui est dans l'ilegalite c pauline non psk juste le droit a l'image ça existe"
+    ]
+  },
+  {
+    "source": "d",
+    "target": "daube",
+    "frequency": 1,
+    "example_contexts": [
+      "vos bouche vous dites de la d la france c'est pour tyout le monde"
+    ]
+  },
+  {
+    "source": "d",
+    "target": "drogue",
+    "frequency": 1,
+    "example_contexts": [
+      "tu ds de la d depuis tt a l'huere"
+    ]
+  },
+  {
+    "source": "d",
+    "target": "merde",
+    "frequency": 1,
+    "example_contexts": [
+      "fatima t'as r fait c juste eux qui disent de la d"
+    ]
+  },
+  {
+    "source": "tyout",
+    "target": "tout",
+    "frequency": 1,
+    "example_contexts": [
+      "vos bouche vous dites de la d la france c'est pour tyout le monde"
+    ]
+  },
+  {
+    "source": "eduqué",
+    "target": "éduqué",
+    "frequency": 1,
+    "example_contexts": [
+      "nicolas tes parents t'ont eduqué ?*"
+    ]
+  },
+  {
+    "source": "la",
+    "target": "là",
+    "frequency": 1,
+    "example_contexts": [
+      "oui mais la on se fait envahuir par tte la terre"
+    ]
+  },
+  {
+    "source": "tte",
+    "target": "toute",
+    "frequency": 1,
+    "example_contexts": [
+      "oui mais la on se fait envahuir par tte la terre"
+    ]
+  },
+  {
+    "source": "fou",
+    "target": "fout",
+    "frequency": 1,
+    "example_contexts": [
+      "Le droit à l’image on s’en fou"
+    ]
+  },
+  {
+    "source": "cas",
+    "target": "qu'à",
+    "frequency": 1,
+    "example_contexts": [
+      "elle a cas ps etre arabe elle aussi"
+    ]
+  },
+  {
+    "source": "ps",
+    "target": "pas",
+    "frequency": 2,
+    "example_contexts": [
+      "elle a cas ps etre arabe elle aussi",
+      "nn pauline une soldat tombe ds la bataille chui ps jaloux"
+    ]
+  },
+  {
+    "source": "etre",
+    "target": "être",
+    "frequency": 1,
+    "example_contexts": [
+      "elle a cas ps etre arabe elle aussi"
+    ]
+  },
+  {
+    "source": "mdrr",
+    "target": "mdr",
+    "frequency": 2,
+    "example_contexts": [
+      "grave pas mdrr",
+      "grave mdrr"
+    ]
+  },
+  {
+    "source": "gas",
+    "target": "gars",
+    "frequency": 1,
+    "example_contexts": [
+      "l'homogenité les gas merde"
+    ]
+  },
+  {
+    "source": "arrrrrrrrrrabbbbbbbbbbbbbbbbbbbbeeeeeeeeeeee",
+    "target": "arabe",
+    "frequency": 1,
+    "example_contexts": [
+      "si c une arrrrrrrrrrabbbbbbbbbbbbbbbbbbbbeeeeeeeeeeee"
+    ]
+  },
+  {
+    "source": "15k",
+    "target": "15 mille",
+    "frequency": 1,
+    "example_contexts": [
+      "pauline tu fera moins la maline avec 15k d'amende"
+    ]
+  },
+  {
+    "source": "meme",
+    "target": "même",
+    "frequency": 1,
+    "example_contexts": [
+      "nicolas y'a des francais qui font la meme avec des arabes"
+    ]
+  },
+  {
+    "source": "reufs",
+    "target": "frères",
+    "frequency": 1,
+    "example_contexts": [
+      "c'est du cyberharcelement mes reufs vous forcer alors qu'elle n'a rien fait"
+    ]
+  },
+  {
+    "source": "ta",
+    "target": "tu as",
+    "frequency": 1,
+    "example_contexts": [
+      "oui t une arabe c pr ca ta vu c triste la vie"
+    ]
+  },
+  {
+    "source": "quet'aimais",
+    "target": "que tu aimais",
+    "frequency": 1,
+    "example_contexts": [
+      "Pauline Genre comment ? C'est mon maillot de bain quet'aimais pas ou quoi esh !"
+    ]
+  },
+  {
+    "source": "esh",
+    "target": "frère",
+    "frequency": 1,
+    "example_contexts": [
+      "Pauline Genre comment ? C'est mon maillot de bain quet'aimais pas ou quoi esh !"
+    ]
+  },
+  {
+    "source": "+",
+    "target": "plus",
+    "frequency": 1,
+    "example_contexts": [
+      "ton maillot de bain serait + beau sur moi"
+    ]
+  },
+  {
+    "source": "mdrrr",
+    "target": "mdr",
+    "frequency": 1,
+    "example_contexts": [
+      "mdrrr tu veux l'essayer elle un plu beau corps que toi meuf"
+    ]
+  },
+  {
+    "source": "plu",
+    "target": "plus",
+    "frequency": 1,
+    "example_contexts": [
+      "mdrrr tu veux l'essayer elle un plu beau corps que toi meuf"
+    ]
+  },
+  {
+    "source": "enfaite",
+    "target": "en fait",
+    "frequency": 1,
+    "example_contexts": [
+      "Pauline donc enfaite c'est bien de la jalousie !"
+    ]
+  },
+  {
+    "source": "👹👹👹👹",
+    "target": "colère",
+    "frequency": 1,
+    "example_contexts": [
+      "donne moi ton maillot Fatima👹👹👹👹"
+    ]
+  },
+  {
+    "source": "body shame",
+    "target": "humilier sur l'apparence physique",
+    "frequency": 1,
+    "example_contexts": [
+      "Julie tu me body shame???? #HARCELEMENT"
+    ]
+  },
+  {
+    "source": "????",
+    "target": "?",
+    "frequency": 1,
+    "example_contexts": [
+      "Julie tu me body shame???? #HARCELEMENT"
+    ]
+  },
+  {
+    "source": "ds",
+    "target": "dans",
+    "frequency": 2,
+    "example_contexts": [
+      "ds tout les cas ou va le monde ya 200 an on pouvait avir un petrit noir pour r",
+      "nn pauline une soldat tombe ds la bataille chui ps jaloux"
+    ]
+  },
+  {
+    "source": "ds",
+    "target": "dis",
+    "frequency": 1,
+    "example_contexts": [
+      "tu ds de la d depuis tt a l'huere"
+    ]
+  },
+  {
+    "source": "ou",
+    "target": "où",
+    "frequency": 1,
+    "example_contexts": [
+      "ds tout les cas ou va le monde ya 200 an on pouvait avir un petrit noir pour r"
+    ]
+  },
+  {
+    "source": "avir",
+    "target": "avoir",
+    "frequency": 1,
+    "example_contexts": [
+      "ds tout les cas ou va le monde ya 200 an on pouvait avir un petrit noir pour r"
+    ]
+  },
+  {
+    "source": "petrit",
+    "target": "petit",
+    "frequency": 1,
+    "example_contexts": [
+      "ds tout les cas ou va le monde ya 200 an on pouvait avir un petrit noir pour r"
+    ]
+  },
+  {
+    "source": "r",
+    "target": "rien",
+    "frequency": 2,
+    "example_contexts": [
+      "ds tout les cas ou va le monde ya 200 an on pouvait avir un petrit noir pour r",
+      "fatima t'as r fait c juste eux qui disent de la d"
+    ]
+  },
+  {
+    "source": "ct",
+    "target": "c'était",
+    "frequency": 1,
+    "example_contexts": [
+      "et ct mieux"
+    ]
+  },
+  {
+    "source": "seum",
+    "target": "dégoût",
+    "frequency": 1,
+    "example_contexts": [
+      "n'ayez pas le seum"
+    ]
+  },
+  {
+    "source": "m’hracele",
+    "target": "m'harcèle",
+    "frequency": 1,
+    "example_contexts": [
+      "Julie elle m’hracele défendez moi"
+    ]
+  },
+  {
+    "source": "cnest",
+    "target": "c'est",
+    "frequency": 2,
+    "example_contexts": [
+      "mais cnest toi qui l’harcèle",
+      "t’a rien fais cnest l’autre là"
+    ]
+  },
+  {
+    "source": "l'huere",
+    "target": "l'heure",
+    "frequency": 1,
+    "example_contexts": [
+      "tu ds de la d depuis tt a l'huere"
+    ]
+  },
+  {
+    "source": "obsede",
+    "target": "obsédé",
+    "frequency": 1,
+    "example_contexts": [
+      "tu parles mal de sa couleur de peau et reclames son maillot de bain ? mets la en valeur et deviens copine avec si tu es tant obsede par elle  au lieu de la detruire pauline"
+    ]
+  },
+  {
+    "source": "detruire",
+    "target": "détruire",
+    "frequency": 1,
+    "example_contexts": [
+      "tu parles mal de sa couleur de peau et reclames son maillot de bain ? mets la en valeur et deviens copine avec si tu es tant obsede par elle  au lieu de la detruire pauline"
+    ]
+  },
+  {
+    "source": "arrete",
+    "target": "arrête",
+    "frequency": 1,
+    "example_contexts": [
+      "anton arrete d'en rajouter !"
+    ]
+  },
+  {
+    "source": "prcs",
+    "target": "parce que",
+    "frequency": 1,
+    "example_contexts": [
+      "prcs Fatima elle est trop belle lv jveux être comme elle"
+    ]
+  },
+  {
+    "source": "jveux",
+    "target": "je veux",
+    "frequency": 1,
+    "example_contexts": [
+      "prcs Fatima elle est trop belle lv jveux être comme elle"
+    ]
+  },
+  {
+    "source": "s",
+    "target": "les gars",
+    "frequency": 1,
+    "example_contexts": [
+      "anton t'es jaloux le s"
+    ]
+  }
+]
