@@ -1,0 +1,450 @@
+[
+  {
+    "source": "vouler",
+    "target": "voulez",
+    "frequency": 1,
+    "example_contexts": [
+      "eh vous vouler nous detruire avec quoi vous avez cru etre flic ou quoi"
+    ]
+  },
+  {
+    "source": "detruire",
+    "target": "détruire",
+    "frequency": 1,
+    "example_contexts": [
+      "eh vous vouler nous detruire avec quoi vous avez cru etre flic ou quoi"
+    ]
+  },
+  {
+    "source": "etre",
+    "target": "être",
+    "frequency": 1,
+    "example_contexts": [
+      "eh vous vouler nous detruire avec quoi vous avez cru etre flic ou quoi"
+    ]
+  },
+  {
+    "source": "ohhh",
+    "target": "oh",
+    "frequency": 1,
+    "example_contexts": [
+      "ohhh lala sa chauffe"
+    ]
+  },
+  {
+    "source": "lala",
+    "target": "là là",
+    "frequency": 1,
+    "example_contexts": [
+      "ohhh lala sa chauffe"
+    ]
+  },
+  {
+    "source": "sa",
+    "target": "ça",
+    "frequency": 2,
+    "example_contexts": [
+      "ohhh lala sa chauffe",
+      "bh me mere tien sa de ton pere"
+    ]
+  },
+  {
+    "source": "sayer",
+    "target": "ça y est",
+    "frequency": 2,
+    "example_contexts": [
+      "zoé si elle a un animal de compagnie elle écrase sayer ya plus d'animal",
+      "ahhh sayer zoe ouvre sa gueuele ahahah"
+    ]
+  },
+  {
+    "source": "ya",
+    "target": "il y a",
+    "frequency": 1,
+    "example_contexts": [
+      "zoé si elle a un animal de compagnie elle écrase sayer ya plus d'animal"
+    ]
+  },
+  {
+    "source": "propo",
+    "target": "propositions",
+    "frequency": 1,
+    "example_contexts": [
+      "toi ferme là garde t'es propo pr topi"
+    ]
+  },
+  {
+    "source": "pr",
+    "target": "pour",
+    "frequency": 1,
+    "example_contexts": [
+      "toi ferme là garde t'es propo pr topi"
+    ]
+  },
+  {
+    "source": "c",
+    "target": "c'est",
+    "frequency": 2,
+    "example_contexts": [
+      "c pour ca qu'elle est seule",
+      "mais c une réelle questions"
+    ]
+  },
+  {
+    "source": "ca",
+    "target": "ça",
+    "frequency": 3,
+    "example_contexts": [
+      "c pour ca qu'elle est seule",
+      "les gars vous perdez votre temps a vous insulter comme ca vous  vous faite du mal les un avec les autres faite la paix ou vous calculer plus",
+      "le dernier qui a ose qui un truc comme ca il a finit sur le bord de la route"
+    ]
+  },
+  {
+    "source": "rouller",
+    "target": "rouler",
+    "frequency": 1,
+    "example_contexts": [
+      "bien dit zoé rouller aplati le"
+    ]
+  },
+  {
+    "source": "a",
+    "target": "à",
+    "frequency": 3,
+    "example_contexts": [
+      "les gars vous perdez votre temps a vous insulter comme ca vous  vous faite du mal les un avec les autres faite la paix ou vous calculer plus",
+      "a perdre 3kilos",
+      "elle a appris grace a ta mere"
+    ]
+  },
+  {
+    "source": "ou",
+    "target": "où",
+    "frequency": 2,
+    "example_contexts": [
+      "les gars vous perdez votre temps a vous insulter comme ca vous  vous faite du mal les un avec les autres faite la paix ou vous calculer plus",
+      "mdrr tqt pas moi je peux faire du sport prendre la ou il faut toi meme en faisant du sport pendant 5ans t'arriverais pas"
+    ]
+  },
+  {
+    "source": "ptn",
+    "target": "putain",
+    "frequency": 1,
+    "example_contexts": [
+      "oh ptn elle vas me rouler dessus je vais câner"
+    ]
+  },
+  {
+    "source": "t'acceepter",
+    "target": "t'accepter",
+    "frequency": 1,
+    "example_contexts": [
+      "Tu vois je me pose une question Zoé comment tu fais pour t'acceepter accepter d'être aussi grosse"
+    ]
+  },
+  {
+    "source": "olala",
+    "target": "oh là là",
+    "frequency": 1,
+    "example_contexts": [
+      "olala j'ai peur"
+    ]
+  },
+  {
+    "source": "bh",
+    "target": "bah",
+    "frequency": 3,
+    "example_contexts": [
+      "bh elle est juste mature et elle s'aime tels qu'elle est",
+      "bh lucie vue que tu est pros dans le domene montre lui comment faire",
+      "bh me mere tien sa de ton pere"
+    ]
+  },
+  {
+    "source": "ahhh",
+    "target": "ah",
+    "frequency": 1,
+    "example_contexts": [
+      "ahhh sayer zoe ouvre sa gueuele ahahah"
+    ]
+  },
+  {
+    "source": "gueuele",
+    "target": "gueule",
+    "frequency": 1,
+    "example_contexts": [
+      "ahhh sayer zoe ouvre sa gueuele ahahah"
+    ]
+  },
+  {
+    "source": "ahahah",
+    "target": "ahah",
+    "frequency": 1,
+    "example_contexts": [
+      "ahhh sayer zoe ouvre sa gueuele ahahah"
+    ]
+  },
+  {
+    "source": "t'inquiete",
+    "target": "t'inquiète",
+    "frequency": 1,
+    "example_contexts": [
+      "ah t'inquiete pas j'ai confiance en mi moi"
+    ]
+  },
+  {
+    "source": "mi",
+    "target": "moi",
+    "frequency": 1,
+    "example_contexts": [
+      "ah t'inquiete pas j'ai confiance en mi moi"
+    ]
+  },
+  {
+    "source": "plste",
+    "target": "petites",
+    "frequency": 1,
+    "example_contexts": [
+      "non les formes plste cest mieux que detre gropsse"
+    ]
+  },
+  {
+    "source": "cest",
+    "target": "c'est",
+    "frequency": 2,
+    "example_contexts": [
+      "non les formes plste cest mieux que detre gropsse",
+      "biensur cest drole ta pas vu son taille"
+    ]
+  },
+  {
+    "source": "detre",
+    "target": "d'être",
+    "frequency": 1,
+    "example_contexts": [
+      "non les formes plste cest mieux que detre gropsse"
+    ]
+  },
+  {
+    "source": "gropsse",
+    "target": "grosse",
+    "frequency": 1,
+    "example_contexts": [
+      "non les formes plste cest mieux que detre gropsse"
+    ]
+  },
+  {
+    "source": "mdrr",
+    "target": "mdr",
+    "frequency": 2,
+    "example_contexts": [
+      "mdrr tqt pas moi je peux faire du sport prendre la ou il faut toi meme en faisant du sport pendant 5ans t'arriverais pas",
+      "mdrr natacha elle me soutient"
+    ]
+  },
+  {
+    "source": "tqt",
+    "target": "t'inquiète",
+    "frequency": 1,
+    "example_contexts": [
+      "mdrr tqt pas moi je peux faire du sport prendre la ou il faut toi meme en faisant du sport pendant 5ans t'arriverais pas"
+    ]
+  },
+  {
+    "source": "la",
+    "target": "là",
+    "frequency": 1,
+    "example_contexts": [
+      "mdrr tqt pas moi je peux faire du sport prendre la ou il faut toi meme en faisant du sport pendant 5ans t'arriverais pas"
+    ]
+  },
+  {
+    "source": "meme",
+    "target": "même",
+    "frequency": 2,
+    "example_contexts": [
+      "mdrr tqt pas moi je peux faire du sport prendre la ou il faut toi meme en faisant du sport pendant 5ans t'arriverais pas",
+      "tgl toi meme pute"
+    ]
+  },
+  {
+    "source": "3kilos",
+    "target": "3 kilos",
+    "frequency": 1,
+    "example_contexts": [
+      "a perdre 3kilos"
+    ]
+  },
+  {
+    "source": ":')",
+    "target": "moquerie",
+    "frequency": 4,
+    "example_contexts": [
+      ":') :') :') :') faut mieux que tu maigrix"
+    ]
+  },
+  {
+    "source": "maigrix",
+    "target": "maigrisses",
+    "frequency": 1,
+    "example_contexts": [
+      ":') :') :') :') faut mieux que tu maigrix"
+    ]
+  },
+  {
+    "source": "profs",
+    "target": "professeurs",
+    "frequency": 2,
+    "example_contexts": [
+      "il faut que tu t'entraine a sucer les profs pour rammener les bonnes notes",
+      "elle le fait deja ça sucer les profs"
+    ]
+  },
+  {
+    "source": "deja",
+    "target": "déjà",
+    "frequency": 1,
+    "example_contexts": [
+      "elle le fait deja ça sucer les profs"
+    ]
+  },
+  {
+    "source": "bureeau",
+    "target": "bureau",
+    "frequency": 1,
+    "example_contexts": [
+      "passer sous le bureeau"
+    ]
+  },
+  {
+    "source": "biensur",
+    "target": "bien sûr",
+    "frequency": 1,
+    "example_contexts": [
+      "biensur cest drole ta pas vu son taille"
+    ]
+  },
+  {
+    "source": "drole",
+    "target": "drôle",
+    "frequency": 1,
+    "example_contexts": [
+      "biensur cest drole ta pas vu son taille"
+    ]
+  },
+  {
+    "source": "ta",
+    "target": "tu as",
+    "frequency": 1,
+    "example_contexts": [
+      "biensur cest drole ta pas vu son taille"
+    ]
+  },
+  {
+    "source": "pros",
+    "target": "pro",
+    "frequency": 1,
+    "example_contexts": [
+      "bh lucie vue que tu est pros dans le domene montre lui comment faire"
+    ]
+  },
+  {
+    "source": "domene",
+    "target": "domaine",
+    "frequency": 1,
+    "example_contexts": [
+      "bh lucie vue que tu est pros dans le domene montre lui comment faire"
+    ]
+  },
+  {
+    "source": "ahhhh",
+    "target": "ah",
+    "frequency": 1,
+    "example_contexts": [
+      "ahhhh de fou"
+    ]
+  },
+  {
+    "source": "grace",
+    "target": "grâce",
+    "frequency": 1,
+    "example_contexts": [
+      "elle a appris grace a ta mere"
+    ]
+  },
+  {
+    "source": "mere",
+    "target": "mère",
+    "frequency": 2,
+    "example_contexts": [
+      "elle a appris grace a ta mere",
+      "bh me mere tien sa de ton pere"
+    ]
+  },
+  {
+    "source": "me",
+    "target": "ma",
+    "frequency": 1,
+    "example_contexts": [
+      "bh me mere tien sa de ton pere"
+    ]
+  },
+  {
+    "source": "tien",
+    "target": "tiens",
+    "frequency": 1,
+    "example_contexts": [
+      "bh me mere tien sa de ton pere"
+    ]
+  },
+  {
+    "source": "pere",
+    "target": "père",
+    "frequency": 2,
+    "example_contexts": [
+      "bh me mere tien sa de ton pere",
+      "tels ton pere"
+    ]
+  },
+  {
+    "source": "ftg",
+    "target": "ferme ta gueule",
+    "frequency": 1,
+    "example_contexts": [
+      "ftg gros boufon"
+    ]
+  },
+  {
+    "source": "boufon",
+    "target": "bouffon",
+    "frequency": 1,
+    "example_contexts": [
+      "ftg gros boufon"
+    ]
+  },
+  {
+    "source": "tgl",
+    "target": "ta gueule",
+    "frequency": 1,
+    "example_contexts": [
+      "tgl toi meme pute"
+    ]
+  },
+  {
+    "source": "cc",
+    "target": "coucou",
+    "frequency": 1,
+    "example_contexts": [
+      "cc"
+    ]
+  },
+  {
+    "source": "feuj",
+    "target": "juif",
+    "frequency": 1,
+    "example_contexts": [
+      "salut la feuj"
+    ]
+  }
+]
