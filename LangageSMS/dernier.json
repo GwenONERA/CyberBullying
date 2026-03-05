@@ -1,0 +1,274 @@
+[
+  {
+    "source": "pere",
+    "target": "père",
+    "frequency": 1,
+    "example_contexts": [
+      "si ton pere me foudroi tout les samedis j ai sa"
+    ]
+  },
+  {
+    "source": "foudroi",
+    "target": "foudroie",
+    "frequency": 1,
+    "example_contexts": [
+      "si ton pere me foudroi tout les samedis j ai sa"
+    ]
+  },
+  {
+    "source": "j",
+    "target": "je",
+    "frequency": 1,
+    "example_contexts": [
+      "si ton pere me foudroi tout les samedis j ai sa"
+    ]
+  },
+  {
+    "source": "sa",
+    "target": "ça",
+    "frequency": 1,
+    "example_contexts": [
+      "si ton pere me foudroi tout les samedis j ai sa"
+    ]
+  },
+  {
+    "source": "bz",
+    "target": "baiser",
+    "frequency": 1,
+    "example_contexts": [
+      "va bz des chameaux ils ont le meme intellignce que toi"
+    ]
+  },
+  {
+    "source": "meme",
+    "target": "même",
+    "frequency": 1,
+    "example_contexts": [
+      "va bz des chameaux ils ont le meme intellignce que toi"
+    ]
+  },
+  {
+    "source": "intellignce",
+    "target": "intelligence",
+    "frequency": 1,
+    "example_contexts": [
+      "va bz des chameaux ils ont le meme intellignce que toi"
+    ]
+  },
+  {
+    "source": "etre",
+    "target": "être",
+    "frequency": 1,
+    "example_contexts": [
+      "ellian t'aurais peut etre pas du parler"
+    ]
+  },
+  {
+    "source": "ouai",
+    "target": "ouais",
+    "frequency": 2,
+    "example_contexts": [
+      "ouai et alors ma mere est en surpois ya quoi",
+      "toi tu va tenir mon chibre ouai sale pute"
+    ]
+  },
+  {
+    "source": "mere",
+    "target": "mère",
+    "frequency": 2,
+    "example_contexts": [
+      "ouai et alors ma mere est en surpois ya quoi",
+      "ta mere elle a du t'élever a la dure"
+    ]
+  },
+  {
+    "source": "surpois",
+    "target": "surpoids",
+    "frequency": 1,
+    "example_contexts": [
+      "ouai et alors ma mere est en surpois ya quoi"
+    ]
+  },
+  {
+    "source": "ya",
+    "target": "il y a",
+    "frequency": 1,
+    "example_contexts": [
+      "ouai et alors ma mere est en surpois ya quoi"
+    ]
+  },
+  {
+    "source": "tient",
+    "target": "tiens",
+    "frequency": 1,
+    "example_contexts": [
+      "tient ca ellian"
+    ]
+  },
+  {
+    "source": "ca",
+    "target": "ça",
+    "frequency": 2,
+    "example_contexts": [
+      "tient ca ellian",
+      "ca tapporte rien dans ta vie a part de la d"
+    ]
+  },
+  {
+    "source": "mskn",
+    "target": "miskin",
+    "frequency": 1,
+    "example_contexts": [
+      "mskn"
+    ]
+  },
+  {
+    "source": "mtn",
+    "target": "maintenant",
+    "frequency": 1,
+    "example_contexts": [
+      "Bref Paul mtn déconnectes toi et essaye d'arreter de répondre a ses provocations c inutile"
+    ]
+  },
+  {
+    "source": "d'arreter",
+    "target": "d'arrêter",
+    "frequency": 1,
+    "example_contexts": [
+      "Bref Paul mtn déconnectes toi et essaye d'arreter de répondre a ses provocations c inutile"
+    ]
+  },
+  {
+    "source": "a",
+    "target": "à",
+    "frequency": 3,
+    "example_contexts": [
+      "Bref Paul mtn déconnectes toi et essaye d'arreter de répondre a ses provocations c inutile",
+      "ca tapporte rien dans ta vie a part de la d",
+      "ta mere elle a du t'élever a la dure"
+    ]
+  },
+  {
+    "source": "c",
+    "target": "c'est",
+    "frequency": 2,
+    "example_contexts": [
+      "Bref Paul mtn déconnectes toi et essaye d'arreter de répondre a ses provocations c inutile",
+      "bref c inutile"
+    ]
+  },
+  {
+    "source": "chibre",
+    "target": "pénis",
+    "frequency": 3,
+    "example_contexts": [
+      "toi tu va tenir mon chibre ouai sale pute",
+      "lequel de chibre 36mm on le vois pas",
+      "avoir un chibre pour ne pas s'en servir c'est dommage Ellian"
+    ]
+  },
+  {
+    "source": "tapporte",
+    "target": "t'apporte",
+    "frequency": 1,
+    "example_contexts": [
+      "ca tapporte rien dans ta vie a part de la d"
+    ]
+  },
+  {
+    "source": "d",
+    "target": "drogue",
+    "frequency": 1,
+    "example_contexts": [
+      "ca tapporte rien dans ta vie a part de la d"
+    ]
+  },
+  {
+    "source": "y",
+    "target": "il",
+    "frequency": 1,
+    "example_contexts": [
+      "y faut un microscope"
+    ]
+  },
+  {
+    "source": "bahaha",
+    "target": "rire",
+    "frequency": 1,
+    "example_contexts": [
+      "bahaha"
+    ]
+  },
+  {
+    "source": "ouf",
+    "target": "fou",
+    "frequency": 1,
+    "example_contexts": [
+      "de ouf"
+    ]
+  },
+  {
+    "source": "arretez",
+    "target": "arrêtez",
+    "frequency": 1,
+    "example_contexts": [
+      "vous arretez un peu"
+    ]
+  },
+  {
+    "source": "frr",
+    "target": "frère",
+    "frequency": 1,
+    "example_contexts": [
+      "MAIS FRR"
+    ]
+  },
+  {
+    "source": "c est",
+    "target": "c'est",
+    "frequency": 1,
+    "example_contexts": [
+      "les gays c est des gay"
+    ]
+  },
+  {
+    "source": "waw",
+    "target": "waouh",
+    "frequency": 1,
+    "example_contexts": [
+      "waw Ellian t’es sur ?"
+    ]
+  },
+  {
+    "source": "sur",
+    "target": "sûr",
+    "frequency": 1,
+    "example_contexts": [
+      "waw Ellian t’es sur ?"
+    ]
+  },
+  {
+    "source": "ty",
+    "target": "t'y",
+    "frequency": 1,
+    "example_contexts": [
+      "tu vois quand tu ty mets"
+    ]
+  },
+  {
+    "source": "allors",
+    "target": "alors",
+    "frequency": 1,
+    "example_contexts": [
+      "ellian tu ne sais plus quoi dire allors occupe toi de ton chibre et d'essayer de le faire grandir au lieu de nous soulé"
+    ]
+  },
+  {
+    "source": "soulé",
+    "target": "saouler",
+    "frequency": 1,
+    "example_contexts": [
+      "ellian tu ne sais plus quoi dire allors occupe toi de ton chibre et d'essayer de le faire grandir au lieu de nous soulé"
+    ]
+  }
+]
