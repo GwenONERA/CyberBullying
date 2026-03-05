@@ -1,0 +1,2177 @@
+[
+  {
+    "source": "tt",
+    "target": "tout",
+    "frequency": 3,
+    "example_contexts": [
+      "de tt facon c'est tro tard elle est postée",
+      "on arrete de manger tt le mponde la",
+      "tt a fait tu as qua maigrir"
+    ]
+  },
+  {
+    "source": "facon",
+    "target": "façon",
+    "frequency": 1,
+    "example_contexts": [
+      "de tt facon c'est tro tard elle est postée"
+    ]
+  },
+  {
+    "source": "tro",
+    "target": "trop",
+    "frequency": 1,
+    "example_contexts": [
+      "de tt facon c'est tro tard elle est postée"
+    ]
+  },
+  {
+    "source": "jppp",
+    "target": "j'en peux plus",
+    "frequency": 1,
+    "example_contexts": [
+      "jppp pauline je suis ton ami alors j'essaie de calmer la situation"
+    ]
+  },
+  {
+    "source": ":)",
+    "target": "sourire",
+    "frequency": 2,
+    "example_contexts": [
+      "theresa  avoue :)",
+      "Tu devrais faire un gros régime Zoé Si tu veux je t'aide :)"
+    ]
+  },
+  {
+    "source": "chiotte",
+    "target": "toilette",
+    "frequency": 1,
+    "example_contexts": [
+      "la dignité partie au chiotte..."
+    ]
+  },
+  {
+    "source": "meme",
+    "target": "même",
+    "frequency": 8,
+    "example_contexts": [
+      "une photo meme postée ca s'efface nous prenez pas pour des cons 😤",
+      "meme en ouvrant les yeux",
+      "de notre point de vue c'est quand meme vachement drole"
+    ]
+  },
+  {
+    "source": "ca",
+    "target": "ça",
+    "frequency": 31,
+    "example_contexts": [
+      "une photo meme postée ca s'efface nous prenez pas pour des cons 😤",
+      "bon allez supprimez moi ca",
+      "nah justement pauline efface la comme ca tu le verra plus ohlala$"
+    ]
+  },
+  {
+    "source": "jpp",
+    "target": "j'en peux plus",
+    "frequency": 2,
+    "example_contexts": [
+      "jpp tu t'auto-respectes nous on respecte  pas les mechants",
+      "AHHHHH JPP"
+    ]
+  },
+  {
+    "source": "oooooh",
+    "target": "oh",
+    "frequency": 1,
+    "example_contexts": [
+      "oooooh"
+    ]
+  },
+  {
+    "source": "mm",
+    "target": "même",
+    "frequency": 2,
+    "example_contexts": [
+      "une photo sur le net ca part pas mm si on voulait",
+      "jte parle mm pas"
+    ]
+  },
+  {
+    "source": "cq",
+    "target": "c'est quoi",
+    "frequency": 1,
+    "example_contexts": [
+      "vous voulez que je me jette d'un immeuble c'est cq?"
+    ]
+  },
+  {
+    "source": "serieux",
+    "target": "sérieux",
+    "frequency": 2,
+    "example_contexts": [
+      "pauline supprime ca t'apporte quoi serieux ?",
+      "serieux tu t'es vue pétasse"
+    ]
+  },
+  {
+    "source": "tg",
+    "target": "ta gueule",
+    "frequency": 3,
+    "example_contexts": [
+      "Tg Thérèsa",
+      "tg elisa",
+      "michel tg"
+    ]
+  },
+  {
+    "source": "🙄",
+    "target": "exaspération",
+    "frequency": 1,
+    "example_contexts": [
+      "mais bien sur que si 🙄puis tait toi theresa toi t'es juste un petit toutou derrière pauline qui se cache derrière son ordi"
+    ]
+  },
+  {
+    "source": "tait",
+    "target": "tais",
+    "frequency": 1,
+    "example_contexts": [
+      "mais bien sur que si 🙄puis tait toi theresa toi t'es juste un petit toutou derrière pauline qui se cache derrière son ordi"
+    ]
+  },
+  {
+    "source": "ordi",
+    "target": "ordinateur",
+    "frequency": 1,
+    "example_contexts": [
+      "mais bien sur que si 🙄puis tait toi theresa toi t'es juste un petit toutou derrière pauline qui se cache derrière son ordi"
+    ]
+  },
+  {
+    "source": "deja",
+    "target": "déjà",
+    "frequency": 4,
+    "example_contexts": [
+      "Deja a partir du moment ou tu t'appelles Thérésa t'as pas le droit a la parole",
+      "d'ou tu me parle? faudrait deja que tu perde 100 kg avant de me donner des ordres la grosse",
+      "sa y est jsuis morte deja"
+    ]
+  },
+  {
+    "source": "ou",
+    "target": "où",
+    "frequency": 3,
+    "example_contexts": [
+      "Deja a partir du moment ou tu t'appelles Thérésa t'as pas le droit a la parole",
+      "il est ou le fun ??? Y'A QUOI DE FUN DANS LE FAIT DE FAIRE SOUFFIR UNE PERSONNE EN SE MOQUANT D'ELLE ????!!!!",
+      "bh si vous vous senté bien dasn vos peu comme vous le dites si bien arreter d'embeter les autre bh ton avis maorie tu te le met la ou je pense"
+    ]
+  },
+  {
+    "source": "a",
+    "target": "est",
+    "frequency": 1,
+    "example_contexts": [
+      "att c qui qui poste des photos de ki a poil"
+    ]
+  },
+  {
+    "source": "a",
+    "target": "à",
+    "frequency": 13,
+    "example_contexts": [
+      "Deja a partir du moment ou tu t'appelles Thérésa t'as pas le droit a la parole",
+      "ca vous avance a quoi de faire des choses comme ca ?? vous pensez etre superieurs mais vous etes juste des petites merdes",
+      "theo: fais gaffe a ton cul"
+    ]
+  },
+  {
+    "source": "c",
+    "target": "c'est",
+    "frequency": 15,
+    "example_contexts": [
+      "les ecoutes pas c juste des gros cons",
+      "mais non francois les ecoutes pas c eux les nuls ils ont que ca a faire de leur vie",
+      "Theo la prochaine fois que tu dis un truc pareil je te fais gouter au tarmac c bon ?"
+    ]
+  },
+  {
+    "source": "vs",
+    "target": "vous",
+    "frequency": 4,
+    "example_contexts": [
+      "Vs exagérez",
+      "Je v vs boter le cul",
+      "vs vs comportez vrmt trtop mals"
+    ]
+  },
+  {
+    "source": "popoopooo",
+    "target": "popopop",
+    "frequency": 1,
+    "example_contexts": [
+      "popoopooo Lucas yessss"
+    ]
+  },
+  {
+    "source": "yessss",
+    "target": "yes",
+    "frequency": 2,
+    "example_contexts": [
+      "popoopooo Lucas yessss",
+      "Donc tu sous-entends que tu vas sauter Francois? YESSSS"
+    ]
+  },
+  {
+    "source": "reponse",
+    "target": "réponse",
+    "frequency": 2,
+    "example_contexts": [
+      "bon francois on attend ta reponse pour l'immeuble",
+      "bon francois.... jai pas eu ta reponse pour l'imeuble mdrrrrr"
+    ]
+  },
+  {
+    "source": "arrete",
+    "target": "arrête",
+    "frequency": 3,
+    "example_contexts": [
+      "Pauline t'abuses arrete toi srx",
+      "on arrete de manger tt le mponde la",
+      "non on arrete pas:') :') :') :') il est grosse"
+    ]
+  },
+  {
+    "source": "srx",
+    "target": "sérieux",
+    "frequency": 3,
+    "example_contexts": [
+      "Pauline t'abuses arrete toi srx",
+      "fermez la srx",
+      "mais vazi srx"
+    ]
+  },
+  {
+    "source": "etre",
+    "target": "être",
+    "frequency": 13,
+    "example_contexts": [
+      "C'est vrai qu'on force peut etre un peu mais c'est si drole",
+      "Mon poing dans ta gueule va etre tout aussi drole Théo",
+      "tu peux pas courir 2 secs sans etre essoufle"
+    ]
+  },
+  {
+    "source": "drole",
+    "target": "drôle",
+    "frequency": 3,
+    "example_contexts": [
+      "C'est vrai qu'on force peut etre un peu mais c'est si drole",
+      "y a rien de drole Theresa",
+      "Mon poing dans ta gueule va etre tout aussi drole Théo"
+    ]
+  },
+  {
+    "source": "sis",
+    "target": "suis",
+    "frequency": 1,
+    "example_contexts": [
+      "je sis dd'aéccord c'est pas drole ferme la"
+    ]
+  },
+  {
+    "source": "dd'aéccord",
+    "target": "d'accord",
+    "frequency": 1,
+    "example_contexts": [
+      "je sis dd'aéccord c'est pas drole ferme la"
+    ]
+  },
+  {
+    "source": "t",
+    "target": "t'",
+    "frequency": 2,
+    "example_contexts": [
+      "laisse le il t a rien fait supprime la taphoto",
+      "je t ai fait quoi pour que tu dises ça"
+    ]
+  },
+  {
+    "source": "t",
+    "target": "t'es",
+    "frequency": 3,
+    "example_contexts": [
+      "t kune pute",
+      "salope ! tu t vu ?",
+      "t grosse tu bouffe que des macdo"
+    ]
+  },
+  {
+    "source": "t",
+    "target": "tu es",
+    "frequency": 3,
+    "example_contexts": [
+      "et bah quoi T pas contente? m'en fout",
+      "t raciste ou ca se passe comment en fait martine",
+      "t une comique toi"
+    ]
+  },
+  {
+    "source": "taphoto",
+    "target": "ta photo",
+    "frequency": 1,
+    "example_contexts": [
+      "laisse le il t a rien fait supprime la taphoto"
+    ]
+  },
+  {
+    "source": "y",
+    "target": "il y",
+    "frequency": 1,
+    "example_contexts": [
+      "y a rien de drole Theresa"
+    ]
+  },
+  {
+    "source": "ecoutes",
+    "target": "écoutes",
+    "frequency": 1,
+    "example_contexts": [
+      "mais non francois les ecoutes pas c eux les nuls ils ont que ca a faire de leur vie"
+    ]
+  },
+  {
+    "source": "okkkk",
+    "target": "ok",
+    "frequency": 1,
+    "example_contexts": [
+      "Okkkk cest bon vous me faites chier je vais poster encore plus de photo de mon petit cheri francois"
+    ]
+  },
+  {
+    "source": "cest",
+    "target": "c'est",
+    "frequency": 7,
+    "example_contexts": [
+      "Okkkk cest bon vous me faites chier je vais poster encore plus de photo de mon petit cheri francois",
+      "mdrrr cest toi le petit puceau fragile qui parle",
+      "cest elle qui me kiffe"
+    ]
+  },
+  {
+    "source": "ouaaaissssss",
+    "target": "ouais",
+    "frequency": 1,
+    "example_contexts": [
+      "Ouaaaissssss"
+    ]
+  },
+  {
+    "source": "francois",
+    "target": "françois",
+    "frequency": 1,
+    "example_contexts": [
+      "et meme n importe qui d autre qui parle mal de Francois"
+    ]
+  },
+  {
+    "source": "faccon",
+    "target": "façon",
+    "frequency": 1,
+    "example_contexts": [
+      "de toute facon vous 2 je vous reglerais votre compte"
+    ]
+  },
+  {
+    "source": "2",
+    "target": "deux",
+    "frequency": 2,
+    "example_contexts": [
+      "de toute facon vous 2 je vous reglerais votre compte",
+      "tu peux pas courir 2 secs sans etre essoufle"
+    ]
+  },
+  {
+    "source": "reglerais",
+    "target": "réglerais",
+    "frequency": 1,
+    "example_contexts": [
+      "de toute facon vous 2 je vous reglerais votre compte"
+    ]
+  },
+  {
+    "source": "secs",
+    "target": "secondes",
+    "frequency": 1,
+    "example_contexts": [
+      "tu peux pas courir 2 secs sans etre essoufle"
+    ]
+  },
+  {
+    "source": "essoufle",
+    "target": "essoufflé",
+    "frequency": 1,
+    "example_contexts": [
+      "tu peux pas courir 2 secs sans etre essoufle"
+    ]
+  },
+  {
+    "source": "ficello",
+    "target": "idiot",
+    "frequency": 1,
+    "example_contexts": [
+      "theresa t'es un ficello juste tais toi"
+    ]
+  },
+  {
+    "source": "mdrr",
+    "target": "mdr",
+    "frequency": 2,
+    "example_contexts": [
+      "mdrr tu vas regler rie",
+      "oui mdrr faut pas qui tu des gens en bas"
+    ]
+  },
+  {
+    "source": "rie",
+    "target": "rien",
+    "frequency": 1,
+    "example_contexts": [
+      "mdrr tu vas regler rie"
+    ]
+  },
+  {
+    "source": "mere",
+    "target": "mère",
+    "frequency": 4,
+    "example_contexts": [
+      "Et ta mere elle peut courir 2sec aussi sans etre essoufles?",
+      "bah la mere d'une grosse moche doit etre grosse moche",
+      "bah c sa mere qui se met a 4 pattes devant luji"
+    ]
+  },
+  {
+    "source": "2sec",
+    "target": "deux secondes",
+    "frequency": 1,
+    "example_contexts": [
+      "Et ta mere elle peut courir 2sec aussi sans etre essoufles?"
+    ]
+  },
+  {
+    "source": "loolllllllll",
+    "target": "lol",
+    "frequency": 1,
+    "example_contexts": [
+      "Qui dit \"karma\" ?? Loolllllllll"
+    ]
+  },
+  {
+    "source": "tkt",
+    "target": "t'inquiète",
+    "frequency": 5,
+    "example_contexts": [
+      "tkt la police saura etre plus efficace que moi",
+      "tkt pauline tu vas avoir ce que tu merites",
+      "ouais maint tkt on te vois pas derrire tes bourllet"
+    ]
+  },
+  {
+    "source": "la",
+    "target": "là",
+    "frequency": 3,
+    "example_contexts": [
+      "meme la police va rigoler à ce niveau la",
+      "putain je pars la",
+      "mais ferme la ta  vu ta gueule"
+    ]
+  },
+  {
+    "source": "jai",
+    "target": "j'ai",
+    "frequency": 2,
+    "example_contexts": [
+      "bon francois.... jai pas eu ta reponse pour l'imeuble mdrrrrr",
+      "En fait jai changé d'avis."
+    ]
+  },
+  {
+    "source": "imeuble",
+    "target": "immeuble",
+    "frequency": 1,
+    "example_contexts": [
+      "bon francois.... jai pas eu ta reponse pour l'imeuble mdrrrrr"
+    ]
+  },
+  {
+    "source": "mdrrrrr",
+    "target": "mdr",
+    "frequency": 1,
+    "example_contexts": [
+      "bon francois.... jai pas eu ta reponse pour l'imeuble mdrrrrr"
+    ]
+  },
+  {
+    "source": "etes",
+    "target": "êtes",
+    "frequency": 4,
+    "example_contexts": [
+      "ca vous avance a quoi de faire des choses comme ca ?? vous pensez etre superieurs mais vous etes juste des petites merdes",
+      "vous etes nul en cours et vous vous defoulez sur une meuf bcp mieux que vous",
+      "vous etes pas dans sa situation vous savez pas ce qu'elle vie"
+    ]
+  },
+  {
+    "source": "mdrrrrrr",
+    "target": "mdr",
+    "frequency": 1,
+    "example_contexts": [
+      "Les flics c des merdes il nous retrouveront jamais je suis sous VPN MDRRRRRR"
+    ]
+  },
+  {
+    "source": "mdrrr",
+    "target": "mdr",
+    "frequency": 5,
+    "example_contexts": [
+      "mdrrr cest toi le petit puceau fragile qui parle",
+      "un petit porc mdrrr bien trouver les deux bouffones elles t'emmerdent",
+      "mdrrr les salles de sport sont fermer mais faire un tpur de la ville je croi que cest mieux"
+    ]
+  },
+  {
+    "source": "mdrrrr",
+    "target": "mdr",
+    "frequency": 1,
+    "example_contexts": [
+      "mdrrrr"
+    ]
+  },
+  {
+    "source": "tu",
+    "target": "tue",
+    "frequency": 1,
+    "example_contexts": [
+      "oui mdrr faut pas qui tu des gens en bas"
+    ]
+  },
+  {
+    "source": "1",
+    "target": "une",
+    "frequency": 2,
+    "example_contexts": [
+      "juste 1 question est repondez-y : ca vous apporte quoi de faire ca ?",
+      "c sur que ecraser des personnes ca doit etre facile pour toi vue que yu pese 1 tonne"
+    ]
+  },
+  {
+    "source": "repondez-y",
+    "target": "répondez-y",
+    "frequency": 1,
+    "example_contexts": [
+      "juste 1 question est repondez-y : ca vous apporte quoi de faire ca ?"
+    ]
+  },
+  {
+    "source": "funs",
+    "target": "divertissements",
+    "frequency": 1,
+    "example_contexts": [
+      "je connais d autres funs vous avez pas besoin de faire ca"
+    ]
+  },
+  {
+    "source": "pk",
+    "target": "pourquoi",
+    "frequency": 2,
+    "example_contexts": [
+      "pk ca me ferais kiffer ?!!",
+      "pk tu fais ca meuf"
+    ]
+  },
+  {
+    "source": "kiffer",
+    "target": "aimer",
+    "frequency": 2,
+    "example_contexts": [
+      "pk ca me ferais kiffer ?!!",
+      "en attendant il a l'air de kiffer ma mère Jules..."
+    ]
+  },
+  {
+    "source": "miiiiiiiiiiiiiiiiiiiiiiiiiiiiich",
+    "target": "mich",
+    "frequency": 1,
+    "example_contexts": [
+      "Yo miiiiiiiiiiiiiiiiiiiiiiiiiiiich"
+    ]
+  },
+  {
+    "source": "fatiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii",
+    "target": "fati",
+    "frequency": 1,
+    "example_contexts": [
+      "fatiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii"
+    ]
+  },
+  {
+    "source": "ki",
+    "target": "qui",
+    "frequency": 2,
+    "example_contexts": [
+      "C toi ki parl",
+      "att c qui qui poste des photos de ki a poil"
+    ]
+  },
+  {
+    "source": "parl",
+    "target": "parles",
+    "frequency": 1,
+    "example_contexts": [
+      "C toi ki parl"
+    ]
+  },
+  {
+    "source": "vazi",
+    "target": "vas-y",
+    "frequency": 1,
+    "example_contexts": [
+      "mais vazi srx"
+    ]
+  },
+  {
+    "source": "fotos",
+    "target": "photos",
+    "frequency": 4,
+    "example_contexts": [
+      "d'où t'as été mettre mes fotos tepu va",
+      "pq tu postes des fotos de mwa à poil wsh",
+      "c'est cette put de Martine qui a pris des fotos de moi"
+    ]
+  },
+  {
+    "source": "tepu",
+    "target": "pute",
+    "frequency": 1,
+    "example_contexts": [
+      "d'où t'as été mettre mes fotos tepu va"
+    ]
+  },
+  {
+    "source": "m'parle",
+    "target": "me parle",
+    "frequency": 1,
+    "example_contexts": [
+      "hey! tu m'parle autrement la grosse!"
+    ]
+  },
+  {
+    "source": "kune",
+    "target": "qu'une",
+    "frequency": 1,
+    "example_contexts": [
+      "t kune pute"
+    ]
+  },
+  {
+    "source": "tfk",
+    "target": "tu fais quoi",
+    "frequency": 1,
+    "example_contexts": [
+      "tfk jenny"
+    ]
+  },
+  {
+    "source": "fout",
+    "target": "fous",
+    "frequency": 1,
+    "example_contexts": [
+      "et bah quoi T pas contente? m'en fout"
+    ]
+  },
+  {
+    "source": "pq",
+    "target": "pourquoi",
+    "frequency": 2,
+    "example_contexts": [
+      "pq tu postes des fotos de mwa à poil wsh",
+      "pq tu me mattes sous la douche alors?"
+    ]
+  },
+  {
+    "source": "mwa",
+    "target": "moi",
+    "frequency": 1,
+    "example_contexts": [
+      "pq tu postes des fotos de mwa à poil wsh"
+    ]
+  },
+  {
+    "source": "wsh",
+    "target": "wesh",
+    "frequency": 1,
+    "example_contexts": [
+      "pq tu postes des fotos de mwa à poil wsh"
+    ]
+  },
+  {
+    "source": "ta",
+    "target": "t'as",
+    "frequency": 1,
+    "example_contexts": [
+      "mais ferme la ta  vu ta gueule"
+    ]
+  },
+  {
+    "source": "ta",
+    "target": "tu as",
+    "frequency": 5,
+    "example_contexts": [
+      "ta pas dvi?",
+      "ben peutetre quelle a des probleme de santé et  alors ta pas a la traite comme sa",
+      "beh ta qua arreter de faire des photos sexy qui sont pas fait pour toi"
+    ]
+  },
+  {
+    "source": "dvi",
+    "target": "de vie",
+    "frequency": 1,
+    "example_contexts": [
+      "ta pas dvi?"
+    ]
+  },
+  {
+    "source": "att",
+    "target": "attends",
+    "frequency": 1,
+    "example_contexts": [
+      "att c qui qui poste des photos de ki a poil"
+    ]
+  },
+  {
+    "source": "put",
+    "target": "putain",
+    "frequency": 1,
+    "example_contexts": [
+      "c'est cette put de Martine qui a pris des fotos de moi"
+    ]
+  },
+  {
+    "source": "pdt",
+    "target": "pendant",
+    "frequency": 1,
+    "example_contexts": [
+      "pdt le voyage"
+    ]
+  },
+  {
+    "source": "dou",
+    "target": "d'où",
+    "frequency": 1,
+    "example_contexts": [
+      "dou elle etait dans ta douche"
+    ]
+  },
+  {
+    "source": "slt",
+    "target": "salut",
+    "frequency": 1,
+    "example_contexts": [
+      "hey! slt Juju!"
+    ]
+  },
+  {
+    "source": "stp",
+    "target": "s'il te plaît",
+    "frequency": 3,
+    "example_contexts": [
+      "mais d'où tu parles le micropenis stp",
+      "donc ftg stp",
+      "ecoute ce que soan dis et reviens après stp"
+    ]
+  },
+  {
+    "source": "faurdrait",
+    "target": "faudrait",
+    "frequency": 1,
+    "example_contexts": [
+      "et pour aimer ton cul faurdrait etre aveugle la grosse"
+    ]
+  },
+  {
+    "source": "calmmmmmm",
+    "target": "calme",
+    "frequency": 1,
+    "example_contexts": [
+      "on se calmmmmmm"
+    ]
+  },
+  {
+    "source": "m",
+    "target": "me",
+    "frequency": 1,
+    "example_contexts": [
+      "c toi la pute et tu m parle pas comme ca"
+    ]
+  },
+  {
+    "source": "pb",
+    "target": "problème",
+    "frequency": 1,
+    "example_contexts": [
+      "bah quoi? l'étrangère a un pb?"
+    ]
+  },
+  {
+    "source": "ducoup",
+    "target": "du coup",
+    "frequency": 1,
+    "example_contexts": [
+      "ducoup elle me suce"
+    ]
+  },
+  {
+    "source": "voudraizetn",
+    "target": "voudraient",
+    "frequency": 1,
+    "example_contexts": [
+      "T'a raison ils voudraizetn pas d'elle"
+    ]
+  },
+  {
+    "source": "hahahahahahahahahahahahaha",
+    "target": "rire",
+    "frequency": 1,
+    "example_contexts": [
+      "hahahahahahahahahahahahaha"
+    ]
+  },
+  {
+    "source": "kes",
+    "target": "qu'est-ce",
+    "frequency": 1,
+    "example_contexts": [
+      "kes tu dis"
+    ]
+  },
+  {
+    "source": "jmange",
+    "target": "je mange",
+    "frequency": 1,
+    "example_contexts": [
+      "jmange ta mere surtout"
+    ]
+  },
+  {
+    "source": "tut'",
+    "target": "tu te",
+    "frequency": 1,
+    "example_contexts": [
+      "hey toi tut'la ferme l'étrazngère! retourne dans ton pays de merde"
+    ]
+  },
+  {
+    "source": "l'étrazngère",
+    "target": "l'étrangère",
+    "frequency": 1,
+    "example_contexts": [
+      "hey toi tut'la ferme l'étrazngère! retourne dans ton pays de merde"
+    ]
+  },
+  {
+    "source": "mponde",
+    "target": "monde",
+    "frequency": 1,
+    "example_contexts": [
+      "on arrete de manger tt le mponde la"
+    ]
+  },
+  {
+    "source": "crevrr",
+    "target": "crever",
+    "frequency": 1,
+    "example_contexts": [
+      "va crevrr"
+    ]
+  },
+  {
+    "source": "kif",
+    "target": "aime",
+    "frequency": 1,
+    "example_contexts": [
+      "donc il kif les grosses moches"
+    ]
+  },
+  {
+    "source": "oue",
+    "target": "oui",
+    "frequency": 1,
+    "example_contexts": [
+      "oue ca doit etre ca"
+    ]
+  },
+  {
+    "source": "jore",
+    "target": "genre",
+    "frequency": 1,
+    "example_contexts": [
+      "jore ton pere le chauve"
+    ]
+  },
+  {
+    "source": "pere",
+    "target": "père",
+    "frequency": 1,
+    "example_contexts": [
+      "jore ton pere le chauve"
+    ]
+  },
+  {
+    "source": "d'ou",
+    "target": "d'où",
+    "frequency": 1,
+    "example_contexts": [
+      "d'ou tu me parle? faudrait deja que tu perde 100 kg avant de me donner des ordres la grosse"
+    ]
+  },
+  {
+    "source": "triop",
+    "target": "trop",
+    "frequency": 1,
+    "example_contexts": [
+      "Juju est triop bien pour ton cul de vache!"
+    ]
+  },
+  {
+    "source": "tinsulte",
+    "target": "tu n'insultes",
+    "frequency": 1,
+    "example_contexts": [
+      "tinsulte pas mon pays connasse"
+    ]
+  },
+  {
+    "source": "v",
+    "target": "vais",
+    "frequency": 1,
+    "example_contexts": [
+      "Je v vs boter le cul"
+    ]
+  },
+  {
+    "source": "boter",
+    "target": "botter",
+    "frequency": 1,
+    "example_contexts": [
+      "Je v vs boter le cul"
+    ]
+  },
+  {
+    "source": "jen",
+    "target": "j'en",
+    "frequency": 1,
+    "example_contexts": [
+      "jen ai mar de vous"
+    ]
+  },
+  {
+    "source": "mar",
+    "target": "marre",
+    "frequency": 1,
+    "example_contexts": [
+      "jen ai mar de vous"
+    ]
+  },
+  {
+    "source": "jte",
+    "target": "je te",
+    "frequency": 2,
+    "example_contexts": [
+      "jte parle mm pas",
+      "jte fou un coup avec mes seins tu verras"
+    ]
+  },
+  {
+    "source": "vrmt",
+    "target": "vraiment",
+    "frequency": 1,
+    "example_contexts": [
+      "vs vs comportez vrmt trtop mals"
+    ]
+  },
+  {
+    "source": "trtop",
+    "target": "trop",
+    "frequency": 1,
+    "example_contexts": [
+      "vs vs comportez vrmt trtop mals"
+    ]
+  },
+  {
+    "source": "mals",
+    "target": "mal",
+    "frequency": 1,
+    "example_contexts": [
+      "vs vs comportez vrmt trtop mals"
+    ]
+  },
+  {
+    "source": "dsl",
+    "target": "désolé",
+    "frequency": 1,
+    "example_contexts": [
+      "dsl mais trop moches"
+    ]
+  },
+  {
+    "source": "pâs",
+    "target": "pas",
+    "frequency": 1,
+    "example_contexts": [
+      "fallait pâs poster des fotos de moi si tu voulais que je me calme"
+    ]
+  },
+  {
+    "source": "g",
+    "target": "j'ai",
+    "frequency": 1,
+    "example_contexts": [
+      "g eu mal aux yeux"
+    ]
+  },
+  {
+    "source": "profs",
+    "target": "professeurs",
+    "frequency": 2,
+    "example_contexts": [
+      "frère t'es là tu fais la lèche avec les profs",
+      "mentalement elle est pas mieux tricher et sucer les profs pour avoir des bonnes notes"
+    ]
+  },
+  {
+    "source": "arreté",
+    "target": "arrêtez",
+    "frequency": 1,
+    "example_contexts": [
+      "arreté bande de conne vous avez cas travaillé"
+    ]
+  },
+  {
+    "source": "cas",
+    "target": "qu'à",
+    "frequency": 1,
+    "example_contexts": [
+      "arreté bande de conne vous avez cas travaillé"
+    ]
+  },
+  {
+    "source": "travaillé",
+    "target": "travailler",
+    "frequency": 1,
+    "example_contexts": [
+      "arreté bande de conne vous avez cas travaillé"
+    ]
+  },
+  {
+    "source": "espece",
+    "target": "espèce",
+    "frequency": 1,
+    "example_contexts": [
+      "espece de hassa boulette"
+    ]
+  },
+  {
+    "source": "hassa",
+    "target": "malveillant",
+    "frequency": 1,
+    "example_contexts": [
+      "espece de hassa boulette"
+    ]
+  },
+  {
+    "source": "macdo",
+    "target": "mcdonald's",
+    "frequency": 2,
+    "example_contexts": [
+      "t grosse tu bouffe que des macdo",
+      "va retourner manger macdo avec tes 3 menu signature"
+    ]
+  },
+  {
+    "source": "m'enerver",
+    "target": "m'énerver",
+    "frequency": 1,
+    "example_contexts": [
+      "tu commence a m'enerver"
+    ]
+  },
+  {
+    "source": "bcp",
+    "target": "beaucoup",
+    "frequency": 1,
+    "example_contexts": [
+      "vous etes nul en cours et vous vous defoulez sur une meuf bcp mieux que vous"
+    ]
+  },
+  {
+    "source": "ptdrrr",
+    "target": "pété de rire",
+    "frequency": 1,
+    "example_contexts": [
+      "ptdrrr alors si une grosse boule"
+    ]
+  },
+  {
+    "source": "peutetre",
+    "target": "peut-être",
+    "frequency": 1,
+    "example_contexts": [
+      "ben peutetre quelle a des probleme de santé et  alors ta pas a la traite comme sa"
+    ]
+  },
+  {
+    "source": "quelle",
+    "target": "qu'elle",
+    "frequency": 2,
+    "example_contexts": [
+      "ben peutetre quelle a des probleme de santé et  alors ta pas a la traite comme sa",
+      "zoé fait pas attention à ceux quelle dit"
+    ]
+  },
+  {
+    "source": "probleme",
+    "target": "problème",
+    "frequency": 1,
+    "example_contexts": [
+      "ben peutetre quelle a des probleme de santé et  alors ta pas a la traite comme sa"
+    ]
+  },
+  {
+    "source": "sa",
+    "target": "ça",
+    "frequency": 7,
+    "example_contexts": [
+      "ben peutetre quelle a des probleme de santé et  alors ta pas a la traite comme sa",
+      "sa y est jsuis morte deja",
+      "zoé tu vaux mieux que sa"
+    ]
+  },
+  {
+    "source": "qua",
+    "target": "qu'à",
+    "frequency": 4,
+    "example_contexts": [
+      "tt a fait tu as qua maigrir",
+      "beh ta qua arreter de faire des photos sexy qui sont pas fait pour toi",
+      "on dit que la verite elle na qua faire du sport"
+    ]
+  },
+  {
+    "source": "svpppp",
+    "target": "s'il vous plaît",
+    "frequency": 1,
+    "example_contexts": [
+      "svpppp!!!!"
+    ]
+  },
+  {
+    "source": "euuuuh",
+    "target": "euh",
+    "frequency": 1,
+    "example_contexts": [
+      "euuuuh y a pas mieux que nous en fait"
+    ]
+  },
+  {
+    "source": "pfff",
+    "target": "pff",
+    "frequency": 1,
+    "example_contexts": [
+      "pfff vous faites trop les meufs"
+    ]
+  },
+  {
+    "source": "ptit",
+    "target": "petit",
+    "frequency": 1,
+    "example_contexts": [
+      "natacha elle va mourir si tu lui roulle dessus t'as t'es 3 ptit klebs"
+    ]
+  },
+  {
+    "source": "klebs",
+    "target": "chiens",
+    "frequency": 1,
+    "example_contexts": [
+      "natacha elle va mourir si tu lui roulle dessus t'as t'es 3 ptit klebs"
+    ]
+  },
+  {
+    "source": "jsuis",
+    "target": "je suis",
+    "frequency": 1,
+    "example_contexts": [
+      "sa y est jsuis morte deja"
+    ]
+  },
+  {
+    "source": "mieu",
+    "target": "mieux",
+    "frequency": 2,
+    "example_contexts": [
+      "tant mieu",
+      "je suis 10 fois mieu foutu que elle bouffonne"
+    ]
+  },
+  {
+    "source": "dm",
+    "target": "message privé",
+    "frequency": 1,
+    "example_contexts": [
+      "c elle qui est venue nous dm donc on lui dit ce quon pense merdeee"
+    ]
+  },
+  {
+    "source": "quon",
+    "target": "qu'on",
+    "frequency": 1,
+    "example_contexts": [
+      "c elle qui est venue nous dm donc on lui dit ce quon pense merdeee"
+    ]
+  },
+  {
+    "source": "merdeee",
+    "target": "merde",
+    "frequency": 1,
+    "example_contexts": [
+      "c elle qui est venue nous dm donc on lui dit ce quon pense merdeee"
+    ]
+  },
+  {
+    "source": "moin",
+    "target": "moi",
+    "frequency": 1,
+    "example_contexts": [
+      "moin aussi je la soutien de ouf"
+    ]
+  },
+  {
+    "source": "moin",
+    "target": "moins",
+    "frequency": 2,
+    "example_contexts": [
+      "elle au moin  elle respect les gens",
+      "elle au moin elle est pas conne comme vous bande de poufiasse"
+    ]
+  },
+  {
+    "source": "maint",
+    "target": "maintenant",
+    "frequency": 1,
+    "example_contexts": [
+      "ouais maint tkt on te vois pas derrire tes bourllet"
+    ]
+  },
+  {
+    "source": "derrire",
+    "target": "derrière",
+    "frequency": 1,
+    "example_contexts": [
+      "ouais maint tkt on te vois pas derrire tes bourllet"
+    ]
+  },
+  {
+    "source": "bourllet",
+    "target": "bourrelet",
+    "frequency": 1,
+    "example_contexts": [
+      "ouais maint tkt on te vois pas derrire tes bourllet"
+    ]
+  },
+  {
+    "source": "beh",
+    "target": "ben",
+    "frequency": 2,
+    "example_contexts": [
+      "beh oui elle est venu nous parler elle cherche la merde cette grosse",
+      "beh ta qua arreter de faire des photos sexy qui sont pas fait pour toi"
+    ]
+  },
+  {
+    "source": "contrairrement",
+    "target": "contrairement",
+    "frequency": 1,
+    "example_contexts": [
+      "contrairrement a vous salle conne"
+    ]
+  },
+  {
+    "source": "salle",
+    "target": "sale",
+    "frequency": 1,
+    "example_contexts": [
+      "contrairrement a vous salle conne"
+    ]
+  },
+  {
+    "source": "cava",
+    "target": "ça va",
+    "frequency": 1,
+    "example_contexts": [
+      "cava bouboule ?"
+    ]
+  },
+  {
+    "source": ":')",
+    "target": "rire aux larmes",
+    "frequency": 9,
+    "example_contexts": [
+      ":') :') :') :') sexyyyy tout le contraire de zoe",
+      ":') :') :') :') :') un tour de la ville sa tirais pour que tu maigris"
+    ]
+  },
+  {
+    "source": ":')",
+    "target": "sourire",
+    "frequency": 4,
+    "example_contexts": [
+      "non on arrete pas:') :') :') :') il est grosse"
+    ]
+  },
+  {
+    "source": "sexyyyy",
+    "target": "sexy",
+    "frequency": 1,
+    "example_contexts": [
+      ":') :') :') :') sexyyyy tout le contraire de zoe"
+    ]
+  },
+  {
+    "source": "lau",
+    "target": "l'ai",
+    "frequency": 1,
+    "example_contexts": [
+      "oui je lau vu ne tkt pas"
+    ]
+  },
+  {
+    "source": "s'etait",
+    "target": "c'était",
+    "frequency": 1,
+    "example_contexts": [
+      "ah je croyais que s'etait des bourllets"
+    ]
+  },
+  {
+    "source": "putin",
+    "target": "putain",
+    "frequency": 1,
+    "example_contexts": [
+      "mais putin merde a la fin laissé la tranquille elle vous a rien fais"
+    ]
+  },
+  {
+    "source": "bourlet",
+    "target": "bourrelet",
+    "frequency": 1,
+    "example_contexts": [
+      "c'est toi le bourlet lucie"
+    ]
+  },
+  {
+    "source": "3",
+    "target": "trois",
+    "frequency": 1,
+    "example_contexts": [
+      "va retourner manger macdo avec tes 3 menu signature"
+    ]
+  },
+  {
+    "source": "ayaaaa",
+    "target": "aya",
+    "frequency": 1,
+    "example_contexts": [
+      "ayaaaa sa tire a balle reel iciiiii"
+    ]
+  },
+  {
+    "source": "reel",
+    "target": "réel",
+    "frequency": 1,
+    "example_contexts": [
+      "ayaaaa sa tire a balle reel iciiiii"
+    ]
+  },
+  {
+    "source": "iciiiii",
+    "target": "ici",
+    "frequency": 1,
+    "example_contexts": [
+      "ayaaaa sa tire a balle reel iciiiii"
+    ]
+  },
+  {
+    "source": "prefere",
+    "target": "préfère",
+    "frequency": 1,
+    "example_contexts": [
+      "je prefere casser la balance"
+    ]
+  },
+  {
+    "source": "poufiasse",
+    "target": "femme vulgaire",
+    "frequency": 1,
+    "example_contexts": [
+      "ferme la marjorie t'es  qu'une poufiasse sans cervelle"
+    ]
+  },
+  {
+    "source": "tres",
+    "target": "très",
+    "frequency": 2,
+    "example_contexts": [
+      "ON EST TRES BIEN FORMER",
+      "je me sens tres bien dans ma peau je te rassure"
+    ]
+  },
+  {
+    "source": "perimé",
+    "target": "périmé",
+    "frequency": 1,
+    "example_contexts": [
+      "toi tu ressemble a un anus perimé"
+    ]
+  },
+  {
+    "source": "grosee",
+    "target": "grosses",
+    "frequency": 1,
+    "example_contexts": [
+      "C JUSTE ON EST PAS GROSEE PETASSE"
+    ]
+  },
+  {
+    "source": "peut etre",
+    "target": "peut-être",
+    "frequency": 1,
+    "example_contexts": [
+      "mon physique est peut etre pas parfait mais au moins je suis pas une connasse comme vous"
+    ]
+  },
+  {
+    "source": "ditt",
+    "target": "dit",
+    "frequency": 1,
+    "example_contexts": [
+      "bien ditt C'est beaucoup plus beau une fille avec des formes et des kilos en trop qu'une personne plate qui ressemble a une planche a pain bande de pute"
+    ]
+  },
+  {
+    "source": "fiere",
+    "target": "fière",
+    "frequency": 1,
+    "example_contexts": [
+      "je suis fiere d'etre une connassse"
+    ]
+  },
+  {
+    "source": "d'etre",
+    "target": "d'être",
+    "frequency": 1,
+    "example_contexts": [
+      "je suis fiere d'etre une connassse"
+    ]
+  },
+  {
+    "source": "connassse",
+    "target": "connasse",
+    "frequency": 1,
+    "example_contexts": [
+      "je suis fiere d'etre une connassse"
+    ]
+  },
+  {
+    "source": "reussira",
+    "target": "réussira",
+    "frequency": 1,
+    "example_contexts": [
+      "au moins elle reussira sa vie plutot qu'etre conne comme vous"
+    ]
+  },
+  {
+    "source": "plutot",
+    "target": "plutôt",
+    "frequency": 1,
+    "example_contexts": [
+      "au moins elle reussira sa vie plutot qu'etre conne comme vous"
+    ]
+  },
+  {
+    "source": "qu'etre",
+    "target": "qu'être",
+    "frequency": 1,
+    "example_contexts": [
+      "au moins elle reussira sa vie plutot qu'etre conne comme vous"
+    ]
+  },
+  {
+    "source": "viie",
+    "target": "vie",
+    "frequency": 1,
+    "example_contexts": [
+      "ben  tu fera pas long feu dans ta viie"
+    ]
+  },
+  {
+    "source": "j'espere",
+    "target": "j'espère",
+    "frequency": 1,
+    "example_contexts": [
+      "Salut la grosse,  j'espere que la photo t'as plu"
+    ]
+  },
+  {
+    "source": "faure",
+    "target": "faire",
+    "frequency": 1,
+    "example_contexts": [
+      "allez vous faure foutre"
+    ]
+  },
+  {
+    "source": "d",
+    "target": "de",
+    "frequency": 1,
+    "example_contexts": [
+      "Tu parles j'ai adoré mdr,  t'es jalouse d emes résultats c'est tout"
+    ]
+  },
+  {
+    "source": "emes",
+    "target": "mes",
+    "frequency": 1,
+    "example_contexts": [
+      "Tu parles j'ai adoré mdr,  t'es jalouse d emes résultats c'est tout"
+    ]
+  },
+  {
+    "source": "ohh",
+    "target": "oh",
+    "frequency": 1,
+    "example_contexts": [
+      "ohh lala vous etes mechante"
+    ]
+  },
+  {
+    "source": "evite",
+    "target": "évite",
+    "frequency": 1,
+    "example_contexts": [
+      "on vas faire du sport et evite de tous faire sortir"
+    ]
+  },
+  {
+    "source": "tous",
+    "target": "tout",
+    "frequency": 1,
+    "example_contexts": [
+      "on vas faire du sport et evite de tous faire sortir"
+    ]
+  },
+  {
+    "source": "evidemment",
+    "target": "évidemment",
+    "frequency": 1,
+    "example_contexts": [
+      "evidemment que tu est jalouse de zoé et moi nous somme plus fortes que toi"
+    ]
+  },
+  {
+    "source": "grossse",
+    "target": "grosses",
+    "frequency": 1,
+    "example_contexts": [
+      "allez diminue vos grossse bite cest mieux"
+    ]
+  },
+  {
+    "source": "vie",
+    "target": "vit",
+    "frequency": 1,
+    "example_contexts": [
+      "vous etes pas dans sa situation vous savez pas ce qu'elle vie"
+    ]
+  },
+  {
+    "source": "geul",
+    "target": "gueule",
+    "frequency": 1,
+    "example_contexts": [
+      "ta geul toi meme majorie la *****"
+    ]
+  },
+  {
+    "source": "majorie",
+    "target": "m'injuries",
+    "frequency": 1,
+    "example_contexts": [
+      "ta geul toi meme majorie la *****"
+    ]
+  },
+  {
+    "source": "poid",
+    "target": "poids",
+    "frequency": 1,
+    "example_contexts": [
+      "perdre du poid quelle ironie"
+    ]
+  },
+  {
+    "source": "touyt",
+    "target": "tout",
+    "frequency": 1,
+    "example_contexts": [
+      "haha cest pas drole du touyt"
+    ]
+  },
+  {
+    "source": "mexplique",
+    "target": "m'expliques",
+    "frequency": 1,
+    "example_contexts": [
+      "ça t'apporte quoi de l'insulter tu mexplique parce que je voit juste deux bouffons parler d'une situation qui les concerne pas"
+    ]
+  },
+  {
+    "source": "parce",
+    "target": "parce que",
+    "frequency": 1,
+    "example_contexts": [
+      "ça t'apporte quoi de l'insulter tu mexplique parce que je voit juste deux bouffons parler d'une situation qui les concerne pas"
+    ]
+  },
+  {
+    "source": "voit",
+    "target": "vois",
+    "frequency": 1,
+    "example_contexts": [
+      "ça t'apporte quoi de l'insulter tu mexplique parce que je voit juste deux bouffons parler d'une situation qui les concerne pas"
+    ]
+  },
+  {
+    "source": "dasn",
+    "target": "dans",
+    "frequency": 2,
+    "example_contexts": [
+      "les filles soyer  gentille avec elle j'ai etait dasn sa situation est c'est vraiment pas facile",
+      "bh si vous vous senté bien dasn vos peu comme vous le dites si bien arreter d'embeter les autre bh ton avis maorie tu te le met la ou je pense"
+    ]
+  },
+  {
+    "source": "ptites",
+    "target": "petites",
+    "frequency": 1,
+    "example_contexts": [
+      "Les ptites connes on va se calmer parce qu'à part m'insulter sur mon physique vous savez rien faire"
+    ]
+  },
+  {
+    "source": "sopn",
+    "target": "son",
+    "frequency": 1,
+    "example_contexts": [
+      "je ne comprend pas pourquoi sa vous préocuppe autant sopn physique"
+    ]
+  },
+  {
+    "source": "tpur",
+    "target": "tour",
+    "frequency": 1,
+    "example_contexts": [
+      "mdrrr les salles de sport sont fermer mais faire un tpur de la ville je croi que cest mieux"
+    ]
+  },
+  {
+    "source": "croi",
+    "target": "crois",
+    "frequency": 1,
+    "example_contexts": [
+      "mdrrr les salles de sport sont fermer mais faire un tpur de la ville je croi que cest mieux"
+    ]
+  },
+  {
+    "source": "d'acord",
+    "target": "d'accord",
+    "frequency": 2,
+    "example_contexts": [
+      "je suis d'acord avec michel",
+      "je suis completeemnt d'acord c'es juste des gros jaloux"
+    ]
+  },
+  {
+    "source": "sayer",
+    "target": "ça y est",
+    "frequency": 1,
+    "example_contexts": [
+      "ah sayer zoé tu as tes potes pour te defendrent tu te sens fraiche et t'ouvres ta gueule"
+    ]
+  },
+  {
+    "source": "ohhh",
+    "target": "oh",
+    "frequency": 1,
+    "example_contexts": [
+      "ohhh lala tes mechanty lucie"
+    ]
+  },
+  {
+    "source": "tes",
+    "target": "t'es",
+    "frequency": 2,
+    "example_contexts": [
+      "ohhh lala tes mechanty lucie",
+      "deja on gagne des sous en tarchelant mdrrr tes grose avoue"
+    ]
+  },
+  {
+    "source": "mechanty",
+    "target": "méchant",
+    "frequency": 1,
+    "example_contexts": [
+      "ohhh lala tes mechanty lucie"
+    ]
+  },
+  {
+    "source": "askip",
+    "target": "à ce qu'il paraît",
+    "frequency": 1,
+    "example_contexts": [
+      "et toi askip t'as besoin du soutien de ta pote pour m'insulter"
+    ]
+  },
+  {
+    "source": "xd",
+    "target": "rire",
+    "frequency": 2,
+    "example_contexts": [
+      "XD XD"
+    ]
+  },
+  {
+    "source": "fooonnnnnnd",
+    "target": "fond",
+    "frequency": 1,
+    "example_contexts": [
+      "je te soutien a fooonnnnnnd zoé"
+    ]
+  },
+  {
+    "source": "ahhhhh",
+    "target": "ah",
+    "frequency": 1,
+    "example_contexts": [
+      "AHHHHH JPP"
+    ]
+  },
+  {
+    "source": "sur",
+    "target": "sûr",
+    "frequency": 1,
+    "example_contexts": [
+      "c sur que ecraser des personnes ca doit etre facile pour toi vue que yu pese 1 tonne"
+    ]
+  },
+  {
+    "source": "ecraser",
+    "target": "écraser",
+    "frequency": 1,
+    "example_contexts": [
+      "c sur que ecraser des personnes ca doit etre facile pour toi vue que yu pese 1 tonne"
+    ]
+  },
+  {
+    "source": "vue",
+    "target": "vu",
+    "frequency": 1,
+    "example_contexts": [
+      "c sur que ecraser des personnes ca doit etre facile pour toi vue que yu pese 1 tonne"
+    ]
+  },
+  {
+    "source": "yu",
+    "target": "tu",
+    "frequency": 1,
+    "example_contexts": [
+      "c sur que ecraser des personnes ca doit etre facile pour toi vue que yu pese 1 tonne"
+    ]
+  },
+  {
+    "source": "de ouf",
+    "target": "beaucoup",
+    "frequency": 1,
+    "example_contexts": [
+      "moin aussi je la soutien de ouf"
+    ]
+  },
+  {
+    "source": "verite",
+    "target": "vérité",
+    "frequency": 2,
+    "example_contexts": [
+      "on dit que la verite elle na qua faire du sport",
+      "oui on ne casse rien on lui dit la verite elle est grosse"
+    ]
+  },
+  {
+    "source": "na",
+    "target": "n'a",
+    "frequency": 2,
+    "example_contexts": [
+      "on dit que la verite elle na qua faire du sport",
+      "elle na qua fait une regime"
+    ]
+  },
+  {
+    "source": "coté",
+    "target": "côté",
+    "frequency": 1,
+    "example_contexts": [
+      "nous au moins on est du coté des gentilles et non des mechant marjorie"
+    ]
+  },
+  {
+    "source": "mechant",
+    "target": "méchant",
+    "frequency": 2,
+    "example_contexts": [
+      "nous au moins on est du coté des gentilles et non des mechant marjorie",
+      "elle est groose on le dit ya rien de mechant"
+    ]
+  },
+  {
+    "source": "completeemnt",
+    "target": "complètement",
+    "frequency": 1,
+    "example_contexts": [
+      "je suis completeemnt d'acord c'es juste des gros jaloux"
+    ]
+  },
+  {
+    "source": "c'es",
+    "target": "c'est",
+    "frequency": 1,
+    "example_contexts": [
+      "je suis completeemnt d'acord c'es juste des gros jaloux"
+    ]
+  },
+  {
+    "source": "bh",
+    "target": "bah",
+    "frequency": 5,
+    "example_contexts": [
+      "bh si vous vous senté bien dasn vos peu comme vous le dites si bien arreter d'embeter les autre bh ton avis maorie tu te le met la ou je pense",
+      "bh on dirai pas",
+      "si zoé = port bh lucie = chienne"
+    ]
+  },
+  {
+    "source": "senté",
+    "target": "sentez",
+    "frequency": 1,
+    "example_contexts": [
+      "bh si vous vous senté bien dasn vos peu comme vous le dites si bien arreter d'embeter les autre bh ton avis maorie tu te le met la ou je pense"
+    ]
+  },
+  {
+    "source": "peu",
+    "target": "peau",
+    "frequency": 1,
+    "example_contexts": [
+      "bh si vous vous senté bien dasn vos peu comme vous le dites si bien arreter d'embeter les autre bh ton avis maorie tu te le met la ou je pense"
+    ]
+  },
+  {
+    "source": "arreter",
+    "target": "arrêter",
+    "frequency": 1,
+    "example_contexts": [
+      "non effectivement vous avez pas besoin de soan pour vous arreter il vous faut quelque choses de plus fors tels un psy"
+    ]
+  },
+  {
+    "source": "arreter",
+    "target": "arrêtez",
+    "frequency": 1,
+    "example_contexts": [
+      "bh si vous vous senté bien dasn vos peu comme vous le dites si bien arreter d'embeter les autre bh ton avis maorie tu te le met la ou je pense"
+    ]
+  },
+  {
+    "source": "d'embeter",
+    "target": "d'embêter",
+    "frequency": 1,
+    "example_contexts": [
+      "bh si vous vous senté bien dasn vos peu comme vous le dites si bien arreter d'embeter les autre bh ton avis maorie tu te le met la ou je pense"
+    ]
+  },
+  {
+    "source": "autre",
+    "target": "autres",
+    "frequency": 2,
+    "example_contexts": [
+      "bh si vous vous senté bien dasn vos peu comme vous le dites si bien arreter d'embeter les autre bh ton avis maorie tu te le met la ou je pense",
+      "il est grosse c'est pas francais commence par aller revoir tes cours ensuite vient critiqué les autre"
+    ]
+  },
+  {
+    "source": "eta",
+    "target": "de ta",
+    "frequency": 1,
+    "example_contexts": [
+      "on a pas besoin de vous pour savoir qu'on a un problème parce que t'as rien d'autre à faire d eta vie j'imgaine"
+    ]
+  },
+  {
+    "source": "j'imgaine",
+    "target": "j'imagine",
+    "frequency": 1,
+    "example_contexts": [
+      "on a pas besoin de vous pour savoir qu'on a un problème parce que t'as rien d'autre à faire d eta vie j'imgaine"
+    ]
+  },
+  {
+    "source": "francais",
+    "target": "français",
+    "frequency": 1,
+    "example_contexts": [
+      "il est grosse c'est pas francais commence par aller revoir tes cours ensuite vient critiqué les autre"
+    ]
+  },
+  {
+    "source": "critiqué",
+    "target": "critiquer",
+    "frequency": 1,
+    "example_contexts": [
+      "il est grosse c'est pas francais commence par aller revoir tes cours ensuite vient critiqué les autre"
+    ]
+  },
+  {
+    "source": "grave",
+    "target": "beaucoup",
+    "frequency": 1,
+    "example_contexts": [
+      "tu ferais mieux de réviser tes cours au lieu de passer ton temps à me harceler, tu perds ton temps grave"
+    ]
+  },
+  {
+    "source": "t'inquiete",
+    "target": "t'inquiète",
+    "frequency": 1,
+    "example_contexts": [
+      "ah si t'inquiete pas j'ai pleins de choses à faire dans ma vie ferme la michel"
+    ]
+  },
+  {
+    "source": "pleins",
+    "target": "plein",
+    "frequency": 1,
+    "example_contexts": [
+      "ah si t'inquiete pas j'ai pleins de choses à faire dans ma vie ferme la michel"
+    ]
+  },
+  {
+    "source": "qqun",
+    "target": "quelqu'un",
+    "frequency": 1,
+    "example_contexts": [
+      "harceler qqun t'apportera pas de métier je te rappelle"
+    ]
+  },
+  {
+    "source": "nn",
+    "target": "non",
+    "frequency": 1,
+    "example_contexts": [
+      "mais c'est toi la bouffone nn mais je reve"
+    ]
+  },
+  {
+    "source": "tarchelant",
+    "target": "dealant",
+    "frequency": 1,
+    "example_contexts": [
+      "deja on gagne des sous en tarchelant mdrrr tes grose avoue"
+    ]
+  },
+  {
+    "source": "grose",
+    "target": "grosse",
+    "frequency": 1,
+    "example_contexts": [
+      "deja on gagne des sous en tarchelant mdrrr tes grose avoue"
+    ]
+  },
+  {
+    "source": "denigrer",
+    "target": "dénigrer",
+    "frequency": 1,
+    "example_contexts": [
+      "je peux la denigrer un petit peu puis faire ma vie"
+    ]
+  },
+  {
+    "source": "arrêt&",
+    "target": "arrêter",
+    "frequency": 1,
+    "example_contexts": [
+      "je me permet de vous posez une question, vous imaginez plus tard en train de dire a vos enfants que vous avez harcelé un personne à cause de son surpoids qu'est ce qui vous dit que vos enfants seront pas forcément dans vos critères de beauté donc vous devriez arrêt& de faire ça et consulter pour votre manque de confiance e vous"
+    ]
+  },
+  {
+    "source": "ftg",
+    "target": "ferme ta gueule",
+    "frequency": 2,
+    "example_contexts": [
+      "donc ftg stp",
+      "michel que il est derriere son cula zoe donc ftg"
+    ]
+  },
+  {
+    "source": "fou",
+    "target": "fout",
+    "frequency": 1,
+    "example_contexts": [
+      "on s'en fou royalement de votre vie"
+    ]
+  },
+  {
+    "source": "qu'es ce que",
+    "target": "qu'est-ce que",
+    "frequency": 1,
+    "example_contexts": [
+      "ce que mon gosse sera ne te regarde pas qu'es ce que tu perles av ns la bouge de la"
+    ]
+  },
+  {
+    "source": "perles",
+    "target": "parles",
+    "frequency": 1,
+    "example_contexts": [
+      "ce que mon gosse sera ne te regarde pas qu'es ce que tu perles av ns la bouge de la"
+    ]
+  },
+  {
+    "source": "av",
+    "target": "avec",
+    "frequency": 2,
+    "example_contexts": [
+      "ce que mon gosse sera ne te regarde pas qu'es ce que tu perles av ns la bouge de la",
+      "av ton petit pors en guise d'animal de compagnie"
+    ]
+  },
+  {
+    "source": "ns",
+    "target": "nous",
+    "frequency": 1,
+    "example_contexts": [
+      "ce que mon gosse sera ne te regarde pas qu'es ce que tu perles av ns la bouge de la"
+    ]
+  },
+  {
+    "source": "ahahah",
+    "target": "rire",
+    "frequency": 1,
+    "example_contexts": [
+      "AHAHAH"
+    ]
+  },
+  {
+    "source": "psy",
+    "target": "psychologue",
+    "frequency": 1,
+    "example_contexts": [
+      "non effectivement vous avez pas besoin de soan pour vous arreter il vous faut quelque choses de plus fors tels un psy"
+    ]
+  },
+  {
+    "source": "groose",
+    "target": "grosse",
+    "frequency": 1,
+    "example_contexts": [
+      "elle est groose on le dit ya rien de mechant"
+    ]
+  },
+  {
+    "source": "ya",
+    "target": "il y a",
+    "frequency": 1,
+    "example_contexts": [
+      "elle est groose on le dit ya rien de mechant"
+    ]
+  },
+  {
+    "source": "sincere",
+    "target": "sincère",
+    "frequency": 1,
+    "example_contexts": [
+      "bah oui on est sincere nous"
+    ]
+  },
+  {
+    "source": "regime",
+    "target": "régime",
+    "frequency": 1,
+    "example_contexts": [
+      "elle na qua fait une regime"
+    ]
+  },
+  {
+    "source": "focus",
+    "target": "manières",
+    "frequency": 1,
+    "example_contexts": [
+      "on fait pas les focus nous, hein michel"
+    ]
+  },
+  {
+    "source": "port",
+    "target": "porc",
+    "frequency": 1,
+    "example_contexts": [
+      "si zoé = port bh lucie = chienne"
+    ]
+  },
+  {
+    "source": "derriere",
+    "target": "derrière",
+    "frequency": 1,
+    "example_contexts": [
+      "michel que il est derriere son cula zoe donc ftg"
+    ]
+  },
+  {
+    "source": "cula",
+    "target": "cul à",
+    "frequency": 1,
+    "example_contexts": [
+      "michel que il est derriere son cula zoe donc ftg"
+    ]
+  },
+  {
+    "source": "toiausssi",
+    "target": "toi aussi",
+    "frequency": 1,
+    "example_contexts": [
+      "michel tu vas finir plus bas que terre toiausssi"
+    ]
+  },
+  {
+    "source": "pors",
+    "target": "porc",
+    "frequency": 1,
+    "example_contexts": [
+      "av ton petit pors en guise d'animal de compagnie"
+    ]
+  }
+]
