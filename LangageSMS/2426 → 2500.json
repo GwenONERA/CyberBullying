@@ -1,0 +1,536 @@
+[
+  {
+    "source": "daronne",
+    "target": "mère",
+    "frequency": 2,
+    "example_contexts": [
+      "et quoi quand vous baisser ensemble tu demande a ta daronne de t'aider et ftg tu connais r a la vie",
+      "je vais te niker tt tes mort toi ta daronne ton daron et ton fdp de Jimmy le gwer"
+    ]
+  },
+  {
+    "source": "ftg",
+    "target": "ferme ta gueule",
+    "frequency": 2,
+    "example_contexts": [
+      "et quoi quand vous baisser ensemble tu demande a ta daronne de t'aider et ftg tu connais r a la vie",
+      "et ftg friends"
+    ]
+  },
+  {
+    "source": "r",
+    "target": "rien",
+    "frequency": 1,
+    "example_contexts": [
+      "et quoi quand vous baisser ensemble tu demande a ta daronne de t'aider et ftg tu connais r a la vie"
+    ]
+  },
+  {
+    "source": "ya",
+    "target": "il y a",
+    "frequency": 1,
+    "example_contexts": [
+      "on les merdes comme vous ya pas a vous respecter"
+    ]
+  },
+  {
+    "source": "a",
+    "target": "à",
+    "frequency": 2,
+    "example_contexts": [
+      "on les merdes comme vous ya pas a vous respecter",
+      "t'as rien d'autre a dire jimmy"
+    ]
+  },
+  {
+    "source": "annimeaux",
+    "target": "animaux",
+    "frequency": 1,
+    "example_contexts": [
+      "pire que des annimeaux"
+    ]
+  },
+  {
+    "source": "niker",
+    "target": "niquer",
+    "frequency": 3,
+    "example_contexts": [
+      "bah moi je te dit ce que tu va faire tu va bien niker tes mort",
+      "je vais te niker tt tes mort toi ta daronne ton daron et ton fdp de Jimmy le gwer",
+      "fdp va niker ttes mort grosse kehba de bitch"
+    ]
+  },
+  {
+    "source": "reflechir",
+    "target": "réfléchir",
+    "frequency": 1,
+    "example_contexts": [
+      "de pas reflechir et respecter ce que ressentent les autres  oui c des animaux"
+    ]
+  },
+  {
+    "source": "c",
+    "target": "c'est",
+    "frequency": 6,
+    "example_contexts": [
+      "de pas reflechir et respecter ce que ressentent les autres  oui c des animaux",
+      "non c toi qui dégoute",
+      "ton manque d'intelligence c pire que tout"
+    ]
+  },
+  {
+    "source": "aucupe",
+    "target": "occupe",
+    "frequency": 1,
+    "example_contexts": [
+      "jimmy aucupe toi de ton cue que paul encule ;)"
+    ]
+  },
+  {
+    "source": "cue",
+    "target": "cul",
+    "frequency": 1,
+    "example_contexts": [
+      "jimmy aucupe toi de ton cue que paul encule ;)"
+    ]
+  },
+  {
+    "source": ";)",
+    "target": "clin d'œil",
+    "frequency": 1,
+    "example_contexts": [
+      "jimmy aucupe toi de ton cue que paul encule ;)"
+    ]
+  },
+  {
+    "source": "'=(",
+    "target": "tristesse/pleurs",
+    "frequency": 1,
+    "example_contexts": [
+      "'=(  Nicolas  t\"es trop con  arrete d'etre  bete  et essaie de  comprendre   ton attitude ne te rend pas populaire"
+    ]
+  },
+  {
+    "source": "t\"es",
+    "target": "tu es",
+    "frequency": 1,
+    "example_contexts": [
+      "'=(  Nicolas  t\"es trop con  arrete d'etre  bete  et essaie de  comprendre   ton attitude ne te rend pas populaire"
+    ]
+  },
+  {
+    "source": "arrete",
+    "target": "arrête",
+    "frequency": 1,
+    "example_contexts": [
+      "'=(  Nicolas  t\"es trop con  arrete d'etre  bete  et essaie de  comprendre   ton attitude ne te rend pas populaire"
+    ]
+  },
+  {
+    "source": "d'etre",
+    "target": "d'être",
+    "frequency": 1,
+    "example_contexts": [
+      "'=(  Nicolas  t\"es trop con  arrete d'etre  bete  et essaie de  comprendre   ton attitude ne te rend pas populaire"
+    ]
+  },
+  {
+    "source": "bete",
+    "target": "bête",
+    "frequency": 1,
+    "example_contexts": [
+      "'=(  Nicolas  t\"es trop con  arrete d'etre  bete  et essaie de  comprendre   ton attitude ne te rend pas populaire"
+    ]
+  },
+  {
+    "source": "sa",
+    "target": "ça",
+    "frequency": 1,
+    "example_contexts": [
+      "sa ma dit que tu suce bien en plus avec la video qui a tourner fdp"
+    ]
+  },
+  {
+    "source": "ma",
+    "target": "m'a",
+    "frequency": 1,
+    "example_contexts": [
+      "sa ma dit que tu suce bien en plus avec la video qui a tourner fdp"
+    ]
+  },
+  {
+    "source": "fdp",
+    "target": "fils de pute",
+    "frequency": 4,
+    "example_contexts": [
+      "sa ma dit que tu suce bien en plus avec la video qui a tourner fdp",
+      "je vais te niker tt tes mort toi ta daronne ton daron et ton fdp de Jimmy le gwer",
+      "et wee hein bien sur wallah au lieux de parler pour rien fdp"
+    ]
+  },
+  {
+    "source": "keske",
+    "target": "qu'est-ce que",
+    "frequency": 1,
+    "example_contexts": [
+      "keske wlh"
+    ]
+  },
+  {
+    "source": "wlh",
+    "target": "wallah",
+    "frequency": 1,
+    "example_contexts": [
+      "keske wlh"
+    ]
+  },
+  {
+    "source": "y",
+    "target": "il",
+    "frequency": 1,
+    "example_contexts": [
+      "grave y degoute"
+    ]
+  },
+  {
+    "source": "degoute",
+    "target": "dégoûte",
+    "frequency": 2,
+    "example_contexts": [
+      "grave y degoute",
+      "c\"est votre attitude qui degoute"
+    ]
+  },
+  {
+    "source": "tournee",
+    "target": "tourner",
+    "frequency": 1,
+    "example_contexts": [
+      "on va te faire tournee dans tout le quartier"
+    ]
+  },
+  {
+    "source": "boiten",
+    "target": "boîte",
+    "frequency": 1,
+    "example_contexts": [
+      "tu va repartir en boiten"
+    ]
+  },
+  {
+    "source": "tenclancher",
+    "target": "t'enclencher",
+    "frequency": 1,
+    "example_contexts": [
+      "je vais tenclancher toi vien en ce donne un tete"
+    ]
+  },
+  {
+    "source": "vien",
+    "target": "viens",
+    "frequency": 2,
+    "example_contexts": [
+      "je vais tenclancher toi vien en ce donne un tete",
+      "vien te nike ta grand mere kehba"
+    ]
+  },
+  {
+    "source": "ce",
+    "target": "se",
+    "frequency": 1,
+    "example_contexts": [
+      "je vais tenclancher toi vien en ce donne un tete"
+    ]
+  },
+  {
+    "source": "tete",
+    "target": "tête",
+    "frequency": 1,
+    "example_contexts": [
+      "je vais tenclancher toi vien en ce donne un tete"
+    ]
+  },
+  {
+    "source": "debiles",
+    "target": "débiles",
+    "frequency": 1,
+    "example_contexts": [
+      "vos menaces sont debiles"
+    ]
+  },
+  {
+    "source": "ba",
+    "target": "bah",
+    "frequency": 1,
+    "example_contexts": [
+      "ba vien n face et on verra"
+    ]
+  },
+  {
+    "source": "n",
+    "target": "en",
+    "frequency": 1,
+    "example_contexts": [
+      "ba vien n face et on verra"
+    ]
+  },
+  {
+    "source": "trdc",
+    "target": "trou du cul",
+    "frequency": 1,
+    "example_contexts": [
+      "lisa et camille y sont inexistant trdc perdu"
+    ]
+  },
+  {
+    "source": "tt",
+    "target": "tous",
+    "frequency": 1,
+    "example_contexts": [
+      "je vais te niker tt tes mort toi ta daronne ton daron et ton fdp de Jimmy le gwer"
+    ]
+  },
+  {
+    "source": "daron",
+    "target": "père",
+    "frequency": 1,
+    "example_contexts": [
+      "je vais te niker tt tes mort toi ta daronne ton daron et ton fdp de Jimmy le gwer"
+    ]
+  },
+  {
+    "source": "gwer",
+    "target": "français",
+    "frequency": 1,
+    "example_contexts": [
+      "je vais te niker tt tes mort toi ta daronne ton daron et ton fdp de Jimmy le gwer"
+    ]
+  },
+  {
+    "source": "mes",
+    "target": "mais",
+    "frequency": 1,
+    "example_contexts": [
+      "mes tu va areter jimmy"
+    ]
+  },
+  {
+    "source": "areter",
+    "target": "arrêter",
+    "frequency": 1,
+    "example_contexts": [
+      "mes tu va areter jimmy"
+    ]
+  },
+  {
+    "source": "cb",
+    "target": "combien",
+    "frequency": 1,
+    "example_contexts": [
+      "cb tg toi friend tes mort"
+    ]
+  },
+  {
+    "source": "tg",
+    "target": "ta gueule",
+    "frequency": 1,
+    "example_contexts": [
+      "cb tg toi friend tes mort"
+    ]
+  },
+  {
+    "source": "tes",
+    "target": "t'es",
+    "frequency": 2,
+    "example_contexts": [
+      "cb tg toi friend tes mort",
+      "wallah tu tes cru au stayts"
+    ]
+  },
+  {
+    "source": "stayts",
+    "target": "états-unis",
+    "frequency": 1,
+    "example_contexts": [
+      "wallah tu tes cru au stayts"
+    ]
+  },
+  {
+    "source": "niquer",
+    "target": "dominer",
+    "frequency": 1,
+    "example_contexts": [
+      "et toi  tu es pretentieux pour niquer tout le monde faut pouvoir. Mais  surtout se servir de son  cerveau c dur quand on en a pas"
+    ]
+  },
+  {
+    "source": "jppppppppppppp",
+    "target": "j'en peux plus",
+    "frequency": 1,
+    "example_contexts": [
+      "jppppppppppppp c quoi ses repartie de victimes la je meur"
+    ]
+  },
+  {
+    "source": "wee",
+    "target": "oui",
+    "frequency": 1,
+    "example_contexts": [
+      "et wee hein bien sur wallah au lieux de parler pour rien fdp"
+    ]
+  },
+  {
+    "source": "wallah",
+    "target": "je le jure",
+    "frequency": 1,
+    "example_contexts": [
+      "et wee hein bien sur wallah au lieux de parler pour rien fdp"
+    ]
+  },
+  {
+    "source": "ouai",
+    "target": "ouais",
+    "frequency": 1,
+    "example_contexts": [
+      "ah ouai paupauuuu"
+    ]
+  },
+  {
+    "source": "paupauuuu",
+    "target": "paupau",
+    "frequency": 1,
+    "example_contexts": [
+      "ah ouai paupauuuu"
+    ]
+  },
+  {
+    "source": "nike",
+    "target": "niquer",
+    "frequency": 1,
+    "example_contexts": [
+      "vien te nike ta grand mere kehba"
+    ]
+  },
+  {
+    "source": "mere",
+    "target": "mère",
+    "frequency": 1,
+    "example_contexts": [
+      "vien te nike ta grand mere kehba"
+    ]
+  },
+  {
+    "source": "kehba",
+    "target": "pute",
+    "frequency": 2,
+    "example_contexts": [
+      "vien te nike ta grand mere kehba",
+      "fdp va niker ttes mort grosse kehba de bitch"
+    ]
+  },
+  {
+    "source": "vzy",
+    "target": "vas-y",
+    "frequency": 1,
+    "example_contexts": [
+      "vzy j'ai pas ton temps"
+    ]
+  },
+  {
+    "source": "ttes",
+    "target": "toutes",
+    "frequency": 1,
+    "example_contexts": [
+      "fdp va niker ttes mort grosse kehba de bitch"
+    ]
+  },
+  {
+    "source": "mort",
+    "target": "mère",
+    "frequency": 1,
+    "example_contexts": [
+      "fdp va niker ttes mort grosse kehba de bitch"
+    ]
+  },
+  {
+    "source": "bitch",
+    "target": "pute",
+    "frequency": 1,
+    "example_contexts": [
+      "fdp va niker ttes mort grosse kehba de bitch"
+    ]
+  },
+  {
+    "source": "francais",
+    "target": "français",
+    "frequency": 1,
+    "example_contexts": [
+      "parle francais betasse"
+    ]
+  },
+  {
+    "source": "betasse",
+    "target": "bétasse",
+    "frequency": 1,
+    "example_contexts": [
+      "parle francais betasse"
+    ]
+  },
+  {
+    "source": "ca",
+    "target": "ça",
+    "frequency": 2,
+    "example_contexts": [
+      "faut pas insulter les gens comme ca",
+      "ca dégage"
+    ]
+  },
+  {
+    "source": "pd",
+    "target": "pédé",
+    "frequency": 1,
+    "example_contexts": [
+      "dégage de la pd"
+    ]
+  },
+  {
+    "source": "velo",
+    "target": "vélo",
+    "frequency": 1,
+    "example_contexts": [
+      "tu fait du velo sans celle"
+    ]
+  },
+  {
+    "source": "celle",
+    "target": "selle",
+    "frequency": 1,
+    "example_contexts": [
+      "tu fait du velo sans celle"
+    ]
+  },
+  {
+    "source": "etes",
+    "target": "êtes",
+    "frequency": 1,
+    "example_contexts": [
+      "mais vous etes des grands malades"
+    ]
+  },
+  {
+    "source": "quest",
+    "target": "qu'est-ce que",
+    "frequency": 1,
+    "example_contexts": [
+      "Camille quest tu veux"
+    ]
+  },
+  {
+    "source": "niq",
+    "target": "nique",
+    "frequency": 1,
+    "example_contexts": [
+      "Camille niq toi"
+    ]
+  }
+]
