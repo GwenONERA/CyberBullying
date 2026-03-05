@@ -1,0 +1,26 @@
+[
+  {
+    "source": "boukak",
+    "target": "bougnoule",
+    "frequency": 1,
+    "example_contexts": [
+      "les boukak les melons"
+    ]
+  },
+  {
+    "source": "ba",
+    "target": "bah",
+    "frequency": 1,
+    "example_contexts": [
+      "ba rentre chez toi"
+    ]
+  },
+  {
+    "source": "a",
+    "target": "à",
+    "frequency": 1,
+    "example_contexts": [
+      "a la nage"
+    ]
+  }
+]
