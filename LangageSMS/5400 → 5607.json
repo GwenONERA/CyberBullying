@@ -1,0 +1,1296 @@
+[
+  {
+    "source": "etes",
+    "target": "êtes",
+    "frequency": 2,
+    "example_contexts": [
+      "vous etes tous des merdes",
+      "C'est surtoutvous kate93 et julie !! cous etes des rasiste j'ai vue la conv sur Watsapp"
+    ]
+  },
+  {
+    "source": "pt",
+    "target": "péter",
+    "frequency": 1,
+    "example_contexts": [
+      "elle vas faire pt t'es mort tu vas voir remake des tours jumelles dans ton bat"
+    ]
+  },
+  {
+    "source": "bat",
+    "target": "bâtiment",
+    "frequency": 1,
+    "example_contexts": [
+      "elle vas faire pt t'es mort tu vas voir remake des tours jumelles dans ton bat"
+    ]
+  },
+  {
+    "source": "djiadiste",
+    "target": "djihadiste",
+    "frequency": 1,
+    "example_contexts": [
+      "aller c'est partie, pour toi tous les musulman sont des djiadiste ? le niveau quoi"
+    ]
+  },
+  {
+    "source": "la",
+    "target": "là",
+    "frequency": 3,
+    "example_contexts": [
+      "Oh calme toi la",
+      "tes parent immigres la retourne dans ton pays",
+      "Bon  ça suffit le racisme de base la ! je suis née en France, j'ai la nationalité Française ! comme vous"
+    ]
+  },
+  {
+    "source": "mdrr",
+    "target": "mdr",
+    "frequency": 2,
+    "example_contexts": [
+      "grave mdrr elle est tellement sale que même les algériens ils veulent pas d'elle",
+      "grv mdrr paul il a trop raison"
+    ]
+  },
+  {
+    "source": "arrete",
+    "target": "arrête",
+    "frequency": 2,
+    "example_contexts": [
+      "et fatimah arrete de trainer avec les gars qu'est qui trouve de beau chez toi serieux",
+      "paul83 arrete d'etre le chienchien de Kate et Julie et réfléchie par toi meme un peu"
+    ]
+  },
+  {
+    "source": "trainer",
+    "target": "traîner",
+    "frequency": 1,
+    "example_contexts": [
+      "et fatimah arrete de trainer avec les gars qu'est qui trouve de beau chez toi serieux"
+    ]
+  },
+  {
+    "source": "serieux",
+    "target": "sérieux",
+    "frequency": 1,
+    "example_contexts": [
+      "et fatimah arrete de trainer avec les gars qu'est qui trouve de beau chez toi serieux"
+    ]
+  },
+  {
+    "source": ":')",
+    "target": "rire aux larmes",
+    "frequency": 1,
+    "example_contexts": [
+      "bah oui t'es une bombe à retardement :')"
+    ]
+  },
+  {
+    "source": "tg",
+    "target": "ta gueule",
+    "frequency": 11,
+    "example_contexts": [
+      "tg c'est toi qui pue leo tu joue a lol frère me parle pas de douche",
+      "tg pierre",
+      "nan elles sont honnête frr  puis tg arrête de parler une langue qui ne vient pas de ton pays d'immigrés fatima la sale"
+    ]
+  },
+  {
+    "source": "a",
+    "target": "à",
+    "frequency": 8,
+    "example_contexts": [
+      "tg c'est toi qui pue leo tu joue a lol frère me parle pas de douche",
+      "ta la coupe a Many dans l'age de glace parle pas",
+      "nana mais fatimah t laide tu plaies a personne"
+    ]
+  },
+  {
+    "source": "cheum",
+    "target": "moche",
+    "frequency": 1,
+    "example_contexts": [
+      "j'avoue elle est cheum"
+    ]
+  },
+  {
+    "source": "leo",
+    "target": "léo",
+    "frequency": 1,
+    "example_contexts": [
+      "leo taimerai quon parle de ta mere comme sa"
+    ]
+  },
+  {
+    "source": "taimerai",
+    "target": "tu aimerais",
+    "frequency": 1,
+    "example_contexts": [
+      "leo taimerai quon parle de ta mere comme sa"
+    ]
+  },
+  {
+    "source": "quon",
+    "target": "qu'on",
+    "frequency": 2,
+    "example_contexts": [
+      "leo taimerai quon parle de ta mere comme sa",
+      "vous voulez pas quon organise une sortit pour vous calmer"
+    ]
+  },
+  {
+    "source": "mere",
+    "target": "mère",
+    "frequency": 2,
+    "example_contexts": [
+      "leo taimerai quon parle de ta mere comme sa",
+      "et moi jbz ta grand mere la pute"
+    ]
+  },
+  {
+    "source": "sa",
+    "target": "ça",
+    "frequency": 3,
+    "example_contexts": [
+      "leo taimerai quon parle de ta mere comme sa",
+      "paul comment tu peux me dire sa",
+      "sa capte pas en algérie c normal hahaha"
+    ]
+  },
+  {
+    "source": "nan",
+    "target": "non",
+    "frequency": 4,
+    "example_contexts": [
+      "nan mais fatimah t juste une conne et une voleuse de petits amis",
+      "nan elles sont honnête frr  puis tg arrête de parler une langue qui ne vient pas de ton pays d'immigrés fatima la sale",
+      "pierre arrete bouffer la teuch sale de fatima wshh nan mon reuf"
+    ]
+  },
+  {
+    "source": "t",
+    "target": "t'es",
+    "frequency": 4,
+    "example_contexts": [
+      "nana mais fatimah t laide tu plaies a personne",
+      "Pierre47 t vraiment bizarre hein...",
+      "fatimah t genante"
+    ]
+  },
+  {
+    "source": "t",
+    "target": "tes",
+    "frequency": 3,
+    "example_contexts": [
+      "julie elle est pas jalouse frr tu met de la merde sur t doit tu crois elle vas te jalousé",
+      "fatimah retourne en algerie avec t parent les immigres",
+      "nique t mort"
+    ]
+  },
+  {
+    "source": "t",
+    "target": "tu es",
+    "frequency": 2,
+    "example_contexts": [
+      "nan mais fatimah t juste une conne et une voleuse de petits amis",
+      "pierre jvoit t cho sur moi il ya quoi fr"
+    ]
+  },
+  {
+    "source": "frr",
+    "target": "frère",
+    "frequency": 5,
+    "example_contexts": [
+      "julie elle est pas jalouse frr tu met de la merde sur t doit tu crois elle vas te jalousé",
+      "nan elles sont honnête frr  puis tg arrête de parler une langue qui ne vient pas de ton pays d'immigrés fatima la sale",
+      "elle est moche frr qui la gere elle je la touche meme pas avec un javelot"
+    ]
+  },
+  {
+    "source": "doit",
+    "target": "doigts",
+    "frequency": 1,
+    "example_contexts": [
+      "julie elle est pas jalouse frr tu met de la merde sur t doit tu crois elle vas te jalousé"
+    ]
+  },
+  {
+    "source": "vas",
+    "target": "va",
+    "frequency": 1,
+    "example_contexts": [
+      "julie elle est pas jalouse frr tu met de la merde sur t doit tu crois elle vas te jalousé"
+    ]
+  },
+  {
+    "source": "ta",
+    "target": "t'a",
+    "frequency": 2,
+    "example_contexts": [
+      "bsahtek on ta pas demander si t'etait fier de porter ton prenom ont s'en blc",
+      "pk leo tu insulte elle ta fais quoi et tout les autres"
+    ]
+  },
+  {
+    "source": "ta",
+    "target": "tu as",
+    "frequency": 4,
+    "example_contexts": [
+      "ta la coupe a Many dans l'age de glace parle pas",
+      "pierre doucement ta pas trop mal a la gorge",
+      "pierre tu parle toi ta la gorge tellement profonde mon frr a force de sucer tout ton quartier"
+    ]
+  },
+  {
+    "source": "mdr",
+    "target": "mort de rire",
+    "frequency": 2,
+    "example_contexts": [
+      "Leo68 c'est un compliment MDR ?",
+      "Attention Julie je respire aussi ! je te vole ton O2 MDR"
+    ]
+  },
+  {
+    "source": "fdp",
+    "target": "fils de pute",
+    "frequency": 2,
+    "example_contexts": [
+      "oh fermez vos gueule bande de fdp vous parlez trop",
+      "Je pisse sur tout vos ancetres bande de fdp"
+    ]
+  },
+  {
+    "source": "sucider",
+    "target": "suicider",
+    "frequency": 2,
+    "example_contexts": [
+      "kate93 vas te sucider",
+      "comment ca va te sucider tu veux jte ntm ou quoi"
+    ]
+  },
+  {
+    "source": "grv",
+    "target": "grave",
+    "frequency": 3,
+    "example_contexts": [
+      "grv mdrr paul il a trop raison",
+      "grv paul elle aime en manger hein",
+      "tu as grv raison Sandrine"
+    ]
+  },
+  {
+    "source": "oe",
+    "target": "ouais",
+    "frequency": 1,
+    "example_contexts": [
+      "Oe c super bon les fraises Sandrine12"
+    ]
+  },
+  {
+    "source": "c",
+    "target": "c'est",
+    "frequency": 8,
+    "example_contexts": [
+      "Oe c super bon les fraises Sandrine12",
+      "paul c un prenom sale chien pk tu dit elle aime en manger",
+      "c pas du henne c de la merde sale chienne sale arabe"
+    ]
+  },
+  {
+    "source": "cous",
+    "target": "vous",
+    "frequency": 1,
+    "example_contexts": [
+      "C'est surtoutvous kate93 et julie !! cous etes des rasiste j'ai vue la conv sur Watsapp"
+    ]
+  },
+  {
+    "source": "rasiste",
+    "target": "raciste",
+    "frequency": 2,
+    "example_contexts": [
+      "C'est surtoutvous kate93 et julie !! cous etes des rasiste j'ai vue la conv sur Watsapp",
+      "julie Les gens logique ! ceux qui ne sont pas rasiste et qui ne vivent pas dans des peures inventé"
+    ]
+  },
+  {
+    "source": "vue",
+    "target": "vu",
+    "frequency": 1,
+    "example_contexts": [
+      "C'est surtoutvous kate93 et julie !! cous etes des rasiste j'ai vue la conv sur Watsapp"
+    ]
+  },
+  {
+    "source": "conv",
+    "target": "conversation",
+    "frequency": 1,
+    "example_contexts": [
+      "C'est surtoutvous kate93 et julie !! cous etes des rasiste j'ai vue la conv sur Watsapp"
+    ]
+  },
+  {
+    "source": "watsapp",
+    "target": "whatsapp",
+    "frequency": 1,
+    "example_contexts": [
+      "C'est surtoutvous kate93 et julie !! cous etes des rasiste j'ai vue la conv sur Watsapp"
+    ]
+  },
+  {
+    "source": "ca",
+    "target": "ça",
+    "frequency": 2,
+    "example_contexts": [
+      "comment ca va te sucider tu veux jte ntm ou quoi",
+      "c'est pas intelligent mais elle merite que ca elle merite de mourrir carrement"
+    ]
+  },
+  {
+    "source": "jte",
+    "target": "je te",
+    "frequency": 1,
+    "example_contexts": [
+      "comment ca va te sucider tu veux jte ntm ou quoi"
+    ]
+  },
+  {
+    "source": "ntm",
+    "target": "nique ta mère",
+    "frequency": 2,
+    "example_contexts": [
+      "comment ca va te sucider tu veux jte ntm ou quoi",
+      "pierre ntm sayer frr t cho sur moi"
+    ]
+  },
+  {
+    "source": "pk",
+    "target": "pourquoi",
+    "frequency": 3,
+    "example_contexts": [
+      "et toi pk tu voles les petits amis et tu fais chier tout le monde",
+      "paul c un prenom sale chien pk tu dit elle aime en manger",
+      "pk leo tu insulte elle ta fais quoi et tout les autres"
+    ]
+  },
+  {
+    "source": "toiiii",
+    "target": "toi",
+    "frequency": 1,
+    "example_contexts": [
+      "tu comprends pas que personne veux de toiiii"
+    ]
+  },
+  {
+    "source": "arretez",
+    "target": "arrêtez",
+    "frequency": 1,
+    "example_contexts": [
+      "arretez les propos racistes ça sert à rien"
+    ]
+  },
+  {
+    "source": "veut",
+    "target": "veux",
+    "frequency": 1,
+    "example_contexts": [
+      "Je ne vois pas en quoi je vole amis ?? je suis comme tous le monde j'ai le droit de faire ce que je veut ?? Si tu en as pas c'est ton soucis pas le mien"
+    ]
+  },
+  {
+    "source": "sortit",
+    "target": "sortie",
+    "frequency": 1,
+    "example_contexts": [
+      "vous voulez pas quon organise une sortit pour vous calmer"
+    ]
+  },
+  {
+    "source": "pepon",
+    "target": "répondre",
+    "frequency": 1,
+    "example_contexts": [
+      "je suis obliger de pepon ton père car ta salope de mère est pas capable de le faire paul83"
+    ]
+  },
+  {
+    "source": "plaies",
+    "target": "plais",
+    "frequency": 1,
+    "example_contexts": [
+      "nana mais fatimah t laide tu plaies a personne"
+    ]
+  },
+  {
+    "source": "wsh",
+    "target": "wesh",
+    "frequency": 1,
+    "example_contexts": [
+      "mais arrête de toucher les mecs avec tes doigts crades wsh"
+    ]
+  },
+  {
+    "source": "etre",
+    "target": "être",
+    "frequency": 1,
+    "example_contexts": [
+      "ça te pose un soucis, par ce que Kate c'est mieux peut etre ? fatimah c'est trés jolie et je suis fiere de porté ce prénom"
+    ]
+  },
+  {
+    "source": "trés",
+    "target": "très",
+    "frequency": 1,
+    "example_contexts": [
+      "ça te pose un soucis, par ce que Kate c'est mieux peut etre ? fatimah c'est trés jolie et je suis fiere de porté ce prénom"
+    ]
+  },
+  {
+    "source": "fiere",
+    "target": "fière",
+    "frequency": 1,
+    "example_contexts": [
+      "ça te pose un soucis, par ce que Kate c'est mieux peut etre ? fatimah c'est trés jolie et je suis fiere de porté ce prénom"
+    ]
+  },
+  {
+    "source": "ftg",
+    "target": "ferme ta gueule",
+    "frequency": 2,
+    "example_contexts": [
+      "ftg julie retourne en schimio",
+      "pauline ftg arrete de la defendre t'es une grosse' merde"
+    ]
+  },
+  {
+    "source": "schimio",
+    "target": "chimio",
+    "frequency": 2,
+    "example_contexts": [
+      "ftg julie retourne en schimio",
+      "ou en schimio selon préferance"
+    ]
+  },
+  {
+    "source": "deja",
+    "target": "déjà",
+    "frequency": 1,
+    "example_contexts": [
+      "bah kate c'est deja plus francais quoi ptdrrr"
+    ]
+  },
+  {
+    "source": "francais",
+    "target": "français",
+    "frequency": 1,
+    "example_contexts": [
+      "bah kate c'est deja plus francais quoi ptdrrr"
+    ]
+  },
+  {
+    "source": "ptdrrr",
+    "target": "mort de rire",
+    "frequency": 1,
+    "example_contexts": [
+      "bah kate c'est deja plus francais quoi ptdrrr"
+    ]
+  },
+  {
+    "source": "bnande",
+    "target": "bande",
+    "frequency": 1,
+    "example_contexts": [
+      "pierre va avec ton immigré et tais toi bnande de crades"
+    ]
+  },
+  {
+    "source": "bsahtek",
+    "target": "bravo",
+    "frequency": 1,
+    "example_contexts": [
+      "bsahtek on ta pas demander si t'etait fier de porter ton prenom ont s'en blc"
+    ]
+  },
+  {
+    "source": "t'etait",
+    "target": "tu étais",
+    "frequency": 1,
+    "example_contexts": [
+      "bsahtek on ta pas demander si t'etait fier de porter ton prenom ont s'en blc"
+    ]
+  },
+  {
+    "source": "blc",
+    "target": "on s'en bat les couilles",
+    "frequency": 1,
+    "example_contexts": [
+      "bsahtek on ta pas demander si t'etait fier de porter ton prenom ont s'en blc"
+    ]
+  },
+  {
+    "source": "grvvv",
+    "target": "grave",
+    "frequency": 1,
+    "example_contexts": [
+      "grvvv mdr tg l'immigré"
+    ]
+  },
+  {
+    "source": "jadore",
+    "target": "j'adore",
+    "frequency": 2,
+    "example_contexts": [
+      "fatimah ils sont beaux tes doigts jadore",
+      "oue jadore manger paul"
+    ]
+  },
+  {
+    "source": "defendre",
+    "target": "défendre",
+    "frequency": 1,
+    "example_contexts": [
+      "comment des gens peuvent te defendre"
+    ]
+  },
+  {
+    "source": "d'etre",
+    "target": "d'être",
+    "frequency": 2,
+    "example_contexts": [
+      "paul83 arrete d'etre le chienchien de Kate et Julie et réfléchie par toi meme un peu",
+      "arette d'etre jalouse un peu @julie"
+    ]
+  },
+  {
+    "source": "meme",
+    "target": "même",
+    "frequency": 3,
+    "example_contexts": [
+      "paul83 arrete d'etre le chienchien de Kate et Julie et réfléchie par toi meme un peu",
+      "coralie ? qui te cala meme ? t'es aussi invisible que la teub de pierre",
+      "elle est moche frr qui la gere elle je la touche meme pas avec un javelot"
+    ]
+  },
+  {
+    "source": "suceuse",
+    "target": "salope",
+    "frequency": 1,
+    "example_contexts": [
+      "sandrine suceuse"
+    ]
+  },
+  {
+    "source": "ptdrr",
+    "target": "ptdr",
+    "frequency": 1,
+    "example_contexts": [
+      "ptdrr pierre est sexiste mais il nous traite de rasciste"
+    ]
+  },
+  {
+    "source": "laime",
+    "target": "l'aime",
+    "frequency": 1,
+    "example_contexts": [
+      "bah nan paul je laime trop"
+    ]
+  },
+  {
+    "source": "peures",
+    "target": "peurs",
+    "frequency": 1,
+    "example_contexts": [
+      "julie Les gens logique ! ceux qui ne sont pas rasiste et qui ne vivent pas dans des peures inventé"
+    ]
+  },
+  {
+    "source": "oue",
+    "target": "ouais",
+    "frequency": 1,
+    "example_contexts": [
+      "oue sucide toi"
+    ]
+  },
+  {
+    "source": "oue",
+    "target": "oui",
+    "frequency": 2,
+    "example_contexts": [
+      "oue jadore manger paul",
+      "oue fatimah ferme ta gueule tu pollues l'air"
+    ]
+  },
+  {
+    "source": "(y)",
+    "target": "accord",
+    "frequency": 1,
+    "example_contexts": [
+      "(y)  tu vois je met mon pouce dans ton cul Leo68"
+    ]
+  },
+  {
+    "source": "prenom",
+    "target": "prénom",
+    "frequency": 2,
+    "example_contexts": [
+      "paul c un prenom sale chien pk tu dit elle aime en manger",
+      "sandrine ta un prenom de pute me parle pas merci"
+    ]
+  },
+  {
+    "source": "d:",
+    "target": "déception",
+    "frequency": 1,
+    "example_contexts": [
+      "D:"
+    ]
+  },
+  {
+    "source": "fauis",
+    "target": "fais",
+    "frequency": 1,
+    "example_contexts": [
+      "tu nous fauis de la peine"
+    ]
+  },
+  {
+    "source": "reuf",
+    "target": "frère",
+    "frequency": 4,
+    "example_contexts": [
+      "faute de frappe mon reuf",
+      "pierre arrete bouffer la teuch sale de fatima wshh nan mon reuf",
+      "ooh mon reuf t'es sexiste enft"
+    ]
+  },
+  {
+    "source": "tgl",
+    "target": "ta gueule",
+    "frequency": 3,
+    "example_contexts": [
+      "Fatimah tgl stp",
+      "sandrine tgl",
+      "tgl"
+    ]
+  },
+  {
+    "source": "stp",
+    "target": "s'il te plaît",
+    "frequency": 2,
+    "example_contexts": [
+      "Fatimah tgl stp",
+      "Ne te préoccupe pas de ce que je mange ou pas stp !  en quoi ça te concerne que je mange du cochon ?"
+    ]
+  },
+  {
+    "source": "\\o/",
+    "target": "célébration",
+    "frequency": 1,
+    "example_contexts": [
+      "j'ai baisé la mère de la soeur de vos cousine kate93 julie Leo68 \\O/  chien tete en haut"
+    ]
+  },
+  {
+    "source": "tete",
+    "target": "tête",
+    "frequency": 1,
+    "example_contexts": [
+      "j'ai baisé la mère de la soeur de vos cousine kate93 julie Leo68 \\O/  chien tete en haut"
+    ]
+  },
+  {
+    "source": "chui",
+    "target": "je suis",
+    "frequency": 1,
+    "example_contexts": [
+      "pierre chui pas gay donc garde ton doigts pour toi"
+    ]
+  },
+  {
+    "source": "jbz",
+    "target": "je baise",
+    "frequency": 1,
+    "example_contexts": [
+      "et moi jbz ta grand mere la pute"
+    ]
+  },
+  {
+    "source": "oeeee",
+    "target": "oh",
+    "frequency": 1,
+    "example_contexts": [
+      "oeeee paul il a tarpin raison"
+    ]
+  },
+  {
+    "source": "tarpin",
+    "target": "beaucoup",
+    "frequency": 1,
+    "example_contexts": [
+      "oeeee paul il a tarpin raison"
+    ]
+  },
+  {
+    "source": "j,ai",
+    "target": "j'ai",
+    "frequency": 1,
+    "example_contexts": [
+      "j,ai pas fait expres"
+    ]
+  },
+  {
+    "source": "expres",
+    "target": "exprès",
+    "frequency": 1,
+    "example_contexts": [
+      "j,ai pas fait expres"
+    ]
+  },
+  {
+    "source": "ell e",
+    "target": "elle",
+    "frequency": 1,
+    "example_contexts": [
+      "et fatimah ell e est repartie en algérie pour plus repondre"
+    ]
+  },
+  {
+    "source": "repondre",
+    "target": "répondre",
+    "frequency": 1,
+    "example_contexts": [
+      "et fatimah ell e est repartie en algérie pour plus repondre"
+    ]
+  },
+  {
+    "source": "ma",
+    "target": "m'a",
+    "frequency": 1,
+    "example_contexts": [
+      "qui ma insulté ?"
+    ]
+  },
+  {
+    "source": "hahaha",
+    "target": "rire",
+    "frequency": 1,
+    "example_contexts": [
+      "sa capte pas en algérie c normal hahaha"
+    ]
+  },
+  {
+    "source": "bahahh",
+    "target": "bah",
+    "frequency": 1,
+    "example_contexts": [
+      "bahahh"
+    ]
+  },
+  {
+    "source": "bahh",
+    "target": "bah",
+    "frequency": 1,
+    "example_contexts": [
+      "bahh"
+    ]
+  },
+  {
+    "source": "haha",
+    "target": "rire",
+    "frequency": 1,
+    "example_contexts": [
+      "julie Tu ne t’arrête donc jamais  haha"
+    ]
+  },
+  {
+    "source": "nuuuuuul",
+    "target": "nul",
+    "frequency": 1,
+    "example_contexts": [
+      "c'est pas drole c'est nuuuuuul"
+    ]
+  },
+  {
+    "source": "bz",
+    "target": "baiser",
+    "frequency": 1,
+    "example_contexts": [
+      "paul calme toi va bz une meuf pour te calmer cest mieux"
+    ]
+  },
+  {
+    "source": "cest",
+    "target": "c'est",
+    "frequency": 1,
+    "example_contexts": [
+      "paul calme toi va bz une meuf pour te calmer cest mieux"
+    ]
+  },
+  {
+    "source": "teuch",
+    "target": "chatte",
+    "frequency": 1,
+    "example_contexts": [
+      "pierre arrete bouffer la teuch sale de fatima wshh nan mon reuf"
+    ]
+  },
+  {
+    "source": "wshh",
+    "target": "wesh",
+    "frequency": 1,
+    "example_contexts": [
+      "pierre arrete bouffer la teuch sale de fatima wshh nan mon reuf"
+    ]
+  },
+  {
+    "source": "lers",
+    "target": "les",
+    "frequency": 1,
+    "example_contexts": [
+      "lers francais ils ont pas du caca sur les doigts"
+    ]
+  },
+  {
+    "source": "tkt",
+    "target": "t'inquiète",
+    "frequency": 1,
+    "example_contexts": [
+      "tkt Fatimah-victime ils sont bêtes ils comprennent rien"
+    ]
+  },
+  {
+    "source": "jvoit",
+    "target": "je vois",
+    "frequency": 1,
+    "example_contexts": [
+      "pierre jvoit t cho sur moi il ya quoi fr"
+    ]
+  },
+  {
+    "source": "cho",
+    "target": "chaud",
+    "frequency": 2,
+    "example_contexts": [
+      "pierre jvoit t cho sur moi il ya quoi fr",
+      "pierre ntm sayer frr t cho sur moi"
+    ]
+  },
+  {
+    "source": "ya",
+    "target": "y a",
+    "frequency": 1,
+    "example_contexts": [
+      "pierre jvoit t cho sur moi il ya quoi fr"
+    ]
+  },
+  {
+    "source": "fr",
+    "target": "français",
+    "frequency": 1,
+    "example_contexts": [
+      "fatimah tu comprend pas que tu dois creuver ?????  tu salie le sol fr avec tes doigts sale"
+    ]
+  },
+  {
+    "source": "fr",
+    "target": "frère",
+    "frequency": 1,
+    "example_contexts": [
+      "pierre jvoit t cho sur moi il ya quoi fr"
+    ]
+  },
+  {
+    "source": "l'héné",
+    "target": "le henné",
+    "frequency": 1,
+    "example_contexts": [
+      "Tu sais que l'héné ça sert pour coloré les cheveux aussi ? Ah non déso tu connais rien"
+    ]
+  },
+  {
+    "source": "déso",
+    "target": "désolé",
+    "frequency": 1,
+    "example_contexts": [
+      "Tu sais que l'héné ça sert pour coloré les cheveux aussi ? Ah non déso tu connais rien"
+    ]
+  },
+  {
+    "source": "c'ets",
+    "target": "c'est",
+    "frequency": 1,
+    "example_contexts": [
+      "c'ets toi coralie qui est bete de la proteger"
+    ]
+  },
+  {
+    "source": "bete",
+    "target": "bête",
+    "frequency": 1,
+    "example_contexts": [
+      "c'ets toi coralie qui est bete de la proteger"
+    ]
+  },
+  {
+    "source": "proteger",
+    "target": "protéger",
+    "frequency": 1,
+    "example_contexts": [
+      "c'ets toi coralie qui est bete de la proteger"
+    ]
+  },
+  {
+    "source": "cala",
+    "target": "calle",
+    "frequency": 1,
+    "example_contexts": [
+      "coralie ? qui te cala meme ? t'es aussi invisible que la teub de pierre"
+    ]
+  },
+  {
+    "source": "teub",
+    "target": "bite",
+    "frequency": 1,
+    "example_contexts": [
+      "coralie ? qui te cala meme ? t'es aussi invisible que la teub de pierre"
+    ]
+  },
+  {
+    "source": ":d",
+    "target": "très heureux",
+    "frequency": 1,
+    "example_contexts": [
+      "Merci Coralie :D"
+    ]
+  },
+  {
+    "source": "ooh",
+    "target": "oh",
+    "frequency": 1,
+    "example_contexts": [
+      "ooh mon reuf t'es sexiste enft"
+    ]
+  },
+  {
+    "source": "enft",
+    "target": "en fait",
+    "frequency": 1,
+    "example_contexts": [
+      "ooh mon reuf t'es sexiste enft"
+    ]
+  },
+  {
+    "source": "waw",
+    "target": "waouh",
+    "frequency": 2,
+    "example_contexts": [
+      "waw incroyable ton message pierre",
+      "pierre waw de mieux en mieux"
+    ]
+  },
+  {
+    "source": "merite",
+    "target": "mérite",
+    "frequency": 2,
+    "example_contexts": [
+      "c'est pas intelligent mais elle merite que ca elle merite de mourrir carrement"
+    ]
+  },
+  {
+    "source": "carrement",
+    "target": "carrément",
+    "frequency": 1,
+    "example_contexts": [
+      "c'est pas intelligent mais elle merite que ca elle merite de mourrir carrement"
+    ]
+  },
+  {
+    "source": "chibre",
+    "target": "pénis",
+    "frequency": 1,
+    "example_contexts": [
+      "pierre doucement sur les chibre"
+    ]
+  },
+  {
+    "source": "gere",
+    "target": "gère",
+    "frequency": 1,
+    "example_contexts": [
+      "elle est moche frr qui la gere elle je la touche meme pas avec un javelot"
+    ]
+  },
+  {
+    "source": "craseuse",
+    "target": "crasseuse",
+    "frequency": 1,
+    "example_contexts": [
+      "craseuse"
+    ]
+  },
+  {
+    "source": "bahahha",
+    "target": "haha",
+    "frequency": 1,
+    "example_contexts": [
+      "bahahha t'es trop drole mon reuf"
+    ]
+  },
+  {
+    "source": "celibataire",
+    "target": "célibataire",
+    "frequency": 1,
+    "example_contexts": [
+      "elle restera celibataire toute sa vie la pauvre"
+    ]
+  },
+  {
+    "source": "meskinaaaa",
+    "target": "meskina",
+    "frequency": 1,
+    "example_contexts": [
+      "meskinaaaa"
+    ]
+  },
+  {
+    "source": "se",
+    "target": "ce",
+    "frequency": 1,
+    "example_contexts": [
+      "pierre t'aime bien les gorge profonde a se que je voit"
+    ]
+  },
+  {
+    "source": "voit",
+    "target": "vois",
+    "frequency": 1,
+    "example_contexts": [
+      "pierre t'aime bien les gorge profonde a se que je voit"
+    ]
+  },
+  {
+    "source": "tamère",
+    "target": "ta mère",
+    "frequency": 1,
+    "example_contexts": [
+      "surtout celle de tamère"
+    ]
+  },
+  {
+    "source": "pd",
+    "target": "pédé",
+    "frequency": 2,
+    "example_contexts": [
+      "ne compare pas une sale arabe a ma soeur pd suceur",
+      "ils sont pd c'est pour çca"
+    ]
+  },
+  {
+    "source": "geule",
+    "target": "gueule",
+    "frequency": 2,
+    "example_contexts": [
+      "obliger de mettre un sac poubelle sur sa sale geule tellement elle est scheum quand elle suce",
+      "si. on verra plus ta geule sale fatimata"
+    ]
+  },
+  {
+    "source": "scheum",
+    "target": "moche",
+    "frequency": 1,
+    "example_contexts": [
+      "obliger de mettre un sac poubelle sur sa sale geule tellement elle est scheum quand elle suce"
+    ]
+  },
+  {
+    "source": "arreter",
+    "target": "arrêter",
+    "frequency": 1,
+    "example_contexts": [
+      "arreter les insultes envers ces origines qui n'ont rien avoir avec sa personnalité"
+    ]
+  },
+  {
+    "source": "sayer",
+    "target": "ça y est",
+    "frequency": 1,
+    "example_contexts": [
+      "pierre ntm sayer frr t cho sur moi"
+    ]
+  },
+  {
+    "source": "daron",
+    "target": "père",
+    "frequency": 1,
+    "example_contexts": [
+      "elle me paye pour la soulever tellement ton daron il c'est rien faire Leo68"
+    ]
+  },
+  {
+    "source": "raport",
+    "target": "rapport",
+    "frequency": 1,
+    "example_contexts": [
+      "Quelle est le raport ? tu vas dire cochon as chaque phrase"
+    ]
+  },
+  {
+    "source": "as",
+    "target": "à",
+    "frequency": 1,
+    "example_contexts": [
+      "Quelle est le raport ? tu vas dire cochon as chaque phrase"
+    ]
+  },
+  {
+    "source": "azllez",
+    "target": "allez",
+    "frequency": 1,
+    "example_contexts": [
+      "fatimah et pierre azllez vous faire enculer par un gros cochon"
+    ]
+  },
+  {
+    "source": "ouiii",
+    "target": "oui",
+    "frequency": 1,
+    "example_contexts": [
+      "ouiii"
+    ]
+  },
+  {
+    "source": "halouf",
+    "target": "porc",
+    "frequency": 1,
+    "example_contexts": [
+      "fatimah vas manger du halouf"
+    ]
+  },
+  {
+    "source": "x-p",
+    "target": "grimace amusée",
+    "frequency": 1,
+    "example_contexts": [
+      "X-P"
+    ]
+  },
+  {
+    "source": "su",
+    "target": "sur",
+    "frequency": 1,
+    "example_contexts": [
+      "juste pourquoi vous l'insulter su rce qu'elle mange ou autre"
+    ]
+  },
+  {
+    "source": "rce",
+    "target": "ce",
+    "frequency": 1,
+    "example_contexts": [
+      "juste pourquoi vous l'insulter su rce qu'elle mange ou autre"
+    ]
+  },
+  {
+    "source": "uc",
+    "target": "cul",
+    "frequency": 1,
+    "example_contexts": [
+      "elle est aussi utile que mes poils de uc fatimah"
+    ]
+  },
+  {
+    "source": "çca",
+    "target": "ça",
+    "frequency": 1,
+    "example_contexts": [
+      "ils sont pd c'est pour çca"
+    ]
+  },
+  {
+    "source": "yaura",
+    "target": "il y aura",
+    "frequency": 1,
+    "example_contexts": [
+      "fatimah t'es une grosse salope donc bouge et yaura plus de prbl"
+    ]
+  },
+  {
+    "source": "prbl",
+    "target": "problème",
+    "frequency": 1,
+    "example_contexts": [
+      "fatimah t'es une grosse salope donc bouge et yaura plus de prbl"
+    ]
+  },
+  {
+    "source": "sucide",
+    "target": "suicide",
+    "frequency": 1,
+    "example_contexts": [
+      "oue sucide toi"
+    ]
+  },
+  {
+    "source": "meur",
+    "target": "meurt",
+    "frequency": 1,
+    "example_contexts": [
+      "pierre il souleve un gros porc meur"
+    ]
+  },
+  {
+    "source": "daronne",
+    "target": "mères",
+    "frequency": 1,
+    "example_contexts": [
+      "vos daronne elles on toute le sida a force de sucé des pangolin"
+    ]
+  },
+  {
+    "source": "genant",
+    "target": "gênant",
+    "frequency": 1,
+    "example_contexts": [
+      "euh pierre t'es genant"
+    ]
+  },
+  {
+    "source": "ephad",
+    "target": "ehpad",
+    "frequency": 1,
+    "example_contexts": [
+      "Retourner vous chiez dessus en ephad"
+    ]
+  },
+  {
+    "source": "préferance",
+    "target": "préférence",
+    "frequency": 1,
+    "example_contexts": [
+      "ou en schimio selon préferance"
+    ]
+  },
+  {
+    "source": "parceque",
+    "target": "parce que",
+    "frequency": 1,
+    "example_contexts": [
+      "Kate t'es pas obliger d'insulter parceque tu te sens mal d'être moins belle"
+    ]
+  },
+  {
+    "source": "mort",
+    "target": "morts",
+    "frequency": 1,
+    "example_contexts": [
+      "nique t mort"
+    ]
+  },
+  {
+    "source": "arette",
+    "target": "arrête",
+    "frequency": 1,
+    "example_contexts": [
+      "arette d'etre jalouse un peu @julie"
+    ]
+  }
+]
