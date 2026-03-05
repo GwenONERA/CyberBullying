@@ -1,0 +1,1058 @@
+[
+  {
+    "source": "jvais",
+    "target": "je vais",
+    "frequency": 1,
+    "example_contexts": [
+      "ferme ta gueule jvais te faire bouffer ma bite"
+    ]
+  },
+  {
+    "source": "fiac",
+    "target": "cul",
+    "frequency": 1,
+    "example_contexts": [
+      "ferme ton fiac on arrive pas a s'entendre"
+    ]
+  },
+  {
+    "source": "d'hab",
+    "target": "d'habitude",
+    "frequency": 1,
+    "example_contexts": [
+      "comme d'hab"
+    ]
+  },
+  {
+    "source": "ces",
+    "target": "c'est",
+    "frequency": 1,
+    "example_contexts": [
+      "ces les singes qui savent pas nager"
+    ]
+  },
+  {
+    "source": "ca",
+    "target": "ça",
+    "frequency": 6,
+    "example_contexts": [
+      "la merde ca sort par le cul et pas par la bouche leo77 et Paul72 ;P",
+      "he ho c pas gentil tt ca",
+      "Pierre reste en dehors de tout ca julie et kate sont drole"
+    ]
+  },
+  {
+    "source": ";p",
+    "target": "clin d'œil",
+    "frequency": 1,
+    "example_contexts": [
+      "la merde ca sort par le cul et pas par la bouche leo77 et Paul72 ;P"
+    ]
+  },
+  {
+    "source": "d'en",
+    "target": "dans",
+    "frequency": 1,
+    "example_contexts": [
+      "t'as déjà vu un noir d'en l'eau il coule"
+    ]
+  },
+  {
+    "source": "j",
+    "target": "je",
+    "frequency": 2,
+    "example_contexts": [
+      "coralie j vais tellement t'neculer qu'on va retrouver du petrole dans ton cul enculer",
+      "j ai une ak 47 dans le caleco,"
+    ]
+  },
+  {
+    "source": "neculer",
+    "target": "enculer",
+    "frequency": 1,
+    "example_contexts": [
+      "coralie j vais tellement t'neculer qu'on va retrouver du petrole dans ton cul enculer"
+    ]
+  },
+  {
+    "source": "c",
+    "target": "c'",
+    "frequency": 1,
+    "example_contexts": [
+      "ouais c est vrai fatimah a rasion"
+    ]
+  },
+  {
+    "source": "c",
+    "target": "c'est",
+    "frequency": 11,
+    "example_contexts": [
+      "C fat quand elle nage",
+      "he ho c pas gentil tt ca",
+      "bon... fatimah elle a ptt pas volés vos mecsptt c eux qui sont allée la voir"
+    ]
+  },
+  {
+    "source": "c",
+    "target": "sais",
+    "frequency": 1,
+    "example_contexts": [
+      "mais fait le aussi on c jamais"
+    ]
+  },
+  {
+    "source": "fat",
+    "target": "impressionnant",
+    "frequency": 1,
+    "example_contexts": [
+      "C fat quand elle nage"
+    ]
+  },
+  {
+    "source": "stp",
+    "target": "s'il te plaît",
+    "frequency": 3,
+    "example_contexts": [
+      "Julie stp stop",
+      "Julie stp arrête maintenant !",
+      "pierre tu me fais bien rire mais ftg stp"
+    ]
+  },
+  {
+    "source": "chbrax",
+    "target": "pénis",
+    "frequency": 1,
+    "example_contexts": [
+      "leo77 tu pourra pas me toucher avec ton chbrax de 2cm"
+    ]
+  },
+  {
+    "source": "tgg",
+    "target": "ta gueule",
+    "frequency": 1,
+    "example_contexts": [
+      "tgg"
+    ]
+  },
+  {
+    "source": "diarrhé",
+    "target": "diarrhée",
+    "frequency": 1,
+    "example_contexts": [
+      "et toi juste une diarrhé"
+    ]
+  },
+  {
+    "source": "caleco",
+    "target": "caleçon",
+    "frequency": 1,
+    "example_contexts": [
+      "j ai une ak 47 dans le caleco,"
+    ]
+  },
+  {
+    "source": "jme",
+    "target": "je me",
+    "frequency": 1,
+    "example_contexts": [
+      "aller c'est ciao les noobs jme tire"
+    ]
+  },
+  {
+    "source": "mdrrrrrr",
+    "target": "mdr",
+    "frequency": 1,
+    "example_contexts": [
+      "mdrrrrrr"
+    ]
+  },
+  {
+    "source": "mdrrr",
+    "target": "mdr",
+    "frequency": 2,
+    "example_contexts": [
+      "franchement tu fais grave la meuf mdrrr",
+      "MDRRR tu t’es vue"
+    ]
+  },
+  {
+    "source": "tt",
+    "target": "tout",
+    "frequency": 10,
+    "example_contexts": [
+      "mais arretez de vous embrouillez et tt ça sert à r la vrt",
+      "he ho c pas gentil tt ca",
+      "Oe tu voles les mecs de tt le monde la et tu te prends pour Chepa qui"
+    ]
+  },
+  {
+    "source": "r",
+    "target": "rien",
+    "frequency": 7,
+    "example_contexts": [
+      "mais arretez de vous embrouillez et tt ça sert à r la vrt",
+      "mais arretez ça sert à r de vous embrouiller",
+      "mais arretez de vous embrouillez pr r"
+    ]
+  },
+  {
+    "source": "vrt",
+    "target": "vérité",
+    "frequency": 1,
+    "example_contexts": [
+      "mais arretez de vous embrouillez et tt ça sert à r la vrt"
+    ]
+  },
+  {
+    "source": "meme",
+    "target": "même",
+    "frequency": 5,
+    "example_contexts": [
+      "meme paul et leo le disent tu veux tous les mecs pr toi tg pauline arrête de la defendre",
+      "je veux meme pas deux",
+      "meuf tu fait la meme"
+    ]
+  },
+  {
+    "source": "pr",
+    "target": "pour",
+    "frequency": 3,
+    "example_contexts": [
+      "meme paul et leo le disent tu veux tous les mecs pr toi tg pauline arrête de la defendre",
+      "mais arretez de vous embrouillez pr r",
+      "dis celui qui lui gobe les boules pr avoir son cul 🤣🤣"
+    ]
+  },
+  {
+    "source": "tg",
+    "target": "ta gueule",
+    "frequency": 7,
+    "example_contexts": [
+      "meme paul et leo le disent tu veux tous les mecs pr toi tg pauline arrête de la defendre",
+      "tg pierre tu ressemble a rien laisse julie trkl",
+      "tg tu parles trop"
+    ]
+  },
+  {
+    "source": "defendre",
+    "target": "défendre",
+    "frequency": 2,
+    "example_contexts": [
+      "meme paul et leo le disent tu veux tous les mecs pr toi tg pauline arrête de la defendre",
+      "elle a ramené ses toutous pour la defendre c mignon"
+    ]
+  },
+  {
+    "source": "oe",
+    "target": "ouais",
+    "frequency": 2,
+    "example_contexts": [
+      "Oe tu voles les mecs de tt le monde la et tu te prends pour Chepa qui",
+      "bahaha faut l'envoyer dans l'avion oe avec sa boue sur les doigts là"
+    ]
+  },
+  {
+    "source": "la",
+    "target": "là",
+    "frequency": 6,
+    "example_contexts": [
+      "Oe tu voles les mecs de tt le monde la et tu te prends pour Chepa qui",
+      "la go elle vole nos mecs et tu crois on va la laisser trql cette algerienne la retourne dans ton pays",
+      "qu’elle degage l’algérienne de mes couilles la"
+    ]
+  },
+  {
+    "source": "chepa",
+    "target": "je ne sais pas",
+    "frequency": 2,
+    "example_contexts": [
+      "Oe tu voles les mecs de tt le monde la et tu te prends pour Chepa qui",
+      "Chepa pour qui elle se prend vrm"
+    ]
+  },
+  {
+    "source": "ouf",
+    "target": "fou",
+    "frequency": 1,
+    "example_contexts": [
+      "de  ouf on t'as cramé chuis d'accord avec julie et Kate"
+    ]
+  },
+  {
+    "source": "chuis",
+    "target": "je suis",
+    "frequency": 2,
+    "example_contexts": [
+      "de  ouf on t'as cramé chuis d'accord avec julie et Kate",
+      "nan chuis d'accord avec lui"
+    ]
+  },
+  {
+    "source": "jla",
+    "target": "je la",
+    "frequency": 2,
+    "example_contexts": [
+      "mais jla défends pas juste jessaye juste d'arranger les choses",
+      "ptdrrr jla défends pas wsh"
+    ]
+  },
+  {
+    "source": "jessaye",
+    "target": "j'essaie",
+    "frequency": 1,
+    "example_contexts": [
+      "mais jla défends pas juste jessaye juste d'arranger les choses"
+    ]
+  },
+  {
+    "source": "frr",
+    "target": "frère",
+    "frequency": 2,
+    "example_contexts": [
+      "ouais bah casse toi on a pas besoin de toi frr",
+      "on se calme pas ici personne veut d'elle frr"
+    ]
+  },
+  {
+    "source": "dacc",
+    "target": "d'accord",
+    "frequency": 1,
+    "example_contexts": [
+      "ah ok dacc"
+    ]
+  },
+  {
+    "source": "trkl",
+    "target": "tranquille",
+    "frequency": 2,
+    "example_contexts": [
+      "tg pierre tu ressemble a rien laisse julie trkl",
+      "Bah laisse les mecs trkl alors"
+    ]
+  },
+  {
+    "source": "mdrrrr",
+    "target": "mdr",
+    "frequency": 3,
+    "example_contexts": [
+      "merci paul mdrrrr",
+      "mdrrrr pauline degage tu vois pas on a raison",
+      "MDRRRR"
+    ]
+  },
+  {
+    "source": "sa",
+    "target": "ça",
+    "frequency": 2,
+    "example_contexts": [
+      "ouais sa pompe par ici",
+      "vous etes tous mechant elle fait rien et vous dites sa"
+    ]
+  },
+  {
+    "source": "nan",
+    "target": "non",
+    "frequency": 2,
+    "example_contexts": [
+      "ah bah nan",
+      "nan chuis d'accord avec lui"
+    ]
+  },
+  {
+    "source": "pk",
+    "target": "pourquoi",
+    "frequency": 3,
+    "example_contexts": [
+      "pk vs vs embrouillez mm?",
+      "oui mais pk ils se moquent de toi?",
+      "pk vous dites des trucs racistes"
+    ]
+  },
+  {
+    "source": "vs",
+    "target": "vous",
+    "frequency": 5,
+    "example_contexts": [
+      "pk vs vs embrouillez mm?",
+      "vs êtes pas dans l’histoire vs vs mêlez de tt cassez vous"
+    ]
+  },
+  {
+    "source": "mm",
+    "target": "même",
+    "frequency": 1,
+    "example_contexts": [
+      "pk vs vs embrouillez mm?"
+    ]
+  },
+  {
+    "source": "drole",
+    "target": "drôle",
+    "frequency": 1,
+    "example_contexts": [
+      "Pierre reste en dehors de tout ca julie et kate sont drole"
+    ]
+  },
+  {
+    "source": "trql",
+    "target": "tranquille",
+    "frequency": 1,
+    "example_contexts": [
+      "la go elle vole nos mecs et tu crois on va la laisser trql cette algerienne la retourne dans ton pays"
+    ]
+  },
+  {
+    "source": "t",
+    "target": "t'es",
+    "frequency": 2,
+    "example_contexts": [
+      "tu fait la meme t a ta pote qui vien et qui te renifle le cul",
+      "tu t en prend a tt le monde car soit disant t connue"
+    ]
+  },
+  {
+    "source": "t",
+    "target": "te",
+    "frequency": 1,
+    "example_contexts": [
+      "tu t en prend a tt le monde car soit disant t connue"
+    ]
+  },
+  {
+    "source": "t",
+    "target": "tu es",
+    "frequency": 2,
+    "example_contexts": [
+      "t vrmt bizzare",
+      "toi tu es jalouse d elle juste parce que t rincer"
+    ]
+  },
+  {
+    "source": "vrmt",
+    "target": "vraiment",
+    "frequency": 1,
+    "example_contexts": [
+      "t vrmt bizzare"
+    ]
+  },
+  {
+    "source": "jte",
+    "target": "je te",
+    "frequency": 3,
+    "example_contexts": [
+      "pierre jte conseille de la fermer",
+      "pauline jte jure ferme la avant que jten colle une",
+      "viens irl jte fais manger le goudron"
+    ]
+  },
+  {
+    "source": "prcq",
+    "target": "parce que",
+    "frequency": 1,
+    "example_contexts": [
+      "Prcq elle fait chier tt le monde, elle fait la gentille en face mais derrière elle voles les mecs de tt le monde la"
+    ]
+  },
+  {
+    "source": "tqt",
+    "target": "t'inquiète",
+    "frequency": 1,
+    "example_contexts": [
+      "tu roules du cul devant tt le monde mais tqt tu veux pas attirer les mecs🤣"
+    ]
+  },
+  {
+    "source": "🤣",
+    "target": "rire",
+    "frequency": 1,
+    "example_contexts": [
+      "tu roules du cul devant tt le monde mais tqt tu veux pas attirer les mecs🤣"
+    ]
+  },
+  {
+    "source": "ptt",
+    "target": "peut-être",
+    "frequency": 2,
+    "example_contexts": [
+      "bon... fatimah elle a ptt pas volés vos mecsptt c eux qui sont allée la voir"
+    ]
+  },
+  {
+    "source": "mskn",
+    "target": "miskin",
+    "frequency": 1,
+    "example_contexts": [
+      "mskn"
+    ]
+  },
+  {
+    "source": "prsk",
+    "target": "parce que",
+    "frequency": 1,
+    "example_contexts": [
+      "prsk bon les mecs parfois ce sont de vrais charo"
+    ]
+  },
+  {
+    "source": "charo",
+    "target": "charognard",
+    "frequency": 1,
+    "example_contexts": [
+      "prsk bon les mecs parfois ce sont de vrais charo"
+    ]
+  },
+  {
+    "source": "mdrrrrr",
+    "target": "mdr",
+    "frequency": 1,
+    "example_contexts": [
+      "MDRRRRR grv kate a raison c’est abusé cmt elle ft trop la meuf"
+    ]
+  },
+  {
+    "source": "grv",
+    "target": "grave",
+    "frequency": 2,
+    "example_contexts": [
+      "MDRRRRR grv kate a raison c’est abusé cmt elle ft trop la meuf",
+      "grv pierre a raison"
+    ]
+  },
+  {
+    "source": "cmt",
+    "target": "comment",
+    "frequency": 1,
+    "example_contexts": [
+      "MDRRRRR grv kate a raison c’est abusé cmt elle ft trop la meuf"
+    ]
+  },
+  {
+    "source": "ft",
+    "target": "fait",
+    "frequency": 1,
+    "example_contexts": [
+      "MDRRRRR grv kate a raison c’est abusé cmt elle ft trop la meuf"
+    ]
+  },
+  {
+    "source": "vrm",
+    "target": "vraiment",
+    "frequency": 2,
+    "example_contexts": [
+      "Chepa pour qui elle se prend vrm",
+      "Mais tg toi vrm"
+    ]
+  },
+  {
+    "source": "mddrrr",
+    "target": "mdr",
+    "frequency": 1,
+    "example_contexts": [
+      "j’avoue mddrrr cette pute"
+    ]
+  },
+  {
+    "source": "a",
+    "target": "à",
+    "frequency": 8,
+    "example_contexts": [
+      "tu te pointe et fait la meuf pour attirer les gars autour de toi elle ne fait rien de mal ils viennent a elle c tt",
+      "tu fait la meme t a ta pote qui vien et qui te renifle le cul",
+      "vous etes tellement des merdes a vous en prendre a elle tu fume un trop"
+    ]
+  },
+  {
+    "source": "cb",
+    "target": "combien",
+    "frequency": 1,
+    "example_contexts": [
+      "Pauline elle t’a payé cb pour la défendre mdr"
+    ]
+  },
+  {
+    "source": "nn",
+    "target": "non",
+    "frequency": 2,
+    "example_contexts": [
+      "nn ta fumer la moquette .",
+      "roh fermez là un peu nn?"
+    ]
+  },
+  {
+    "source": "ta",
+    "target": "t'as",
+    "frequency": 1,
+    "example_contexts": [
+      "ptdrrr ta trop cru quon veut tes vieux mecs JPPPPP"
+    ]
+  },
+  {
+    "source": "ta",
+    "target": "tu as",
+    "frequency": 3,
+    "example_contexts": [
+      "nn ta fumer la moquette .",
+      "meuf ta redoubler 3 fois parle pas",
+      "et toi ? ta pas d bite a pomper ?"
+    ]
+  },
+  {
+    "source": "ftg",
+    "target": "ferme ta gueule",
+    "frequency": 1,
+    "example_contexts": [
+      "pierre tu me fais bien rire mais ftg stp"
+    ]
+  },
+  {
+    "source": "roh",
+    "target": "oh",
+    "frequency": 1,
+    "example_contexts": [
+      "roh fermez là un peu nn?"
+    ]
+  },
+  {
+    "source": "ptdrrr",
+    "target": "ptdr",
+    "frequency": 1,
+    "example_contexts": [
+      "ptdrrr ta trop cru quon veut tes vieux mecs JPPPPP"
+    ]
+  },
+  {
+    "source": "ptdrrr",
+    "target": "pété de rire",
+    "frequency": 1,
+    "example_contexts": [
+      "ptdrrr jla défends pas wsh"
+    ]
+  },
+  {
+    "source": "wsh",
+    "target": "wesh",
+    "frequency": 3,
+    "example_contexts": [
+      "ptdrrr jla défends pas wsh",
+      "wsh wsh canne a peche"
+    ]
+  },
+  {
+    "source": "vien",
+    "target": "vient",
+    "frequency": 1,
+    "example_contexts": [
+      "tu fait la meme t a ta pote qui vien et qui te renifle le cul"
+    ]
+  },
+  {
+    "source": "degage",
+    "target": "dégage",
+    "frequency": 1,
+    "example_contexts": [
+      "qu’elle degage l’algérienne de mes couilles la"
+    ]
+  },
+  {
+    "source": "rasion",
+    "target": "raison",
+    "frequency": 1,
+    "example_contexts": [
+      "ouais c est vrai fatimah a rasion"
+    ]
+  },
+  {
+    "source": "unb",
+    "target": "un",
+    "frequency": 1,
+    "example_contexts": [
+      "tu arrive et tu lui saute dessus c pas unb morceau de viande laisse la"
+    ]
+  },
+  {
+    "source": "cbvn",
+    "target": "connard bien vénère",
+    "frequency": 1,
+    "example_contexts": [
+      "fatimah a déjà dit qu'elle a r fait donc cbvn arretez"
+    ]
+  },
+  {
+    "source": "arretez",
+    "target": "arrêtez",
+    "frequency": 1,
+    "example_contexts": [
+      "fatimah a déjà dit qu'elle a r fait donc cbvn arretez"
+    ]
+  },
+  {
+    "source": "jten",
+    "target": "je t'en",
+    "frequency": 1,
+    "example_contexts": [
+      "pauline jte jure ferme la avant que jten colle une"
+    ]
+  },
+  {
+    "source": "oulala",
+    "target": "oh là là",
+    "frequency": 1,
+    "example_contexts": [
+      "oulala octogone"
+    ]
+  },
+  {
+    "source": "🤣🤣",
+    "target": "rire fort",
+    "frequency": 1,
+    "example_contexts": [
+      "dis celui qui lui gobe les boules pr avoir son cul 🤣🤣"
+    ]
+  },
+  {
+    "source": "vasy",
+    "target": "vas-y",
+    "frequency": 1,
+    "example_contexts": [
+      "beh vasy g pas peur de toi"
+    ]
+  },
+  {
+    "source": "g",
+    "target": "j'ai",
+    "frequency": 1,
+    "example_contexts": [
+      "beh vasy g pas peur de toi"
+    ]
+  },
+  {
+    "source": "koi",
+    "target": "quoi",
+    "frequency": 1,
+    "example_contexts": [
+      "tu veux prouver koi sale folle"
+    ]
+  },
+  {
+    "source": "tjr",
+    "target": "toujours",
+    "frequency": 1,
+    "example_contexts": [
+      "tjr julie"
+    ]
+  },
+  {
+    "source": "irl",
+    "target": "in real life",
+    "frequency": 1,
+    "example_contexts": [
+      "viens irl jte fais manger le goudron"
+    ]
+  },
+  {
+    "source": "etes",
+    "target": "êtes",
+    "frequency": 2,
+    "example_contexts": [
+      "vous etes tellement des merdes a vous en prendre a elle tu fume un trop",
+      "C'est quoi ces commentaires raciste la ?? vous etes serieux ?"
+    ]
+  },
+  {
+    "source": "dz",
+    "target": "algériens",
+    "frequency": 1,
+    "example_contexts": [
+      "tu vas ramener tes 30 cousins les DZ"
+    ]
+  },
+  {
+    "source": "rincer",
+    "target": "usée / sans valeur",
+    "frequency": 1,
+    "example_contexts": [
+      "toi tu es jalouse d elle juste parce que t rincer"
+    ]
+  },
+  {
+    "source": "clc",
+    "target": "casse les couilles",
+    "frequency": 1,
+    "example_contexts": [
+      "bref ça y est elle clc qu’elle arrête de faire la go devant nos mecs cette pute"
+    ]
+  },
+  {
+    "source": "go",
+    "target": "fille",
+    "frequency": 1,
+    "example_contexts": [
+      "bref ça y est elle clc qu’elle arrête de faire la go devant nos mecs cette pute"
+    ]
+  },
+  {
+    "source": "cbn",
+    "target": "c'est bon",
+    "frequency": 1,
+    "example_contexts": [
+      "et cbn arretez avc vos vieilles histoires ça sert a r"
+    ]
+  },
+  {
+    "source": "avc",
+    "target": "avec",
+    "frequency": 1,
+    "example_contexts": [
+      "et cbn arretez avc vos vieilles histoires ça sert a r"
+    ]
+  },
+  {
+    "source": "owow",
+    "target": "wow",
+    "frequency": 1,
+    "example_contexts": [
+      "owow elle s enerve l autre folle"
+    ]
+  },
+  {
+    "source": "daleux",
+    "target": "personnes excitées sexuellement",
+    "frequency": 1,
+    "example_contexts": [
+      "tg fatima tu vient a poil pour attirer les daleux julie et kate te mettent une vitesse en beauté"
+    ]
+  },
+  {
+    "source": "salée",
+    "target": "vexée",
+    "frequency": 1,
+    "example_contexts": [
+      "julie elle m'agresse elle est salée"
+    ]
+  },
+  {
+    "source": "gober les boules",
+    "target": "faire une fellation",
+    "frequency": 1,
+    "example_contexts": [
+      "c ça pierre continue de lui gober les boules"
+    ]
+  },
+  {
+    "source": "y’a",
+    "target": "il y a",
+    "frequency": 1,
+    "example_contexts": [
+      "Mais y’a pas à la défendre comme ça, elle vous a promis de partager les mecs en échange ou quoi"
+    ]
+  },
+  {
+    "source": "deja",
+    "target": "déjà",
+    "frequency": 2,
+    "example_contexts": [
+      "mais arretez, fatimah a deja ditt quelle a r fait et quelle veut pas de vos vieux mecs",
+      "Tu fous quoi la toi deja"
+    ]
+  },
+  {
+    "source": "ditt",
+    "target": "dit",
+    "frequency": 1,
+    "example_contexts": [
+      "mais arretez, fatimah a deja ditt quelle a r fait et quelle veut pas de vos vieux mecs"
+    ]
+  },
+  {
+    "source": "quelle",
+    "target": "qu'elle",
+    "frequency": 2,
+    "example_contexts": [
+      "mais arretez, fatimah a deja ditt quelle a r fait et quelle veut pas de vos vieux mecs"
+    ]
+  },
+  {
+    "source": "enerver",
+    "target": "énerver",
+    "frequency": 1,
+    "example_contexts": [
+      "c est vous vous enerver pour r"
+    ]
+  },
+  {
+    "source": "quon",
+    "target": "qu'on",
+    "frequency": 1,
+    "example_contexts": [
+      "ptdrrr ta trop cru quon veut tes vieux mecs JPPPPP"
+    ]
+  },
+  {
+    "source": "jppppp",
+    "target": "jpp",
+    "frequency": 1,
+    "example_contexts": [
+      "ptdrrr ta trop cru quon veut tes vieux mecs JPPPPP"
+    ]
+  },
+  {
+    "source": "t'",
+    "target": "tu",
+    "frequency": 1,
+    "example_contexts": [
+      "coralie t'arrive encore a parler avec tout ca dans la bouche"
+    ]
+  },
+  {
+    "source": "ahahhahaha",
+    "target": "ahah",
+    "frequency": 1,
+    "example_contexts": [
+      "AHAHHAHAHA"
+    ]
+  },
+  {
+    "source": "mdrr",
+    "target": "mdr",
+    "frequency": 1,
+    "example_contexts": [
+      "MDRR"
+    ]
+  },
+  {
+    "source": "\\o/",
+    "target": "joie",
+    "frequency": 1,
+    "example_contexts": [
+      "\\O/"
+    ]
+  },
+  {
+    "source": "d",
+    "target": "de",
+    "frequency": 1,
+    "example_contexts": [
+      "et toi ? ta pas d bite a pomper ?"
+    ]
+  },
+  {
+    "source": "bonjù",
+    "target": "bonjour",
+    "frequency": 1,
+    "example_contexts": [
+      "bonjù"
+    ]
+  },
+  {
+    "source": "salutttt",
+    "target": "salut",
+    "frequency": 1,
+    "example_contexts": [
+      "salutttt"
+    ]
+  },
+  {
+    "source": "06",
+    "target": "numéro de téléphone",
+    "frequency": 1,
+    "example_contexts": [
+      "Mademoiselle vous m'avais l'air très charmante moyen d'avoir un 06 petite Coralie"
+    ]
+  },
+  {
+    "source": "bahahah",
+    "target": "haha",
+    "frequency": 1,
+    "example_contexts": [
+      "bahahah tu veux le num d'une immigrée ?"
+    ]
+  },
+  {
+    "source": "num",
+    "target": "numéro",
+    "frequency": 1,
+    "example_contexts": [
+      "bahahah tu veux le num d'une immigrée ?"
+    ]
+  },
+  {
+    "source": "mdr",
+    "target": "mort de rire",
+    "frequency": 1,
+    "example_contexts": [
+      "j'avoue mdr"
+    ]
+  },
+  {
+    "source": "bahaha",
+    "target": "hahaha",
+    "frequency": 1,
+    "example_contexts": [
+      "bahaha faut l'envoyer dans l'avion oe avec sa boue sur les doigts là"
+    ]
+  },
+  {
+    "source": "fréro",
+    "target": "frère",
+    "frequency": 1,
+    "example_contexts": [
+      "wow ça c'est limite fréro calme le jeux"
+    ]
+  },
+  {
+    "source": "jeux",
+    "target": "jeu",
+    "frequency": 1,
+    "example_contexts": [
+      "wow ça c'est limite fréro calme le jeux"
+    ]
+  },
+  {
+    "source": "reuf",
+    "target": "frère",
+    "frequency": 1,
+    "example_contexts": [
+      "faut être honnête dans la vie mon reuf"
+    ]
+  },
+  {
+    "source": "ouuuh",
+    "target": "ouh",
+    "frequency": 1,
+    "example_contexts": [
+      "ouuuh mais c'est que on protège la petite immigrée"
+    ]
+  },
+  {
+    "source": "serieux",
+    "target": "sérieux",
+    "frequency": 1,
+    "example_contexts": [
+      "C'est quoi ces commentaires raciste la ?? vous etes serieux ?"
+    ]
+  },
+  {
+    "source": "djiadiste",
+    "target": "djihadiste",
+    "frequency": 1,
+    "example_contexts": [
+      "toi la djiadiste on t,as pas parlé donc ta geule"
+    ]
+  },
+  {
+    "source": "t,as",
+    "target": "t'as",
+    "frequency": 1,
+    "example_contexts": [
+      "toi la djiadiste on t,as pas parlé donc ta geule"
+    ]
+  },
+  {
+    "source": "geule",
+    "target": "gueule",
+    "frequency": 1,
+    "example_contexts": [
+      "toi la djiadiste on t,as pas parlé donc ta geule"
+    ]
+  }
+]
