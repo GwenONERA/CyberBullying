@@ -1,0 +1,391 @@
+[
+  {
+    "source": "💔",
+    "target": "chagrin",
+    "frequency": 3,
+    "example_contexts": [
+      "et alors elle vas pleurer 💔😢💔😢💔😢"
+    ]
+  },
+  {
+    "source": "😢",
+    "target": "pleurs",
+    "frequency": 3,
+    "example_contexts": [
+      "et alors elle vas pleurer 💔😢💔😢💔😢"
+    ]
+  },
+  {
+    "source": "👎🏻",
+    "target": "désaccord",
+    "frequency": 2,
+    "example_contexts": [
+      "Anomalie 👎🏻👎🏻"
+    ]
+  },
+  {
+    "source": "🤣",
+    "target": "rire",
+    "frequency": 2,
+    "example_contexts": [
+      "mwa aussi francois😘🤣",
+      "tu roules du cul devant tt le monde mais tqt tu veux pas attirer les mecs🤣"
+    ]
+  },
+  {
+    "source": "🐷",
+    "target": "cochon",
+    "frequency": 1,
+    "example_contexts": [
+      "T toi 🐷"
+    ]
+  },
+  {
+    "source": "👹👹👹👹",
+    "target": "colère",
+    "frequency": 1,
+    "example_contexts": [
+      "donne moi ton maillot Fatima👹👹👹👹"
+    ]
+  },
+  {
+    "source": "🔪",
+    "target": "menace",
+    "frequency": 1,
+    "example_contexts": [
+      "aurelie fais gaffe à toi🔪"
+    ]
+  },
+  {
+    "source": "😆",
+    "target": "rire",
+    "frequency": 1,
+    "example_contexts": [
+      "ouai c'etait trop bien 😆"
+    ]
+  },
+  {
+    "source": "😗",
+    "target": "baiser",
+    "frequency": 1,
+    "example_contexts": [
+      "J’aimerais bronzé comme toi 😗"
+    ]
+  },
+  {
+    "source": "😘",
+    "target": "bisous",
+    "frequency": 1,
+    "example_contexts": [
+      "mwa aussi francois😘🤣"
+    ]
+  },
+  {
+    "source": "😝",
+    "target": "taquin",
+    "frequency": 1,
+    "example_contexts": [
+      "Tkt t’es belle Fatima rrrrrrrr😝"
+    ]
+  },
+  {
+    "source": "😡",
+    "target": "colère",
+    "frequency": 1,
+    "example_contexts": [
+      "fface la photo Pauline !😡"
+    ]
+  },
+  {
+    "source": "😤",
+    "target": "frustration",
+    "frequency": 1,
+    "example_contexts": [
+      "je comprend poas comment vous piuvez défendre des gens qui disent et font des choses pareils 😤"
+    ]
+  },
+  {
+    "source": "😹",
+    "target": "moquerie",
+    "frequency": 1,
+    "example_contexts": [
+      "Jsuis pas jalouse de Fatima moi😹 MDMRMRR"
+    ]
+  },
+  {
+    "source": "😹😹",
+    "target": "rire",
+    "frequency": 1,
+    "example_contexts": [
+      "elle est mate😹😹"
+    ]
+  },
+  {
+    "source": "🙄",
+    "target": "roulement d'yeux",
+    "frequency": 1,
+    "example_contexts": [
+      "non mais pas grave il existe le clan des jaloux en somme 🙄"
+    ]
+  },
+  {
+    "source": "🙄",
+    "target": "soupir",
+    "frequency": 1,
+    "example_contexts": [
+      "ca ce fait pas d'avoir fait ca 🙄"
+    ]
+  },
+  {
+    "source": "🙄",
+    "target": "exaspération",
+    "frequency": 1,
+    "example_contexts": [
+      "mais bien sur que si 🙄puis tait toi theresa toi t'es juste un petit toutou derrière pauline qui se cache derrière son ordi"
+    ]
+  },
+  {
+    "source": "🤣🤣",
+    "target": "rire fort",
+    "frequency": 1,
+    "example_contexts": [
+      "dis celui qui lui gobe les boules pr avoir son cul 🤣🤣"
+    ]
+  },
+  {
+    "source": ":)",
+    "target": "sourire",
+    "frequency": 6,
+    "example_contexts": [
+      "theresa  avoue :)",
+      "Tu devrais faire un gros régime Zoé Si tu veux je t'aide :)",
+      "Allez-y hein, on se voit au lycée et on en parle, dégonflés :)",
+      "c'est pas grave d'avoir des complexes d'infériorité :)",
+      "jai pas besoin d'embrasser un mec en le forcant moi :)"
+    ]
+  },
+  {
+    "source": "xd",
+    "target": "rire",
+    "frequency": 6,
+    "example_contexts": [
+      "c'est quoi cette punchline XD",
+      "XD XD",
+      "bien fait xD c'est toi tes sale jsuis sure qtu suces  la chatte de ta mere",
+      "XD",
+      "Bahahaha elle me fume cette meuf xD"
+    ]
+  },
+  {
+    "source": "<3",
+    "target": "cœur",
+    "frequency": 2,
+    "example_contexts": [
+      "faites l'amour pas la guerre mes vies <3",
+      "Cimer <3"
+    ]
+  },
+  {
+    "source": ":d",
+    "target": "grand sourire",
+    "frequency": 1,
+    "example_contexts": [
+      "Salut les cop1 :D"
+    ]
+  },
+  {
+    "source": ":d",
+    "target": "très heureux",
+    "frequency": 1,
+    "example_contexts": [
+      "Merci Coralie :D"
+    ]
+  },
+  {
+    "source": ";)",
+    "target": "clin d'œil",
+    "frequency": 1,
+    "example_contexts": [
+      "jimmy aucupe toi de ton cue que paul encule ;)"
+    ]
+  },
+  {
+    "source": ";p",
+    "target": "clin d'œil moqueur",
+    "frequency": 1,
+    "example_contexts": [
+      "la merde ca sort par le cul et pas par la bouche leo77 et Paul72 ;P"
+    ]
+  },
+  {
+    "source": ";p",
+    "target": "clin d'œil",
+    "frequency": 1,
+    "example_contexts": [
+      "la merde ca sort par le cul et pas par la bouche leo77 et Paul72 ;P"
+    ]
+  },
+  {
+    "source": "<3",
+    "target": "amour",
+    "frequency": 1,
+    "example_contexts": [
+      "oui… <3"
+    ]
+  },
+  {
+    "source": "^^",
+    "target": "content",
+    "frequency": 1,
+    "example_contexts": [
+      "Franchement si c'est juste ça c'est cool .Mais me fait plus jamais ça stp ^^"
+    ]
+  },
+  {
+    "source": "x)",
+    "target": "clin d'œil",
+    "frequency": 1,
+    "example_contexts": [
+      "</3 >.< X) D: =$"
+    ]
+  },
+  {
+    "source": "-_-",
+    "target": "agacement / désapprobation / exaspération",
+    "frequency": 2,
+    "example_contexts": [
+      "Julien mais arêter de vous attaquez qur des trucs commace, faites du sport je sais pas moi-_- -_-"
+    ]
+  },
+  {
+    "source": "</3",
+    "target": "cœur brisé",
+    "frequency": 1,
+    "example_contexts": [
+      "</3 >.< X) D: =$"
+    ]
+  },
+  {
+    "source": "</3",
+    "target": "cœur brisé / chagrin",
+    "frequency": 1,
+    "example_contexts": [
+      "j'vais briser ton cul  comme ca </3"
+    ]
+  },
+  {
+    "source": ">.<",
+    "target": "gêne",
+    "frequency": 1,
+    "example_contexts": [
+      "</3 >.< X) D: =$"
+    ]
+  },
+  {
+    "source": ":')",
+    "target": "rire aux larmes",
+    "frequency": 10,
+    "example_contexts": [
+      ":') :') :') :') sexyyyy tout le contraire de zoe",
+      ":') :') :') :') :') un tour de la ville sa tirais pour que tu maigris",
+      "bah oui t'es une bombe à retardement :')"
+    ]
+  },
+  {
+    "source": ":')",
+    "target": "sourire",
+    "frequency": 8,
+    "example_contexts": [
+      "non on arrete pas:') :') :') :') il est grosse",
+      "ta vu :') :') :') :')"
+    ]
+  },
+  {
+    "source": "d:",
+    "target": "dégoût",
+    "frequency": 4,
+    "example_contexts": [
+      "D: D: D: D:"
+    ]
+  },
+  {
+    "source": ":')",
+    "target": "rire larmoyant",
+    "frequency": 2,
+    "example_contexts": [
+      "c'est pas dans son pays qu'elle en aura :') :')"
+    ]
+  },
+  {
+    "source": "'=(",
+    "target": "tristesse/pleurs",
+    "frequency": 1,
+    "example_contexts": [
+      "'=(  Nicolas  t\"es trop con  arrete d'etre  bete  et essaie de  comprendre   ton attitude ne te rend pas populaire"
+    ]
+  },
+  {
+    "source": "'=d",
+    "target": "rire très fort / grimace amusée",
+    "frequency": 1,
+    "example_contexts": [
+      "amine94 ahahahah '=D  la punchline pourrie"
+    ]
+  },
+  {
+    "source": "8)",
+    "target": "sourire",
+    "frequency": 1,
+    "example_contexts": [
+      "rabi jacob 8)"
+    ]
+  },
+  {
+    "source": ":o",
+    "target": "surprise",
+    "frequency": 1,
+    "example_contexts": [
+      "je te demande pardon ?! :O"
+    ]
+  },
+  {
+    "source": ";d",
+    "target": "rire",
+    "frequency": 1,
+    "example_contexts": [
+      "rien prouve que c'est moi ;D"
+    ]
+  },
+  {
+    "source": "=$",
+    "target": "dégoûté",
+    "frequency": 1,
+    "example_contexts": [
+      "non fatima =$"
+    ]
+  },
+  {
+    "source": "\\o/",
+    "target": "personne avec les bras levés (joie, célébration, hallelujah)",
+    "frequency": 1,
+    "example_contexts": [
+      "\\O/  : toi qui tient ta kipa"
+    ]
+  },
+  {
+    "source": "\\o/",
+    "target": "joie",
+    "frequency": 1,
+    "example_contexts": [
+      "\\O/"
+    ]
+  },
+  {
+    "source": "d:",
+    "target": "tristesse",
+    "frequency": 1,
+    "example_contexts": [
+      "</3 >.< X) D: =$"
+    ]
+  }
+]
